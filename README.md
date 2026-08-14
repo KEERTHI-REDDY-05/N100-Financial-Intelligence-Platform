@@ -33,6 +33,27 @@ The platform includes:
 - Explore financial insights through an interactive Streamlit dashboard.
 - Access company, sector, peer, valuation, portfolio, and document data through FastAPI endpoints.
 - Validate backend functionality using automated Pytest API and unit tests.
+## Dashboard Preview
+
+### Platform Overview
+
+![N100 Financial Intelligence Platform Dashboard](docs/screenshots/dashboard_overview.png)
+
+### Financial Trend Analysis
+
+![Financial Trend Analysis](docs/screenshots/trend_analysis.png)
+
+### Peer Comparison
+
+![Peer Comparison](docs/screenshots/peer_comparison.png)
+
+### Sector Analysis
+
+![Sector Analysis](docs/screenshots/sector_analysis.png)
+
+### Capital Allocation Analysis
+
+![Capital Allocation Analysis](docs/screenshots/capital_allocation.png)
 ## Technology Stack
 
 - Python
