@@ -47,32 +47,53 @@ Clone the repository and navigate to the project directory, then install the req
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Build the Database
+
+The SQLite database can be rebuilt from the source Excel files using:
+
+```bash
+python build_database.py
+```
+
+This creates the database tables for companies, financial statements, ratios, sectors, peer groups, valuation data, documents, and pros/cons.
+
 ## Project Structure
 
 ```text
 N100-Financial-Intelligence-Platform/
-│
-├── data/
-│   └── n100_financial.db
-│
-├── output/
-│   ├── cluster_labels.csv
-│   ├── cluster_profiles.csv
-│   ├── portfolio_stats.csv
-│   ├── outlier_report.csv
-│   └── reports/
-│
-├── src/
-│   ├── analytics/
-│   ├── api/
-│   │   ├── main.py
-│   │   └── routers/
-│   ├── dashboard/
-│   ├── nlp/
-│   └── reports/
-│
-├── tests/
-│   └── api/
-│
-├── API_ENDPOINTS.md
-└── README.md
+|
+|-- data/
+|   |-- n100_financial.db
+|   `-- Excel source datasets
+|
+|-- output/
+|   `-- Generated analytics outputs
+|
+|-- reports/
+|   |-- tearsheets/
+|   |-- sector/
+|   `-- portfolio/
+|
+|-- scripts/
+|   `-- Data processing and utility scripts
+|
+|-- src/
+|   |-- analytics/
+|   |-- api/
+|   |   `-- routers/
+|   |-- dashboard/
+|   |   |-- pages/
+|   |   `-- utils/
+|   |-- nlp/
+|   `-- reports/
+|
+|-- tests/
+|   `-- api/
+|
+|-- API_ENDPOINTS.md
+|-- build_database.py
+|-- check_db.py
+|-- requirements.txt
+`-- README.md
