@@ -37,6 +37,16 @@ The platform includes:
 - Pytest
 - HTTPX
 
+## Requirements
+
+- Python 3.13 or later
+- pip
+### Install Dependencies
+
+Clone the repository and navigate to the project directory, then install the required Python packages:
+
+```bash
+pip install -r requirements.txt
 ## Project Structure
 
 ```text
