@@ -1,0 +1,1057 @@
+﻿company_id,sector,year,operating_activity,investing_activity,financing_activity,borrowings,capital_allocation_pattern
+ABB,Industrials,2012,101.0,-59.0,-42.0,0.0,Self-Funded Reinvestor
+ABB,Industrials,2014,0.0,0.0,0.0,0.0,Balanced Allocator
+ABB,Industrials,2015,-35.0,-1864.0,1902.0,0.0,Distress Signal
+ABB,Industrials,2016,1544.0,-816.0,-722.0,0.0,Self-Funded Reinvestor
+ABB,Industrials,2017,2189.0,-1730.0,-455.0,0.0,Self-Funded Reinvestor
+ABB,Industrials,2018,2198.0,-3192.0,1589.0,0.0,Externally Funded Expansion
+ABB,Industrials,2019,2591.0,-3050.0,38.0,0.0,Externally Funded Expansion
+ABB,Industrials,2020,5437.0,-5643.0,1250.0,175.0,Externally Funded Expansion
+ABB,Industrials,2021,3784.0,-4009.0,-745.0,153.0,Deleverager
+ABB,Industrials,2022,4097.0,-3936.0,-235.0,152.0,Deleverager
+ABB,Industrials,2023,3777.0,-4699.0,923.0,113.0,Externally Funded Expansion
+ABB,Industrials,2024,6038.0,-4943.0,-543.0,60.0,Deleverager
+ADANIENSOL,Energy,2014,0.0,0.0,0.0,0.0,Balanced Allocator
+ADANIENSOL,Energy,2015,-35.0,-1864.0,1902.0,9701.0,Distress Signal
+ADANIENSOL,Energy,2016,1544.0,-816.0,-722.0,8585.0,Deleverager
+ADANIENSOL,Energy,2017,2189.0,-1730.0,-455.0,8975.0,Self-Funded Reinvestor
+ADANIENSOL,Energy,2018,2198.0,-3192.0,1589.0,10428.0,Externally Funded Expansion
+ADANIENSOL,Energy,2019,2591.0,-3050.0,38.0,20137.0,Externally Funded Expansion
+ADANIENSOL,Energy,2020,5437.0,-5643.0,1250.0,24246.0,Externally Funded Expansion
+ADANIENSOL,Energy,2021,3784.0,-4009.0,-745.0,27095.0,Self-Funded Reinvestor
+ADANIENSOL,Energy,2022,4097.0,-3936.0,-235.0,29902.0,Self-Funded Reinvestor
+ADANIENSOL,Energy,2023,3777.0,-4699.0,923.0,34270.0,Externally Funded Expansion
+ADANIENSOL,Energy,2024,6038.0,-4943.0,-543.0,39009.0,Self-Funded Reinvestor
+ADANIENT,Industrials,2013,7666.0,-14790.0,7199.0,69332.0,Externally Funded Expansion
+ADANIENT,Industrials,2014,8228.0,-8007.0,-1109.0,71980.0,Self-Funded Reinvestor
+ADANIENT,Industrials,2015,8532.0,-11465.0,3445.0,83571.0,Externally Funded Expansion
+ADANIENT,Industrials,2016,5112.0,-1825.0,-3448.0,19169.0,Deleverager
+ADANIENT,Industrials,2017,774.0,-1460.0,716.0,20846.0,Externally Funded Expansion
+ADANIENT,Industrials,2018,2942.0,-7649.0,5120.0,17637.0,Externally Funded Expansion
+ADANIENT,Industrials,2019,3236.0,2487.0,-6158.0,11243.0,Deleverager
+ADANIENT,Industrials,2020,2454.0,-1082.0,-221.0,12419.0,Self-Funded Reinvestor
+ADANIENT,Industrials,2021,4043.0,-8611.0,3109.0,16227.0,Externally Funded Expansion
+ADANIENT,Industrials,2022,1385.0,-17041.0,15901.0,41604.0,Externally Funded Expansion
+ADANIENT,Industrials,2023,17626.0,-15459.0,-1198.0,53200.0,Self-Funded Reinvestor
+ADANIENT,Industrials,2024,10312.0,-18767.0,8879.0,80427.0,Externally Funded Expansion
+ADANIGREEN,Energy,2017,28.0,-1511.0,1559.0,4347.0,Externally Funded Expansion
+ADANIGREEN,Energy,2018,649.0,-4428.0,3942.0,9864.0,Externally Funded Expansion
+ADANIGREEN,Energy,2019,1625.0,-2666.0,1045.0,11142.0,Externally Funded Expansion
+ADANIGREEN,Energy,2020,1965.0,-3743.0,2161.0,14866.0,Externally Funded Expansion
+ADANIGREEN,Energy,2021,1601.0,-9137.0,7083.0,24209.0,Externally Funded Expansion
+ADANIGREEN,Energy,2022,3127.0,-18730.0,15986.0,52832.0,Externally Funded Expansion
+ADANIGREEN,Energy,2023,7265.0,-3857.0,-2973.0,54223.0,Self-Funded Reinvestor
+ADANIGREEN,Energy,2024,7713.0,-21060.0,13953.0,67430.0,Externally Funded Expansion
+ADANIPORTS,Industrials,2013,1379.0,-5136.0,4138.0,11620.0,Externally Funded Expansion
+ADANIPORTS,Industrials,2014,1132.0,-2510.0,772.0,12979.0,Externally Funded Expansion
+ADANIPORTS,Industrials,2015,3057.0,-2485.0,-237.0,17776.0,Self-Funded Reinvestor
+ADANIPORTS,Industrials,2016,2381.0,-4153.0,2170.0,22342.0,Externally Funded Expansion
+ADANIPORTS,Industrials,2017,4063.0,-2629.0,-1325.0,22214.0,Deleverager
+ADANIPORTS,Industrials,2018,5608.0,-3846.0,-1889.0,22370.0,Self-Funded Reinvestor
+ADANIPORTS,Industrials,2019,6029.0,-4368.0,2313.0,27712.0,Externally Funded Expansion
+ADANIPORTS,Industrials,2020,7402.0,-749.0,-4256.0,30242.0,Self-Funded Reinvestor
+ADANIPORTS,Industrials,2021,7556.0,-14064.0,3514.0,35855.0,Externally Funded Expansion
+ADANIPORTS,Industrials,2022,10420.0,-5493.0,-586.0,47935.0,Self-Funded Reinvestor
+ADANIPORTS,Industrials,2023,11900.0,-16716.0,-2734.0,53434.0,Self-Funded Reinvestor
+ADANIPORTS,Industrials,2024,15018.0,-6768.0,-7800.0,50485.0,Deleverager
+ADANIPOWER,Energy,2013,3001.0,-4064.0,861.0,41795.0,Externally Funded Expansion
+ADANIPOWER,Energy,2014,3238.0,-4700.0,1631.0,44150.0,Externally Funded Expansion
+ADANIPOWER,Energy,2015,5824.0,-4737.0,-1144.0,44742.0,Self-Funded Reinvestor
+ADANIPOWER,Energy,2016,5257.0,-2692.0,-2713.0,52729.0,Self-Funded Reinvestor
+ADANIPOWER,Energy,2017,4725.0,-1212.0,-3539.0,52484.0,Deleverager
+ADANIPOWER,Energy,2018,5101.0,-520.0,-4600.0,52835.0,Self-Funded Reinvestor
+ADANIPOWER,Energy,2019,5610.0,-984.0,-4663.0,46980.0,Deleverager
+ADANIPOWER,Energy,2020,5598.0,-2304.0,-2377.0,55199.0,Self-Funded Reinvestor
+ADANIPOWER,Energy,2021,7014.0,-2188.0,-5655.0,52519.0,Deleverager
+ADANIPOWER,Energy,2022,10233.0,774.0,-10338.0,49145.0,Deleverager
+ADANIPOWER,Energy,2023,8431.0,1545.0,-10408.0,42350.0,Deleverager
+ADANIPOWER,Energy,2024,14170.0,3481.0,-16864.0,37705.0,Deleverager
+AMBUJACEM,Materials,2012,1860.0,-388.0,-509.0,60.0,Self-Funded Reinvestor
+AMBUJACEM,Materials,2013,1267.0,-496.0,-672.0,48.0,Deleverager
+AMBUJACEM,Materials,2014,1675.0,-456.0,-721.0,34.0,Deleverager
+AMBUJACEM,Materials,2015,1557.0,-83.0,-900.0,35.0,Self-Funded Reinvestor
+AMBUJACEM,Materials,2016,2810.0,-4165.0,-958.0,29.0,Deleverager
+AMBUJACEM,Materials,2017,3416.0,-738.0,-1015.0,24.0,Deleverager
+AMBUJACEM,Materials,2018,1703.0,-765.0,-719.0,40.0,Self-Funded Reinvestor
+AMBUJACEM,Materials,2019,4739.0,-1191.0,-629.0,41.0,Self-Funded Reinvestor
+AMBUJACEM,Materials,2020,4832.0,-1317.0,-3956.0,471.0,Self-Funded Reinvestor
+AMBUJACEM,Materials,2021,5309.0,-2007.0,-516.0,477.0,Self-Funded Reinvestor
+AMBUJACEM,Materials,2023,735.0,-14481.0,2931.0,523.0,Externally Funded Expansion
+AMBUJACEM,Materials,2024,5646.0,-8941.0,5689.0,779.0,Externally Funded Expansion
+APOLLOHOSP,Healthcare,2013,443.0,-733.0,373.0,1213.0,Externally Funded Expansion
+APOLLOHOSP,Healthcare,2014,373.0,-356.0,-63.0,1344.0,Self-Funded Reinvestor
+APOLLOHOSP,Healthcare,2015,470.0,-759.0,392.0,1992.0,Externally Funded Expansion
+APOLLOHOSP,Healthcare,2016,597.0,-888.0,330.0,2834.0,Externally Funded Expansion
+APOLLOHOSP,Healthcare,2017,623.0,-1152.0,477.0,3125.0,Externally Funded Expansion
+APOLLOHOSP,Healthcare,2018,537.0,-405.0,-108.0,3427.0,Self-Funded Reinvestor
+APOLLOHOSP,Healthcare,2019,905.0,-711.0,-215.0,3673.0,Self-Funded Reinvestor
+APOLLOHOSP,Healthcare,2020,1293.0,-289.0,-910.0,3596.0,Deleverager
+APOLLOHOSP,Healthcare,2021,1265.0,-880.0,-340.0,4160.0,Self-Funded Reinvestor
+APOLLOHOSP,Healthcare,2022,1696.0,-747.0,-792.0,4068.0,Deleverager
+APOLLOHOSP,Healthcare,2023,1377.0,-857.0,-633.0,4332.0,Self-Funded Reinvestor
+APOLLOHOSP,Healthcare,2024,1920.0,-1537.0,-311.0,7371.0,Self-Funded Reinvestor
+ASIANPAINT,Materials,2013,1187.0,-463.0,-601.0,251.0,Self-Funded Reinvestor
+ASIANPAINT,Materials,2014,1402.0,-586.0,-626.0,249.0,Deleverager
+ASIANPAINT,Materials,2015,1188.0,-465.0,-576.0,418.0,Self-Funded Reinvestor
+ASIANPAINT,Materials,2016,2243.0,-866.0,-849.0,323.0,Deleverager
+ASIANPAINT,Materials,2017,1527.0,-681.0,-756.0,560.0,Self-Funded Reinvestor
+ASIANPAINT,Materials,2018,2113.0,-1556.0,-1379.0,533.0,Deleverager
+ASIANPAINT,Materials,2019,2470.0,-918.0,-1117.0,1320.0,Self-Funded Reinvestor
+ASIANPAINT,Materials,2020,3038.0,-518.0,-2871.0,1118.0,Deleverager
+ASIANPAINT,Materials,2021,3683.0,-541.0,-650.0,1093.0,Deleverager
+ASIANPAINT,Materials,2022,986.0,-317.0,-1808.0,1587.0,Self-Funded Reinvestor
+ASIANPAINT,Materials,2023,4193.0,-1282.0,-2140.0,1933.0,Self-Funded Reinvestor
+ASIANPAINT,Materials,2024,6104.0,-2548.0,-2982.0,2516.0,Self-Funded Reinvestor
+AXISBANK,Financials,2013,2573.0,-10939.0,14931.0,296254.0,Externally Funded Expansion
+AXISBANK,Financials,2014,14464.0,-14166.0,7785.0,333280.0,Externally Funded Expansion
+AXISBANK,Financials,2015,-15162.0,-7972.0,31045.0,406638.0,Distress Signal
+AXISBANK,Financials,2016,-34495.0,9211.0,22495.0,472150.0,Distress Signal
+AXISBANK,Financials,2017,32209.0,-12458.0,-2487.0,527437.0,Self-Funded Reinvestor
+AXISBANK,Financials,2018,-38390.0,-10007.0,41342.0,611425.0,Distress Signal
+AXISBANK,Financials,2019,37125.0,-18674.0,5643.0,711996.0,Externally Funded Expansion
+AXISBANK,Financials,2020,30416.0,-9485.0,8865.0,797337.0,Externally Funded Expansion
+AXISBANK,Financials,2021,12633.0,-54288.0,7279.0,850551.0,Externally Funded Expansion
+AXISBANK,Financials,2022,28137.0,-27112.0,47894.0,1020943.0,Externally Funded Expansion
+AXISBANK,Financials,2023,22075.0,-32351.0,6641.0,1152038.0,Externally Funded Expansion
+AXISBANK,Financials,2024,-5555.0,-9001.0,22341.0,1295302.0,Distress Signal
+BAJAJ-AUTO,Consumer Discretionary,2013,2218.0,-1394.0,-1445.0,116.0,Self-Funded Reinvestor
+BAJAJ-AUTO,Consumer Discretionary,2014,3502.0,-2072.0,-1496.0,59.0,Deleverager
+BAJAJ-AUTO,Consumer Discretionary,2015,2114.0,-380.0,-1644.0,112.0,Self-Funded Reinvestor
+BAJAJ-AUTO,Consumer Discretionary,2016,3690.0,-68.0,-3384.0,118.0,Self-Funded Reinvestor
+BAJAJ-AUTO,Consumer Discretionary,2017,3267.0,-3610.0,-190.0,120.0,Self-Funded Reinvestor
+BAJAJ-AUTO,Consumer Discretionary,2018,4328.0,-1954.0,-1885.0,121.0,Self-Funded Reinvestor
+BAJAJ-AUTO,Consumer Discretionary,2019,2487.0,-273.0,-2074.0,125.0,Self-Funded Reinvestor
+BAJAJ-AUTO,Consumer Discretionary,2020,3850.0,1766.0,-6247.0,126.0,Cash Distributor
+BAJAJ-AUTO,Consumer Discretionary,2021,3120.0,-2869.0,-20.0,121.0,Deleverager
+BAJAJ-AUTO,Consumer Discretionary,2022,4197.0,276.0,-4056.0,123.0,Cash Distributor
+BAJAJ-AUTO,Consumer Discretionary,2023,5277.0,1211.0,-7181.0,124.0,Cash Distributor
+BAJAJ-AUTO,Consumer Discretionary,2024,6558.0,-72.0,-6167.0,5245.0,Self-Funded Reinvestor
+BAJAJFINSV,Financials,2013,-6922.0,2953.0,4592.0,12991.0,Distress Signal
+BAJAJFINSV,Financials,2014,-9807.0,3764.0,6521.0,19507.0,Distress Signal
+BAJAJFINSV,Financials,2015,-10731.0,3709.0,6839.0,26312.0,Distress Signal
+BAJAJFINSV,Financials,2016,-9795.0,-886.0,11602.0,36062.0,Distress Signal
+BAJAJFINSV,Financials,2017,-10922.0,151.0,12513.0,48282.0,Distress Signal
+BAJAJFINSV,Financials,2018,-19580.0,-922.0,19590.0,65695.0,Distress Signal
+BAJAJFINSV,Financials,2019,-27076.0,-6903.0,34535.0,99754.0,Distress Signal
+BAJAJFINSV,Financials,2020,-23369.0,-9948.0,34479.0,127212.0,Distress Signal
+BAJAJFINSV,Financials,2021,4547.0,-3684.0,1687.0,128461.0,Externally Funded Expansion
+BAJAJFINSV,Financials,2022,-33670.0,1445.0,32326.0,161179.0,Distress Signal
+BAJAJFINSV,Financials,2023,-39480.0,-13945.0,51016.0,212265.0,Distress Signal
+BAJAJFINSV,Financials,2024,-68674.0,-10960.0,82709.0,318675.0,Distress Signal
+BAJAJHLDNG,Financials,2013,473.0,-369.0,-332.0,0.0,Self-Funded Reinvestor
+BAJAJHLDNG,Financials,2014,872.0,-519.0,-326.0,0.0,Self-Funded Reinvestor
+BAJAJHLDNG,Financials,2015,796.0,-464.0,-391.0,0.0,Self-Funded Reinvestor
+BAJAJHLDNG,Financials,2016,1147.0,1019.0,-761.0,0.0,Cash Distributor
+BAJAJHLDNG,Financials,2017,-923.0,-372.0,-110.0,0.0,Cash Burn
+BAJAJHLDNG,Financials,2018,1631.0,-1123.0,-434.0,0.0,Self-Funded Reinvestor
+BAJAJHLDNG,Financials,2019,628.0,-163.0,-536.0,0.0,Self-Funded Reinvestor
+BAJAJHLDNG,Financials,2020,1920.0,-800.0,-1028.0,168.0,Self-Funded Reinvestor
+BAJAJHLDNG,Financials,2021,272.0,-308.0,-37.0,136.0,Deleverager
+BAJAJHLDNG,Financials,2022,1610.0,-151.0,-1460.0,114.0,Deleverager
+BAJAJHLDNG,Financials,2023,1728.0,-137.0,-1587.0,93.0,Deleverager
+BAJAJHLDNG,Financials,2024,1941.0,-472.0,-1455.0,47.0,Deleverager
+BAJFINANCE,Financials,2015,-7064.0,-360.0,6867.0,26655.0,Distress Signal
+BAJFINANCE,Financials,2016,-9870.0,-687.0,11656.0,37025.0,Distress Signal
+BAJFINANCE,Financials,2017,-10439.0,-3047.0,12513.0,49250.0,Distress Signal
+BAJFINANCE,Financials,2018,-20566.0,1075.0,19503.0,66557.0,Distress Signal
+BAJFINANCE,Financials,2019,-29062.0,-5379.0,34449.0,101588.0,Distress Signal
+BAJFINANCE,Financials,2020,-24412.0,-8758.0,34167.0,129806.0,Distress Signal
+BAJFINANCE,Financials,2021,-807.0,-429.0,1741.0,131634.0,Distress Signal
+BAJFINANCE,Financials,2022,-37090.0,6347.0,32275.0,165232.0,Distress Signal
+BAJFINANCE,Financials,2023,-42112.0,-10394.0,50675.0,216690.0,Distress Signal
+BAJFINANCE,Financials,2024,-72760.0,-7171.0,82415.0,324218.0,Distress Signal
+BANKBARODA,Financials,2013,23196.0,-514.0,-790.0,509192.0,Self-Funded Reinvestor
+BANKBARODA,Financials,2014,42233.0,-730.0,5151.0,616973.0,Externally Funded Expansion
+BANKBARODA,Financials,2015,17838.0,-556.0,-6.0,665483.0,Self-Funded Reinvestor
+BANKBARODA,Financials,2016,-10011.0,-4005.0,-616.0,620536.0,Cash Burn
+BANKBARODA,Financials,2017,17865.0,-551.0,-198.0,648499.0,Self-Funded Reinvestor
+BANKBARODA,Financials,2018,-59692.0,-414.0,3413.0,672311.0,Distress Signal
+BANKBARODA,Financials,2019,-1449.0,-2537.0,4449.0,734456.0,Distress Signal
+BANKBARODA,Financials,2020,18531.0,-139.0,14729.0,1068981.0,Externally Funded Expansion
+BANKBARODA,Financials,2021,-887.0,-471.0,-986.0,1067173.0,Cash Burn
+BANKBARODA,Financials,2022,6210.0,-3645.0,-998.0,1185331.0,Self-Funded Reinvestor
+BANKBARODA,Financials,2023,-21354.0,-1096.0,-5405.0,1342592.0,Cash Burn
+BANKBARODA,Financials,2024,-6274.0,-1285.0,5476.0,1453761.0,Distress Signal
+BEL,Industrials,2013,-1539.0,1753.0,-158.0,24.0,Cash Burn
+BEL,Industrials,2014,-569.0,759.0,-213.0,21.0,Cash Burn
+BEL,Industrials,2015,1434.0,-839.0,-209.0,26.0,Self-Funded Reinvestor
+BEL,Industrials,2016,2260.0,-1470.0,-318.0,25.0,Deleverager
+BEL,Industrials,2017,-61.0,3115.0,-2857.0,29.0,Cash Burn
+BEL,Industrials,2018,-687.0,-6.0,-1202.0,48.0,Cash Burn
+BEL,Industrials,2019,1514.0,-896.0,-663.0,47.0,Deleverager
+BEL,Industrials,2020,2570.0,-649.0,-1061.0,44.0,Deleverager
+BEL,Industrials,2021,5093.0,-2595.0,-1076.0,49.0,Self-Funded Reinvestor
+BEL,Industrials,2022,4207.0,-4872.0,-1078.0,58.0,Self-Funded Reinvestor
+BEL,Industrials,2023,1199.0,2708.0,-1262.0,39.0,Deleverager
+BEL,Industrials,2024,4659.0,-5924.0,-1475.0,78.0,Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2013,22608.0,-18676.0,-4566.0,66736.0,Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2014,26233.0,-25181.0,2774.0,75896.0,Externally Funded Expansion
+BHARTIARTL,Communication Services,2015,28059.0,-22301.0,-9672.0,83415.0,Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2016,27942.0,-14091.0,-11946.0,100646.0,Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2017,28280.0,-30680.0,-351.0,107288.0,Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2018,29854.0,-27940.0,1920.0,111334.0,Externally Funded Expansion
+BHARTIARTL,Communication Services,2019,20070.0,-28286.0,9464.0,125428.0,Externally Funded Expansion
+BHARTIARTL,Communication Services,2020,18129.0,-29598.0,19144.0,148228.0,Externally Funded Expansion
+BHARTIARTL,Communication Services,2021,48205.0,-27286.0,-24910.0,162785.0,Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2022,55017.0,-41478.0,-15203.0,169678.0,Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2023,65325.0,-39232.0,-24470.0,226020.0,Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2024,78898.0,-51089.0,-27778.0,225541.0,Deleverager
+BHEL,Industrials,2013,1759.0,-1113.0,472.0,2698.0,Externally Funded Expansion
+BHEL,Industrials,2014,4512.0,-868.0,523.0,4693.0,Externally Funded Expansion
+BHEL,Industrials,2015,821.0,650.0,-3543.0,1889.0,Deleverager
+BHEL,Industrials,2016,374.0,23.0,-122.0,211.0,Deleverager
+BHEL,Industrials,2017,560.0,-565.0,-468.0,156.0,Deleverager
+BHEL,Industrials,2018,989.0,961.0,-667.0,110.0,Deleverager
+BHEL,Industrials,2019,-3860.0,1919.0,-32.0,2598.0,Cash Burn
+BHEL,Industrials,2020,-2892.0,1877.0,1622.0,5080.0,Distress Signal
+BHEL,Industrials,2021,560.0,-42.0,-394.0,4951.0,Deleverager
+BHEL,Industrials,2022,660.0,-1118.0,-329.0,4830.0,Deleverager
+BHEL,Industrials,2023,-741.0,1480.0,89.0,5454.0,Distress Signal
+BHEL,Industrials,2024,-3713.0,1331.0,2656.0,9128.0,Distress Signal
+BOSCHLTD,Consumer Discretionary,2012,871.0,-824.0,-156.0,230.0,Self-Funded Reinvestor
+BOSCHLTD,Consumer Discretionary,2013,1057.0,-846.0,-238.0,183.0,Deleverager
+BOSCHLTD,Consumer Discretionary,2015,1396.0,-1183.0,-237.0,111.0,Deleverager
+BOSCHLTD,Consumer Discretionary,2016,1318.0,-995.0,-356.0,50.0,Deleverager
+BOSCHLTD,Consumer Discretionary,2017,1457.0,1246.0,-2670.0,0.0,Deleverager
+BOSCHLTD,Consumer Discretionary,2018,1729.0,-1170.0,-325.0,0.0,Self-Funded Reinvestor
+BOSCHLTD,Consumer Discretionary,2019,593.0,1766.0,-2531.0,0.0,Cash Distributor
+BOSCHLTD,Consumer Discretionary,2020,1336.0,-873.0,-399.0,74.0,Self-Funded Reinvestor
+BOSCHLTD,Consumer Discretionary,2021,835.0,-463.0,-338.0,54.0,Deleverager
+BOSCHLTD,Consumer Discretionary,2022,271.0,-33.0,-383.0,73.0,Self-Funded Reinvestor
+BOSCHLTD,Consumer Discretionary,2023,1214.0,262.0,-1239.0,53.0,Deleverager
+BOSCHLTD,Consumer Discretionary,2024,1253.0,283.0,-1452.0,31.0,Deleverager
+BPCL,Energy,2013,5926.0,-3604.0,-846.0,33157.0,Self-Funded Reinvestor
+BPCL,Energy,2014,9588.0,-6881.0,-3736.0,33152.0,Deleverager
+BPCL,Energy,2015,20742.0,-10536.0,-9792.0,25492.0,Deleverager
+BPCL,Energy,2016,11119.0,-9233.0,-1332.0,23388.0,Deleverager
+BPCL,Energy,2017,9041.0,-15274.0,4804.0,35725.0,Externally Funded Expansion
+BPCL,Energy,2018,11068.0,-7066.0,-4218.0,37659.0,Self-Funded Reinvestor
+BPCL,Energy,2019,10157.0,-10451.0,207.0,44839.0,Externally Funded Expansion
+BPCL,Energy,2020,7881.0,-11135.0,3583.0,65476.0,Externally Funded Expansion
+BPCL,Energy,2021,23455.0,-2474.0,-13981.0,54532.0,Deleverager
+BPCL,Energy,2022,20336.0,-8138.0,-17672.0,64534.0,Self-Funded Reinvestor
+BPCL,Energy,2023,12466.0,-7806.0,-4402.0,69376.0,Self-Funded Reinvestor
+BPCL,Energy,2024,35936.0,-10521.0,-25427.0,58880.0,Deleverager
+BRITANNIA,Consumer Staples,2013,320.0,28.0,-378.0,380.0,Cash Distributor
+BRITANNIA,Consumer Staples,2014,671.0,-246.0,-357.0,150.0,Deleverager
+BRITANNIA,Consumer Staples,2015,584.0,-450.0,-181.0,145.0,Deleverager
+BRITANNIA,Consumer Staples,2016,959.0,-705.0,-246.0,131.0,Deleverager
+BRITANNIA,Consumer Staples,2017,441.0,-150.0,-295.0,125.0,Deleverager
+BRITANNIA,Consumer Staples,2018,1249.0,-957.0,-232.0,201.0,Self-Funded Reinvestor
+BRITANNIA,Consumer Staples,2019,1156.0,-852.0,-353.0,156.0,Deleverager
+BRITANNIA,Consumer Staples,2020,1485.0,-1526.0,58.0,1538.0,Externally Funded Expansion
+BRITANNIA,Consumer Staples,2021,1876.0,433.0,-2242.0,2122.0,Cash Distributor
+BRITANNIA,Consumer Staples,2022,1300.0,914.0,-2246.0,2481.0,Cash Distributor
+BRITANNIA,Consumer Staples,2023,2526.0,-1507.0,-1028.0,2997.0,Self-Funded Reinvestor
+BRITANNIA,Consumer Staples,2024,2573.0,477.0,-2830.0,2754.0,Deleverager
+CANBK,Financials,2013,8010.0,-435.0,-1043.0,376040.0,Self-Funded Reinvestor
+CANBK,Financials,2014,14244.0,-380.0,-3771.0,447913.0,Self-Funded Reinvestor
+CANBK,Financials,2015,6344.0,-1104.0,-1464.0,499488.0,Self-Funded Reinvestor
+CANBK,Financials,2016,9346.0,-443.0,-806.0,506712.0,Self-Funded Reinvestor
+CANBK,Financials,2017,2575.0,-476.0,124.0,534858.0,Externally Funded Expansion
+CANBK,Financials,2018,-11120.0,-487.0,2865.0,563756.0,Distress Signal
+CANBK,Financials,2019,18237.0,-745.0,-1185.0,640166.0,Self-Funded Reinvestor
+CANBK,Financials,2020,-5289.0,-445.0,7792.0,668170.0,Distress Signal
+CANBK,Financials,2021,59118.0,-1116.0,290.0,1060998.0,Externally Funded Expansion
+CANBK,Financials,2022,919.0,-1429.0,4035.0,1132626.0,Externally Funded Expansion
+CANBK,Financials,2023,-39978.0,-1156.0,445.0,1237160.0,Distress Signal
+CANBK,Financials,2024,15046.0,-1750.0,-3834.0,1369780.0,Self-Funded Reinvestor
+CHOLAFIN,Financials,2013,-3754.0,5.0,4067.0,15269.0,Distress Signal
+CHOLAFIN,Financials,2014,-2447.0,-83.0,2749.0,18075.0,Distress Signal
+CHOLAFIN,Financials,2015,-2264.0,-40.0,1819.0,19950.0,Distress Signal
+CHOLAFIN,Financials,2016,-2809.0,-137.0,3031.0,22546.0,Distress Signal
+CHOLAFIN,Financials,2017,-1468.0,-222.0,1692.0,24071.0,Distress Signal
+CHOLAFIN,Financials,2018,-7926.0,-60.0,8009.0,38330.0,Distress Signal
+CHOLAFIN,Financials,2019,-9317.0,-11.0,12191.0,50567.0,Distress Signal
+CHOLAFIN,Financials,2020,-2075.0,-54.0,2452.0,55005.0,Distress Signal
+CHOLAFIN,Financials,2021,-8848.0,-1746.0,8707.0,63730.0,Distress Signal
+CHOLAFIN,Financials,2022,-5571.0,1640.0,5150.0,69174.0,Distress Signal
+CHOLAFIN,Financials,2023,-27105.0,-2148.0,27466.0,97358.0,Distress Signal
+CHOLAFIN,Financials,2024,-35683.0,-2855.0,38471.0,157943.0,Distress Signal
+CIPLA,Healthcare,2013,1398.0,-2063.0,718.0,967.0,Externally Funded Expansion
+CIPLA,Healthcare,2014,1563.0,-1265.0,-266.0,1248.0,Self-Funded Reinvestor
+CIPLA,Healthcare,2015,1173.0,-950.0,165.0,1703.0,Externally Funded Expansion
+CIPLA,Healthcare,2016,1741.0,-4533.0,3104.0,5202.0,Externally Funded Expansion
+CIPLA,Healthcare,2017,2382.0,-1304.0,-1326.0,4113.0,Deleverager
+CIPLA,Healthcare,2018,1463.0,-834.0,-385.0,4098.0,Deleverager
+CIPLA,Healthcare,2019,1691.0,-1688.0,-349.0,4316.0,Self-Funded Reinvestor
+CIPLA,Healthcare,2020,3068.0,114.0,-2949.0,2816.0,Deleverager
+CIPLA,Healthcare,2021,3755.0,-2374.0,-1240.0,2014.0,Deleverager
+CIPLA,Healthcare,2022,3326.0,-1858.0,-1600.0,1056.0,Deleverager
+CIPLA,Healthcare,2023,3238.0,-2376.0,-958.0,803.0,Deleverager
+CIPLA,Healthcare,2024,4134.0,-2982.0,-1200.0,461.0,Deleverager
+COALINDIA,Materials,2013,9109.0,-1833.0,-7852.0,1305.0,Self-Funded Reinvestor
+COALINDIA,Materials,2014,14525.0,8580.0,-25350.0,178.0,Deleverager
+COALINDIA,Materials,2015,14382.0,894.0,-15026.0,408.0,Cash Distributor
+COALINDIA,Materials,2016,13154.0,8154.0,-19587.0,1199.0,Cash Distributor
+COALINDIA,Materials,2017,16461.0,455.0,-17598.0,3014.0,Cash Distributor
+COALINDIA,Materials,2018,21115.0,-7747.0,-13564.0,1538.0,Deleverager
+COALINDIA,Materials,2019,16356.0,-7896.0,-10885.0,2210.0,Self-Funded Reinvestor
+COALINDIA,Materials,2020,4977.0,1033.0,-4791.0,6434.0,Cash Distributor
+COALINDIA,Materials,2021,10592.0,182.0,-8453.0,5884.0,Deleverager
+COALINDIA,Materials,2022,41107.0,-25715.0,-13441.0,3514.0,Deleverager
+COALINDIA,Materials,2023,35734.0,-23465.0,-13704.0,4331.0,Self-Funded Reinvestor
+COALINDIA,Materials,2024,18103.0,-4486.0,-13899.0,7816.0,Self-Funded Reinvestor
+DABUR,Consumer Staples,2013,870.0,-622.0,-234.0,1151.0,Self-Funded Reinvestor
+DABUR,Consumer Staples,2014,1098.0,-104.0,-804.0,708.0,Deleverager
+DABUR,Consumer Staples,2015,1047.0,-876.0,-417.0,734.0,Self-Funded Reinvestor
+DABUR,Consumer Staples,2016,1187.0,-730.0,-374.0,805.0,Self-Funded Reinvestor
+DABUR,Consumer Staples,2017,1227.0,-807.0,-339.0,975.0,Self-Funded Reinvestor
+DABUR,Consumer Staples,2018,1092.0,-541.0,-577.0,938.0,Deleverager
+DABUR,Consumer Staples,2019,1499.0,338.0,-1888.0,699.0,Deleverager
+DABUR,Consumer Staples,2020,1614.0,-517.0,-1043.0,522.0,Deleverager
+DABUR,Consumer Staples,2021,2115.0,-1404.0,-613.0,509.0,Deleverager
+DABUR,Consumer Staples,2022,1802.0,-1273.0,-490.0,1030.0,Self-Funded Reinvestor
+DABUR,Consumer Staples,2023,1488.0,-583.0,-1035.0,1174.0,Self-Funded Reinvestor
+DABUR,Consumer Staples,2024,2013.0,-971.0,-1161.0,1752.0,Self-Funded Reinvestor
+DIVISLAB,Healthcare,2013,480.0,-255.0,-231.0,33.0,Self-Funded Reinvestor
+DIVISLAB,Healthcare,2014,557.0,-305.0,-248.0,18.0,Deleverager
+DIVISLAB,Healthcare,2015,826.0,-521.0,-303.0,27.0,Self-Funded Reinvestor
+DIVISLAB,Healthcare,2016,1038.0,-406.0,-631.0,42.0,Self-Funded Reinvestor
+DIVISLAB,Healthcare,2017,1150.0,-1140.0,2.0,36.0,Externally Funded Expansion
+DIVISLAB,Healthcare,2018,776.0,-478.0,-314.0,63.0,Self-Funded Reinvestor
+DIVISLAB,Healthcare,2019,954.0,-685.0,-246.0,106.0,Self-Funded Reinvestor
+DIVISLAB,Healthcare,2020,1216.0,-83.0,-1091.0,39.0,Deleverager
+DIVISLAB,Healthcare,2021,1947.0,75.0,-35.0,5.0,Deleverager
+DIVISLAB,Healthcare,2022,1912.0,-2195.0,-532.0,4.0,Deleverager
+DIVISLAB,Healthcare,2023,2459.0,-2707.0,-797.0,4.0,Self-Funded Reinvestor
+DIVISLAB,Healthcare,2024,1261.0,-269.0,-799.0,8.0,Self-Funded Reinvestor
+DLF,Real Estate,2013,2009.0,1995.0,-3951.0,26600.0,Cash Distributor
+DLF,Real Estate,2014,1468.0,3924.0,-4532.0,24133.0,Deleverager
+DLF,Real Estate,2015,2037.0,98.0,-1547.0,24495.0,Cash Distributor
+DLF,Real Estate,2016,2957.0,-818.0,-1929.0,25264.0,Self-Funded Reinvestor
+DLF,Real Estate,2017,-898.0,872.0,787.0,29202.0,Distress Signal
+DLF,Real Estate,2018,270.0,-2102.0,-232.0,17491.0,Deleverager
+DLF,Real Estate,2019,2043.0,3.0,875.0,17222.0,Cash Accumulator
+DLF,Real Estate,2020,356.0,6508.0,-9522.0,8103.0,Deleverager
+DLF,Real Estate,2021,1460.0,150.0,-2184.0,6886.0,Deleverager
+DLF,Real Estate,2022,2832.0,267.0,-3828.0,4182.0,Deleverager
+DLF,Real Estate,2023,2375.0,-461.0,-2013.0,3334.0,Deleverager
+DLF,Real Estate,2024,2539.0,-1529.0,177.0,4290.0,Externally Funded Expansion
+DMART,Consumer Discretionary,2013,127.0,-231.0,118.0,526.0,Externally Funded Expansion
+DMART,Consumer Discretionary,2014,198.0,-270.0,65.0,641.0,Externally Funded Expansion
+DMART,Consumer Discretionary,2015,222.0,-474.0,234.0,904.0,Externally Funded Expansion
+DMART,Consumer Discretionary,2016,433.0,-633.0,196.0,1192.0,Externally Funded Expansion
+DMART,Consumer Discretionary,2017,455.0,-2482.0,2025.0,1497.0,Externally Funded Expansion
+DMART,Consumer Discretionary,2018,730.0,464.0,-1159.0,439.0,Deleverager
+DMART,Consumer Discretionary,2019,807.0,-958.0,209.0,700.0,Externally Funded Expansion
+DMART,Consumer Discretionary,2020,1280.0,-4657.0,3357.0,333.0,Externally Funded Expansion
+DMART,Consumer Discretionary,2021,1375.0,-1110.0,-180.0,393.0,Self-Funded Reinvestor
+DMART,Consumer Discretionary,2022,1372.0,-1289.0,-179.0,647.0,Self-Funded Reinvestor
+DMART,Consumer Discretionary,2023,2630.0,-2313.0,-205.0,643.0,Deleverager
+DMART,Consumer Discretionary,2024,2746.0,-2468.0,-148.0,713.0,Self-Funded Reinvestor
+DRREDDY,Healthcare,2013,1378.0,-1437.0,-157.0,3682.0,Self-Funded Reinvestor
+DRREDDY,Healthcare,2014,1970.0,-1604.0,-24.0,4477.0,Self-Funded Reinvestor
+DRREDDY,Healthcare,2015,2524.0,-2370.0,-433.0,4314.0,Deleverager
+DRREDDY,Healthcare,2016,3263.0,-1610.0,-1700.0,3352.0,Deleverager
+DRREDDY,Healthcare,2017,2144.0,-1890.0,-369.0,4918.0,Self-Funded Reinvestor
+DRREDDY,Healthcare,2018,1803.0,-1483.0,-444.0,5071.0,Self-Funded Reinvestor
+DRREDDY,Healthcare,2019,2870.0,-769.0,-2133.0,3838.0,Deleverager
+DRREDDY,Healthcare,2020,2984.0,-495.0,-2516.0,2210.0,Deleverager
+DRREDDY,Healthcare,2021,3570.0,-2255.0,-30.0,3031.0,Self-Funded Reinvestor
+DRREDDY,Healthcare,2022,2811.0,-2565.0,-242.0,3384.0,Self-Funded Reinvestor
+DRREDDY,Healthcare,2023,5888.0,-4109.0,-2686.0,1347.0,Deleverager
+DRREDDY,Healthcare,2024,4543.0,-4034.0,-376.0,4854.0,Self-Funded Reinvestor
+EICHERMOT,Consumer Discretionary,2012,496.0,-773.0,-111.0,23.0,Self-Funded Reinvestor
+EICHERMOT,Consumer Discretionary,2013,716.0,-790.0,-47.0,84.0,Self-Funded Reinvestor
+EICHERMOT,Consumer Discretionary,2014,1047.0,-1214.0,-162.0,58.0,Deleverager
+EICHERMOT,Consumer Discretionary,2016,1463.0,-1001.0,-466.0,23.0,Deleverager
+EICHERMOT,Consumer Discretionary,2017,1708.0,-1744.0,25.0,112.0,Externally Funded Expansion
+EICHERMOT,Consumer Discretionary,2018,2482.0,-2145.0,-262.0,151.0,Self-Funded Reinvestor
+EICHERMOT,Consumer Discretionary,2019,1575.0,-660.0,-292.0,187.0,Self-Funded Reinvestor
+EICHERMOT,Consumer Discretionary,2020,1694.0,-1508.0,-858.0,249.0,Self-Funded Reinvestor
+EICHERMOT,Consumer Discretionary,2021,1691.0,-1625.0,-15.0,219.0,Deleverager
+EICHERMOT,Consumer Discretionary,2022,1527.0,-983.0,-593.0,108.0,Deleverager
+EICHERMOT,Consumer Discretionary,2023,2823.0,-2397.0,-417.0,288.0,Self-Funded Reinvestor
+EICHERMOT,Consumer Discretionary,2024,3724.0,-2834.0,-844.0,404.0,Self-Funded Reinvestor
+GAIL,Energy,2013,6603.0,-8626.0,3642.0,16472.0,Externally Funded Expansion
+GAIL,Energy,2014,4615.0,-4466.0,-3.0,18537.0,Self-Funded Reinvestor
+GAIL,Energy,2015,4214.0,-2809.0,-3058.0,18291.0,Deleverager
+GAIL,Energy,2016,3960.0,-904.0,-3028.0,9052.0,Deleverager
+GAIL,Energy,2017,6024.0,-334.0,-5275.0,6553.0,Deleverager
+GAIL,Energy,2018,8769.0,-2660.0,-5252.0,3876.0,Deleverager
+GAIL,Energy,2019,7984.0,-5701.0,-3364.0,2224.0,Deleverager
+GAIL,Energy,2020,8345.0,-8299.0,281.0,6912.0,Externally Funded Expansion
+GAIL,Energy,2021,8993.0,-4640.0,-3471.0,7873.0,Self-Funded Reinvestor
+GAIL,Energy,2022,9420.0,-5490.0,-3917.0,9216.0,Self-Funded Reinvestor
+GAIL,Energy,2023,3205.0,-7453.0,2972.0,17816.0,Externally Funded Expansion
+GAIL,Energy,2024,12586.0,-8226.0,-3457.0,19632.0,Self-Funded Reinvestor
+GODREJCP,Consumer Staples,2013,820.0,-865.0,282.0,2456.0,Externally Funded Expansion
+GODREJCP,Consumer Staples,2014,1116.0,-494.0,-620.0,2373.0,Deleverager
+GODREJCP,Consumer Staples,2015,1027.0,-1236.0,-12.0,2717.0,Self-Funded Reinvestor
+GODREJCP,Consumer Staples,2016,847.0,-622.0,-202.0,2891.0,Self-Funded Reinvestor
+GODREJCP,Consumer Staples,2017,1860.0,-2243.0,665.0,4001.0,Externally Funded Expansion
+GODREJCP,Consumer Staples,2018,1723.0,-336.0,-1384.0,3508.0,Deleverager
+GODREJCP,Consumer Staples,2019,1729.0,274.0,-2039.0,3382.0,Deleverager
+GODREJCP,Consumer Staples,2020,1588.0,-552.0,-1295.0,3575.0,Self-Funded Reinvestor
+GODREJCP,Consumer Staples,2021,2030.0,-292.0,-1816.0,1864.0,Deleverager
+GODREJCP,Consumer Staples,2022,1451.0,-844.0,-380.0,1704.0,Deleverager
+GODREJCP,Consumer Staples,2023,2151.0,-1754.0,-794.0,1130.0,Deleverager
+GODREJCP,Consumer Staples,2024,2070.0,-3435.0,1406.0,3828.0,Externally Funded Expansion
+GRASIM,Industrials,2013,4242.0,-5687.0,1348.0,9550.0,Externally Funded Expansion
+GRASIM,Industrials,2014,3549.0,-2336.0,-1046.0,9681.0,Self-Funded Reinvestor
+GRASIM,Industrials,2015,4594.0,-2359.0,-2278.0,11930.0,Self-Funded Reinvestor
+GRASIM,Industrials,2016,5868.0,-4515.0,-1365.0,12505.0,Self-Funded Reinvestor
+GRASIM,Industrials,2017,7288.0,-3509.0,-3799.0,9213.0,Deleverager
+GRASIM,Industrials,2018,-4140.0,1546.0,3449.0,67070.0,Distress Signal
+GRASIM,Industrials,2019,-1659.0,-2212.0,4158.0,84487.0,Distress Signal
+GRASIM,Industrials,2020,16620.0,-11364.0,-3418.0,84777.0,Self-Funded Reinvestor
+GRASIM,Industrials,2021,15075.0,-7146.0,-8003.0,79078.0,Deleverager
+GRASIM,Industrials,2022,7038.0,-1053.0,-6733.0,74744.0,Deleverager
+GRASIM,Industrials,2023,-12685.0,-13712.0,26469.0,103039.0,Distress Signal
+GRASIM,Industrials,2024,-10719.0,-23114.0,33908.0,158159.0,Distress Signal
+HAL,Industrials,2017,-423.0,3021.0,-164.0,2.0,Cash Burn
+HAL,Industrials,2018,-734.0,594.0,-2540.0,3.0,Cash Burn
+HAL,Industrials,2019,-7694.0,5292.0,2321.0,8.0,Distress Signal
+HAL,Industrials,2020,1537.0,-1334.0,64.0,2.0,Externally Funded Expansion
+HAL,Industrials,2021,15124.0,-1190.0,-7070.0,6.0,Self-Funded Reinvestor
+HAL,Industrials,2022,10180.0,-12789.0,-1464.0,12.0,Self-Funded Reinvestor
+HAL,Industrials,2023,8836.0,-5734.0,-1731.0,47.0,Self-Funded Reinvestor
+HAL,Industrials,2024,8226.0,-6412.0,-1999.0,124.0,Self-Funded Reinvestor
+HAVELLS,Industrials,2013,638.0,-144.0,-252.0,982.0,Self-Funded Reinvestor
+HAVELLS,Industrials,2014,868.0,-376.0,-310.0,1054.0,Self-Funded Reinvestor
+HAVELLS,Industrials,2015,963.0,-485.0,-754.0,424.0,Deleverager
+HAVELLS,Industrials,2016,513.0,-121.0,-621.0,134.0,Deleverager
+HAVELLS,Industrials,2017,767.0,-220.0,-98.0,208.0,Self-Funded Reinvestor
+HAVELLS,Industrials,2018,1100.0,-946.0,-409.0,115.0,Deleverager
+HAVELLS,Industrials,2019,501.0,185.0,-318.0,94.0,Deleverager
+HAVELLS,Industrials,2020,827.0,-548.0,-716.0,72.0,Deleverager
+HAVELLS,Industrials,2021,660.0,-763.0,190.0,521.0,Externally Funded Expansion
+HAVELLS,Industrials,2022,1728.0,-759.0,-547.0,616.0,Self-Funded Reinvestor
+HAVELLS,Industrials,2023,565.0,31.0,-907.0,223.0,Deleverager
+HAVELLS,Industrials,2024,1953.0,-1618.0,-534.0,332.0,Self-Funded Reinvestor
+HCLTECH,Information Technology,2013,4492.0,-2361.0,-2086.0,1044.0,Self-Funded Reinvestor
+HCLTECH,Information Technology,2014,6457.0,-4842.0,-1308.0,1018.0,Deleverager
+HCLTECH,Information Technology,2015,5539.0,-2088.0,-3140.0,648.0,Deleverager
+HCLTECH,Information Technology,2016,3823.0,-2208.0,-2237.0,1090.0,Self-Funded Reinvestor
+HCLTECH,Information Technology,2017,8995.0,-3890.0,-4517.0,582.0,Deleverager
+HCLTECH,Information Technology,2018,8328.0,-2236.0,-5714.0,557.0,Deleverager
+HCLTECH,Information Technology,2019,8971.0,-3256.0,-1471.0,4195.0,Self-Funded Reinvestor
+HCLTECH,Information Technology,2020,13359.0,-12332.0,-3168.0,7986.0,Self-Funded Reinvestor
+HCLTECH,Information Technology,2021,19618.0,-5665.0,-11192.0,6864.0,Deleverager
+HCLTECH,Information Technology,2022,16900.0,1597.0,-14508.0,6343.0,Deleverager
+HCLTECH,Information Technology,2023,18009.0,-3573.0,-15881.0,4794.0,Deleverager
+HCLTECH,Information Technology,2024,22448.0,-6608.0,-15464.0,5791.0,Self-Funded Reinvestor
+HDFCBANK,Financials,2013,-5847.0,-902.0,13105.0,335588.0,Distress Signal
+HDFCBANK,Financials,2014,4211.0,-1099.0,9270.0,416677.0,Externally Funded Expansion
+HDFCBANK,Financials,2015,-21281.0,-800.0,18694.0,509762.0,Distress Signal
+HDFCBANK,Financials,2016,-34435.0,-837.0,37815.0,649587.0,Distress Signal
+HDFCBANK,Financials,2017,17282.0,-1146.0,-5893.0,741550.0,Self-Funded Reinvestor
+HDFCBANK,Financials,2018,17214.0,-842.0,57378.0,944817.0,Externally Funded Expansion
+HDFCBANK,Financials,2019,-62872.0,-1503.0,23131.0,1080235.0,Distress Signal
+HDFCBANK,Financials,2020,-16869.0,-1403.0,24394.0,1333041.0,Distress Signal
+HDFCBANK,Financials,2021,42476.0,-1823.0,-7321.0,1511418.0,Self-Funded Reinvestor
+HDFCBANK,Financials,2022,-11960.0,-2051.0,48124.0,1784970.0,Distress Signal
+HDFCBANK,Financials,2023,20814.0,-2992.0,23941.0,2139212.0,Externally Funded Expansion
+HDFCBANK,Financials,2024,19069.0,16600.0,-3983.0,3107503.0,Cash Distributor
+HDFCLIFE,Financials,2013,,,,0.0,Insufficient Data
+HDFCLIFE,Financials,2014,,,,0.0,Insufficient Data
+HDFCLIFE,Financials,2015,4459.0,-3514.0,-168.0,0.0,Self-Funded Reinvestor
+HDFCLIFE,Financials,2016,5687.0,-3962.0,-212.0,0.0,Self-Funded Reinvestor
+HDFCLIFE,Financials,2017,6230.0,-5177.0,-236.0,0.0,Self-Funded Reinvestor
+HDFCLIFE,Financials,2018,6739.0,-4421.0,-196.0,0.0,Self-Funded Reinvestor
+HDFCLIFE,Financials,2019,9868.0,-10182.0,-337.0,0.0,Self-Funded Reinvestor
+HDFCLIFE,Financials,2020,7388.0,-7789.0,38.0,0.0,Externally Funded Expansion
+HDFCLIFE,Financials,2021,9703.0,-8952.0,678.0,600.0,Externally Funded Expansion
+HDFCLIFE,Financials,2022,5943.0,-801.0,-238.0,600.0,Self-Funded Reinvestor
+HDFCLIFE,Financials,2023,6883.0,-10071.0,1985.0,950.0,Externally Funded Expansion
+HDFCLIFE,Financials,2024,10721.0,-13614.0,-403.0,950.0,Self-Funded Reinvestor
+HEROMOTOCO,Consumer Discretionary,2014,2963.0,-1616.0,-1414.0,284.0,Self-Funded Reinvestor
+HEROMOTOCO,Consumer Discretionary,2015,2186.0,31.0,-2131.0,100.0,Deleverager
+HEROMOTOCO,Consumer Discretionary,2016,3722.0,-2300.0,-1475.0,232.0,Self-Funded Reinvestor
+HEROMOTOCO,Consumer Discretionary,2017,4007.0,-1972.0,-2036.0,261.0,Self-Funded Reinvestor
+HEROMOTOCO,Consumer Discretionary,2018,4017.0,-1858.0,-2102.0,228.0,Deleverager
+HEROMOTOCO,Consumer Discretionary,2019,1032.0,1298.0,-2252.0,312.0,Cash Distributor
+HEROMOTOCO,Consumer Discretionary,2020,5518.0,-2819.0,-2602.0,453.0,Self-Funded Reinvestor
+HEROMOTOCO,Consumer Discretionary,2021,4110.0,-2289.0,-1852.0,584.0,Self-Funded Reinvestor
+HEROMOTOCO,Consumer Discretionary,2022,2104.0,-222.0,-1975.0,605.0,Self-Funded Reinvestor
+HEROMOTOCO,Consumer Discretionary,2023,2614.0,-421.0,-2147.0,568.0,Deleverager
+HEROMOTOCO,Consumer Discretionary,2024,4923.0,-1828.0,-2717.0,588.0,Self-Funded Reinvestor
+HINDALCO,Materials,2013,2977.0,-13801.0,10278.0,56951.0,Externally Funded Expansion
+HINDALCO,Materials,2014,7956.0,-8095.0,1493.0,64756.0,Externally Funded Expansion
+HINDALCO,Materials,2015,7143.0,-3873.0,-2437.0,68468.0,Self-Funded Reinvestor
+HINDALCO,Materials,2016,11688.0,-3220.0,-8862.0,67552.0,Deleverager
+HINDALCO,Materials,2017,12687.0,-2876.0,-5552.0,63817.0,Deleverager
+HINDALCO,Materials,2018,10898.0,5333.0,-16412.0,52074.0,Deleverager
+HINDALCO,Materials,2019,11977.0,-5456.0,-5466.0,52415.0,Self-Funded Reinvestor
+HINDALCO,Materials,2020,12745.0,-7227.0,6656.0,68399.0,Externally Funded Expansion
+HINDALCO,Materials,2021,17232.0,-25280.0,-4882.0,67206.0,Deleverager
+HINDALCO,Materials,2022,16838.0,-6773.0,-6765.0,64486.0,Deleverager
+HINDALCO,Materials,2023,19208.0,-7559.0,-10450.0,60291.0,Deleverager
+HINDALCO,Materials,2024,24056.0,-14267.0,-10817.0,60959.0,Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2013,3605.0,63.0,-4147.0,25.0,Cash Distributor
+HINDUNILVR,Consumer Staples,2014,3818.0,-475.0,-2960.0,46.0,Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2015,3292.0,138.0,-3462.0,43.0,Deleverager
+HINDUNILVR,Consumer Staples,2016,4171.0,-282.0,-3864.0,177.0,Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2017,5185.0,-1173.0,-4214.0,277.0,Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2018,6059.0,-1063.0,-4975.0,0.0,Deleverager
+HINDUNILVR,Consumer Staples,2019,5800.0,-438.0,-5390.0,99.0,Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2020,7623.0,1791.0,-6819.0,0.0,Deleverager
+HINDUNILVR,Consumer Staples,2021,9163.0,-1228.0,-9309.0,0.0,Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2022,9048.0,-1728.0,-8015.0,1043.0,Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2023,9991.0,-1484.0,-8953.0,1219.0,Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2024,15469.0,-5324.0,-10034.0,1651.0,Self-Funded Reinvestor
+ICICIBANK,Financials,2013,17494.0,-18563.0,9283.0,487659.0,Externally Funded Expansion
+ICICIBANK,Financials,2014,6765.0,-15750.0,7872.0,543055.0,Externally Funded Expansion
+ICICIBANK,Financials,2015,-12273.0,-13175.0,24827.0,597207.0,Distress Signal
+ICICIBANK,Financials,2016,23645.0,-12060.0,5814.0,671455.0,Externally Funded Expansion
+ICICIBANK,Financials,2017,52636.0,-1711.0,-35470.0,700874.0,Self-Funded Reinvestor
+ICICIBANK,Financials,2018,19383.0,-50551.0,39676.0,815198.0,Externally Funded Expansion
+ICICIBANK,Financials,2019,48671.0,-30282.0,-19997.0,891641.0,Self-Funded Reinvestor
+ICICIBANK,Financials,2020,79565.0,-42095.0,2992.0,1014636.0,Externally Funded Expansion
+ICICIBANK,Financials,2021,138015.0,-63631.0,-54667.0,1103840.0,Self-Funded Reinvestor
+ICICIBANK,Financials,2022,58111.0,-39448.0,17451.0,1252968.0,Externally Funded Expansion
+ICICIBANK,Financials,2023,-3771.0,-67689.0,24791.0,1399894.0,Distress Signal
+ICICIBANK,Financials,2024,157284.0,-144737.0,13765.0,1651008.0,Externally Funded Expansion
+ICICIGI,Financials,2013,984.0,-962.0,102.0,0.0,Externally Funded Expansion
+ICICIGI,Financials,2014,595.0,-706.0,4.0,0.0,Externally Funded Expansion
+ICICIGI,Financials,2015,-98.0,171.0,-93.0,0.0,Cash Burn
+ICICIGI,Financials,2016,511.0,-310.0,-148.0,0.0,Self-Funded Reinvestor
+ICICIGI,Financials,2017,1628.0,-1990.0,361.0,485.0,Externally Funded Expansion
+ICICIGI,Financials,2018,2390.0,-1896.0,-96.0,485.0,Self-Funded Reinvestor
+ICICIGI,Financials,2019,2976.0,-2856.0,-310.0,485.0,Self-Funded Reinvestor
+ICICIGI,Financials,2020,3433.0,-3382.0,-420.0,485.0,Self-Funded Reinvestor
+ICICIGI,Financials,2021,1774.0,-1367.0,-212.0,485.0,Self-Funded Reinvestor
+ICICIGI,Financials,2022,809.0,135.0,-879.0,255.0,Deleverager
+ICICIGI,Financials,2023,2290.0,-1685.0,-695.0,35.0,Deleverager
+ICICIGI,Financials,2024,2407.0,-1921.0,-355.0,0.0,Deleverager
+ICICIPRULI,Financials,2013,-2641.0,1564.0,-514.0,0.0,Cash Burn
+ICICIPRULI,Financials,2014,-2382.0,6012.0,-1091.0,0.0,Cash Burn
+ICICIPRULI,Financials,2015,523.0,-1822.0,-966.0,0.0,Self-Funded Reinvestor
+ICICIPRULI,Financials,2016,3634.0,27.0,-1442.0,1029.0,Cash Distributor
+ICICIPRULI,Financials,2017,4130.0,-696.0,-994.0,0.0,Deleverager
+ICICIPRULI,Financials,2018,5690.0,-5389.0,-1188.0,0.0,Self-Funded Reinvestor
+ICICIPRULI,Financials,2019,11377.0,-7559.0,-843.0,0.0,Self-Funded Reinvestor
+ICICIPRULI,Financials,2020,8596.0,-10797.0,-405.0,0.0,Self-Funded Reinvestor
+ICICIPRULI,Financials,2021,7314.0,-5084.0,1205.0,1200.0,Externally Funded Expansion
+ICICIPRULI,Financials,2022,1831.0,-816.0,-319.0,1200.0,Self-Funded Reinvestor
+ICICIPRULI,Financials,2023,89.0,-1145.0,-112.0,1200.0,Self-Funded Reinvestor
+ICICIPRULI,Financials,2024,-7315.0,7420.0,-88.0,0.0,Cash Burn
+INDIGO,Consumer Discretionary,2013,1741.0,-1890.0,36.0,11.0,Externally Funded Expansion
+INDIGO,Consumer Discretionary,2014,1595.0,-2914.0,1285.0,14.0,Externally Funded Expansion
+INDIGO,Consumer Discretionary,2015,2384.0,-940.0,-1308.0,4.0,Deleverager
+INDIGO,Consumer Discretionary,2016,3116.0,-1337.0,-1220.0,8.0,Self-Funded Reinvestor
+INDIGO,Consumer Discretionary,2017,3782.0,-3033.0,-1401.0,52.0,Self-Funded Reinvestor
+INDIGO,Consumer Discretionary,2018,3903.0,-4152.0,766.0,54.0,Externally Funded Expansion
+INDIGO,Consumer Discretionary,2019,3160.0,-2526.0,-592.0,88.0,Self-Funded Reinvestor
+INDIGO,Consumer Discretionary,2020,6943.0,-4573.0,-2407.0,75.0,Deleverager
+INDIGO,Consumer Discretionary,2021,-1620.0,3228.0,-1775.0,9.0,Cash Burn
+INDIGO,Consumer Discretionary,2022,2064.0,1527.0,-3088.0,12.0,Cash Distributor
+INDIGO,Consumer Discretionary,2023,12703.0,-4039.0,-8432.0,12.0,Self-Funded Reinvestor
+INDIGO,Consumer Discretionary,2024,21183.0,-11759.0,-9979.0,20.0,Self-Funded Reinvestor
+INDUSINDBK,Financials,2013,-486.0,-174.0,1969.0,63576.0,Distress Signal
+INDUSINDBK,Financials,2014,-4106.0,-174.0,4200.0,75264.0,Distress Signal
+INDUSINDBK,Financials,2015,-1421.0,-276.0,5707.0,94752.0,Distress Signal
+INDUSINDBK,Financials,2016,-2927.0,-258.0,2517.0,117996.0,Distress Signal
+INDUSINDBK,Financials,2017,11569.0,-285.0,-2768.0,149026.0,Self-Funded Reinvestor
+INDUSINDBK,Financials,2018,-20700.0,-217.0,15505.0,189928.0,Distress Signal
+INDUSINDBK,Financials,2019,-6389.0,-633.0,8590.0,242189.0,Distress Signal
+INDUSINDBK,Financials,2020,-12039.0,526.0,12733.0,262793.0,Distress Signal
+INDUSINDBK,Financials,2021,44646.0,-226.0,-4096.0,307528.0,Self-Funded Reinvestor
+INDUSINDBK,Financials,2022,16600.0,-351.0,-4302.0,341005.0,Self-Funded Reinvestor
+INDUSINDBK,Financials,2023,-12438.0,-441.0,1115.0,385449.0,Distress Signal
+INDUSINDBK,Financials,2024,-16843.0,-625.0,-2242.0,432404.0,Cash Burn
+INFY,Information Technology,2013,7373.0,-2922.0,-3210.0,0.0,Self-Funded Reinvestor
+INFY,Information Technology,2014,9825.0,-2563.0,-3144.0,0.0,Self-Funded Reinvestor
+INFY,Information Technology,2015,8353.0,999.0,-4935.0,0.0,Cash Distributor
+INFY,Information Technology,2016,10028.0,-885.0,-6813.0,0.0,Self-Funded Reinvestor
+INFY,Information Technology,2017,11531.0,-14664.0,-6939.0,0.0,Self-Funded Reinvestor
+INFY,Information Technology,2018,13218.0,4533.0,-20505.0,0.0,Cash Distributor
+INFY,Information Technology,2019,14841.0,-632.0,-14512.0,0.0,Self-Funded Reinvestor
+INFY,Information Technology,2020,17003.0,-331.0,-17591.0,4633.0,Self-Funded Reinvestor
+INFY,Information Technology,2021,23224.0,-7373.0,-9786.0,5325.0,Self-Funded Reinvestor
+INFY,Information Technology,2022,23885.0,-6485.0,-24642.0,5474.0,Self-Funded Reinvestor
+INFY,Information Technology,2023,22467.0,-1071.0,-26695.0,8299.0,Self-Funded Reinvestor
+INFY,Information Technology,2024,25210.0,-5093.0,-17504.0,8804.0,Self-Funded Reinvestor
+IOC,Energy,2013,9340.0,-9294.0,352.0,89671.0,Externally Funded Expansion
+IOC,Energy,2014,24195.0,-18594.0,-3116.0,94916.0,Self-Funded Reinvestor
+IOC,Energy,2015,46092.0,-10215.0,-38283.0,64893.0,Deleverager
+IOC,Energy,2016,25624.0,-13610.0,-11890.0,58552.0,Deleverager
+IOC,Energy,2017,28216.0,-17684.0,-10937.0,63271.0,Self-Funded Reinvestor
+IOC,Energy,2018,29115.0,-17119.0,-12007.0,65650.0,Self-Funded Reinvestor
+IOC,Energy,2019,12747.0,-22569.0,10436.0,96765.0,Externally Funded Expansion
+IOC,Energy,2020,7146.0,-29101.0,22456.0,129790.0,Externally Funded Expansion
+IOC,Energy,2021,49650.0,-22935.0,-27369.0,116649.0,Deleverager
+IOC,Energy,2022,25747.0,-21294.0,-4058.0,132020.0,Self-Funded Reinvestor
+IOC,Energy,2023,29644.0,-28030.0,-1794.0,148977.0,Self-Funded Reinvestor
+IOC,Energy,2024,71099.0,-31464.0,-39385.0,163401.0,Self-Funded Reinvestor
+IRCTC,Consumer Discretionary,2015,69.0,-46.0,-17.0,0.0,Self-Funded Reinvestor
+IRCTC,Consumer Discretionary,2016,288.0,7.0,-31.0,0.0,Cash Distributor
+IRCTC,Consumer Discretionary,2017,338.0,94.0,-136.0,0.0,Cash Distributor
+IRCTC,Consumer Discretionary,2018,24.0,40.0,-57.0,0.0,Cash Distributor
+IRCTC,Consumer Discretionary,2019,499.0,-353.0,-179.0,0.0,Self-Funded Reinvestor
+IRCTC,Consumer Discretionary,2020,409.0,8.0,-280.0,0.0,Cash Distributor
+IRCTC,Consumer Discretionary,2021,248.0,-453.0,-47.0,79.0,Self-Funded Reinvestor
+IRCTC,Consumer Discretionary,2022,524.0,-242.0,-258.0,105.0,Self-Funded Reinvestor
+IRCTC,Consumer Discretionary,2023,812.0,-317.0,-434.0,84.0,Deleverager
+IRCTC,Consumer Discretionary,2024,882.0,-215.0,-404.0,42.0,Deleverager
+IRFC,Financials,2016,-16378.0,2.0,17582.0,87503.0,Distress Signal
+IRFC,Financials,2017,-19455.0,2.0,18250.0,106395.0,Distress Signal
+IRFC,Financials,2018,-28076.0,2.0,28075.0,134006.0,Distress Signal
+IRFC,Financials,2019,-41748.0,1.0,41749.0,173933.0,Distress Signal
+IRFC,Financials,2020,-62701.0,1.0,62697.0,234377.0,Distress Signal
+IRFC,Financials,2021,-89907.0,0.0,90202.0,323145.0,Distress Signal
+IRFC,Financials,2022,-64412.0,-5.0,64266.0,388440.0,Distress Signal
+IRFC,Financials,2023,-28588.0,0.0,28644.0,418935.0,Distress Signal
+IRFC,Financials,2024,7914.0,-8.0,-8046.0,403111.0,Deleverager
+ITC,Consumer Staples,2013,7102.0,-3881.0,-3310.0,102.0,Self-Funded Reinvestor
+ITC,Consumer Staples,2014,7344.0,-3254.0,-4122.0,242.0,Self-Funded Reinvestor
+ITC,Consumer Staples,2015,9843.0,-5275.0,-4661.0,269.0,Self-Funded Reinvestor
+ITC,Consumer Staples,2016,9799.0,-3921.0,-5613.0,84.0,Deleverager
+ITC,Consumer Staples,2017,10627.0,-3251.0,-7301.0,46.0,Deleverager
+ITC,Consumer Staples,2018,13169.0,-7114.0,-6221.0,36.0,Deleverager
+ITC,Consumer Staples,2019,12583.0,-5546.0,-6869.0,13.0,Deleverager
+ITC,Consumer Staples,2020,14690.0,-6174.0,-8181.0,277.0,Self-Funded Reinvestor
+ITC,Consumer Staples,2021,12527.0,5740.0,-18634.0,271.0,Deleverager
+ITC,Consumer Staples,2022,15776.0,-2238.0,-13580.0,249.0,Deleverager
+ITC,Consumer Staples,2023,18878.0,-5732.0,-13006.0,306.0,Self-Funded Reinvestor
+ITC,Consumer Staples,2024,17179.0,1563.0,-18551.0,304.0,Deleverager
+JINDALSTEL,Materials,2013,3522.0,-9591.0,6111.0,24618.0,Externally Funded Expansion
+JINDALSTEL,Materials,2014,4580.0,-12694.0,8879.0,36368.0,Externally Funded Expansion
+JINDALSTEL,Materials,2015,1182.0,-6717.0,5708.0,45501.0,Externally Funded Expansion
+JINDALSTEL,Materials,2016,4333.0,-2262.0,-2672.0,46797.0,Self-Funded Reinvestor
+JINDALSTEL,Materials,2017,6850.0,-1998.0,-5108.0,45850.0,Deleverager
+JINDALSTEL,Materials,2018,7724.0,-1431.0,-6276.0,42962.0,Deleverager
+JINDALSTEL,Materials,2019,9027.0,-832.0,-8261.0,39559.0,Deleverager
+JINDALSTEL,Materials,2020,8814.0,-1476.0,-7016.0,36824.0,Deleverager
+JINDALSTEL,Materials,2021,11961.0,-1884.0,-4612.0,29910.0,Deleverager
+JINDALSTEL,Materials,2022,16048.0,-2331.0,-15120.0,13502.0,Deleverager
+JINDALSTEL,Materials,2023,7347.0,-4090.0,-2500.0,13046.0,Deleverager
+JINDALSTEL,Materials,2024,6008.0,-8344.0,1381.0,17266.0,Externally Funded Expansion
+JIOFIN,Financials,2023,2055.0,-1110.0,-889.0,743.0,Self-Funded Reinvestor
+JIOFIN,Financials,2024,-678.0,1441.0,-753.0,0.0,Cash Burn
+JSWENERGY,Energy,2013,1725.0,-944.0,-684.0,10377.0,Self-Funded Reinvestor
+JSWENERGY,Energy,2014,2269.0,-363.0,-1859.0,10106.0,Deleverager
+JSWENERGY,Energy,2015,3394.0,-422.0,-2327.0,9294.0,Deleverager
+JSWENERGY,Energy,2016,3538.0,-3272.0,-1622.0,14862.0,Self-Funded Reinvestor
+JSWENERGY,Energy,2017,3853.0,-762.0,-2595.0,14349.0,Deleverager
+JSWENERGY,Energy,2018,3934.0,-215.0,-3968.0,11883.0,Deleverager
+JSWENERGY,Energy,2019,2491.0,-55.0,-2523.0,10555.0,Deleverager
+JSWENERGY,Energy,2020,2082.0,301.0,-1962.0,9840.0,Deleverager
+JSWENERGY,Energy,2021,3700.0,-1030.0,-2515.0,8371.0,Deleverager
+JSWENERGY,Energy,2022,2952.0,-1387.0,-781.0,8943.0,Self-Funded Reinvestor
+JSWENERGY,Energy,2023,2084.0,-6778.0,7327.0,25051.0,Externally Funded Expansion
+JSWENERGY,Energy,2024,6234.0,-8197.0,1675.0,30853.0,Externally Funded Expansion
+JSWSTEEL,Materials,2013,5844.0,-5433.0,-791.0,21625.0,Self-Funded Reinvestor
+JSWSTEEL,Materials,2014,2594.0,-5618.0,3300.0,35527.0,Externally Funded Expansion
+JSWSTEEL,Materials,2015,7876.0,-7372.0,-169.0,38754.0,Self-Funded Reinvestor
+JSWSTEEL,Materials,2016,6897.0,-3857.0,-3151.0,42204.0,Self-Funded Reinvestor
+JSWSTEEL,Materials,2017,7888.0,-5094.0,-2710.0,43334.0,Self-Funded Reinvestor
+JSWSTEEL,Materials,2018,12379.0,-4529.0,-8185.0,39393.0,Deleverager
+JSWSTEEL,Materials,2019,14633.0,-11387.0,1753.0,47396.0,Externally Funded Expansion
+JSWSTEEL,Materials,2020,12785.0,-19589.0,5189.0,61423.0,Externally Funded Expansion
+JSWSTEEL,Materials,2021,18789.0,-7702.0,-3110.0,62392.0,Self-Funded Reinvestor
+JSWSTEEL,Materials,2022,26270.0,-14748.0,-14657.0,72237.0,Self-Funded Reinvestor
+JSWSTEEL,Materials,2023,23323.0,-10730.0,-5977.0,80853.0,Self-Funded Reinvestor
+JSWSTEEL,Materials,2024,12078.0,-14467.0,-5005.0,95258.0,Self-Funded Reinvestor
+KOTAKBANK,Financials,2013,2878.0,-9035.0,7099.0,85561.0,Externally Funded Expansion
+KOTAKBANK,Financials,2014,9068.0,-1130.0,-5814.0,85937.0,Self-Funded Reinvestor
+KOTAKBANK,Financials,2015,2302.0,-4467.0,2426.0,104258.0,Externally Funded Expansion
+KOTAKBANK,Financials,2016,5025.0,-2353.0,2024.0,179679.0,Externally Funded Expansion
+KOTAKBANK,Financials,2017,13222.0,-5289.0,6055.0,205230.0,Externally Funded Expansion
+KOTAKBANK,Financials,2018,-10392.0,-5475.0,14679.0,249840.0,Distress Signal
+KOTAKBANK,Financials,2019,1822.0,-3323.0,8365.0,291763.0,Externally Funded Expansion
+KOTAKBANK,Financials,2020,46619.0,-13068.0,-735.0,326477.0,Self-Funded Reinvestor
+KOTAKBANK,Financials,2021,4881.0,-11172.0,-10072.0,327110.0,Self-Funded Reinvestor
+KOTAKBANK,Financials,2022,8308.0,-10903.0,7543.0,365747.0,Externally Funded Expansion
+KOTAKBANK,Financials,2023,-1242.0,-10381.0,1883.0,418807.0,Distress Signal
+KOTAKBANK,Financials,2024,15685.0,-8919.0,15515.0,520374.0,Externally Funded Expansion
+LICI,Financials,2019,13274.0,9636.0,-13700.0,269401.0,Cash Distributor
+LICI,Financials,2020,54367.0,-40415.0,-18664.0,253414.0,Deleverager
+LICI,Financials,2021,80602.0,148447.0,-256125.0,4.0,Deleverager
+LICI,Financials,2022,-3783.0,12531.0,0.0,1.0,Cash Burn
+LICI,Financials,2023,54519.0,-52848.0,-949.0,0.0,Deleverager
+LICI,Financials,2024,26122.0,-25269.0,-4427.0,10.0,Self-Funded Reinvestor
+LODHA,Real Estate,2016,387.0,-854.0,330.0,13835.0,Externally Funded Expansion
+LODHA,Real Estate,2017,1469.0,-1174.0,-312.0,16183.0,Self-Funded Reinvestor
+LODHA,Real Estate,2018,696.0,-651.0,24.0,22616.0,Externally Funded Expansion
+LODHA,Real Estate,2019,-463.0,-175.0,736.0,25641.0,Distress Signal
+LODHA,Real Estate,2020,3772.0,182.0,-4188.0,18423.0,Deleverager
+LODHA,Real Estate,2021,2524.0,420.0,-2835.0,18193.0,Deleverager
+LODHA,Real Estate,2022,1998.0,1139.0,-2888.0,11537.0,Deleverager
+LODHA,Real Estate,2023,2750.0,1789.0,-3706.0,9060.0,Deleverager
+LODHA,Real Estate,2024,2512.0,-2947.0,951.0,7990.0,Externally Funded Expansion
+LT,Industrials,2013,-4355.0,-6922.0,11429.0,234.0,Distress Signal
+LT,Industrials,2014,-7143.0,-5510.0,13136.0,110.0,Distress Signal
+LT,Industrials,2015,-1365.0,-4778.0,7903.0,218.0,Distress Signal
+LT,Industrials,2016,-3240.0,-4627.0,7253.0,55.0,Distress Signal
+LT,Industrials,2017,6655.0,-9796.0,2896.0,0.0,Externally Funded Expansion
+LT,Industrials,2018,-10031.0,3914.0,9370.0,0.0,Distress Signal
+LT,Industrials,2019,-4756.0,-11023.0,15440.0,0.0,Distress Signal
+LT,Industrials,2020,6694.0,-8408.0,6372.0,912.0,Externally Funded Expansion
+LT,Industrials,2021,23074.0,-5750.0,-15274.0,798.0,Deleverager
+LT,Industrials,2022,19164.0,-3585.0,-15181.0,258.0,Deleverager
+LT,Industrials,2023,22777.0,-8048.0,-11572.0,1541.0,Self-Funded Reinvestor
+LT,Industrials,2024,18266.0,2179.0,-25413.0,2326.0,Cash Distributor
+LTIM,Information Technology,2013,608.0,-224.0,-396.0,234.0,Self-Funded Reinvestor
+LTIM,Information Technology,2014,628.0,180.0,-769.0,110.0,Deleverager
+LTIM,Information Technology,2015,642.0,-103.0,-497.0,218.0,Self-Funded Reinvestor
+LTIM,Information Technology,2016,858.0,-40.0,-817.0,55.0,Deleverager
+LTIM,Information Technology,2017,1170.0,-961.0,-33.0,0.0,Deleverager
+LTIM,Information Technology,2018,844.0,-452.0,-408.0,0.0,Self-Funded Reinvestor
+LTIM,Information Technology,2019,1395.0,-749.0,-594.0,0.0,Self-Funded Reinvestor
+LTIM,Information Technology,2020,1644.0,-643.0,-890.0,912.0,Self-Funded Reinvestor
+LTIM,Information Technology,2021,2400.0,-1657.0,-509.0,798.0,Deleverager
+LTIM,Information Technology,2022,3251.0,-1643.0,-1680.0,258.0,Deleverager
+LTIM,Information Technology,2023,3095.0,-271.0,-1932.0,1541.0,Self-Funded Reinvestor
+LTIM,Information Technology,2024,5670.0,-3918.0,-2269.0,2326.0,Self-Funded Reinvestor
+M&M,Consumer Discretionary,2013,-922.0,-2903.0,4508.0,28711.0,Distress Signal
+M&M,Consumer Discretionary,2014,-244.0,-4524.0,5577.0,35167.0,Distress Signal
+M&M,Consumer Discretionary,2015,1055.0,-4357.0,1669.0,37911.0,Externally Funded Expansion
+M&M,Consumer Discretionary,2016,2385.0,-5506.0,2967.0,41553.0,Externally Funded Expansion
+M&M,Consumer Discretionary,2017,183.0,-5875.0,6108.0,48762.0,Externally Funded Expansion
+M&M,Consumer Discretionary,2018,682.0,-5467.0,6314.0,55898.0,Externally Funded Expansion
+M&M,Consumer Discretionary,2019,-4347.0,-7174.0,13194.0,70848.0,Distress Signal
+M&M,Consumer Discretionary,2020,-1457.0,-6870.0,6933.0,82092.0,Distress Signal
+M&M,Consumer Discretionary,2021,17909.0,-19686.0,406.0,80625.0,Externally Funded Expansion
+M&M,Consumer Discretionary,2022,9248.0,-3252.0,-5883.0,77605.0,Deleverager
+M&M,Consumer Discretionary,2023,-7074.0,-8866.0,15946.0,92247.0,Distress Signal
+M&M,Consumer Discretionary,2024,-5630.0,-5615.0,12281.0,116844.0,Distress Signal
+MARUTI,Consumer Discretionary,2013,4059.0,-3119.0,-979.0,1569.0,Self-Funded Reinvestor
+MARUTI,Consumer Discretionary,2014,4995.0,-4997.0,-74.0,2004.0,Self-Funded Reinvestor
+MARUTI,Consumer Discretionary,2015,6449.0,-4491.0,-2004.0,666.0,Deleverager
+MARUTI,Consumer Discretionary,2016,8482.0,-7230.0,-1237.0,231.0,Deleverager
+MARUTI,Consumer Discretionary,2017,10282.0,-9173.0,-1129.0,484.0,Self-Funded Reinvestor
+MARUTI,Consumer Discretionary,2018,11788.0,-8302.0,-3436.0,121.0,Deleverager
+MARUTI,Consumer Discretionary,2019,6601.0,-3540.0,-2948.0,160.0,Self-Funded Reinvestor
+MARUTI,Consumer Discretionary,2020,3496.0,-557.0,-3104.0,184.0,Self-Funded Reinvestor
+MARUTI,Consumer Discretionary,2021,8856.0,-7291.0,-1545.0,541.0,Self-Funded Reinvestor
+MARUTI,Consumer Discretionary,2022,1840.0,-239.0,-1607.0,426.0,Deleverager
+MARUTI,Consumer Discretionary,2023,10815.0,-8820.0,-1214.0,1248.0,Self-Funded Reinvestor
+MARUTI,Consumer Discretionary,2024,16801.0,-11865.0,-4062.0,158.0,Deleverager
+MOTHERSON,Consumer Discretionary,2013,1486.0,-1089.0,-256.0,4904.0,Self-Funded Reinvestor
+MOTHERSON,Consumer Discretionary,2014,2695.0,-1372.0,-1080.0,4840.0,Deleverager
+MOTHERSON,Consumer Discretionary,2015,3390.0,-2844.0,494.0,5131.0,Externally Funded Expansion
+MOTHERSON,Consumer Discretionary,2016,2188.0,-1906.0,-263.0,6069.0,Self-Funded Reinvestor
+MOTHERSON,Consumer Discretionary,2017,3800.0,-6145.0,5518.0,10349.0,Externally Funded Expansion
+MOTHERSON,Consumer Discretionary,2018,3264.0,-3194.0,-2221.0,10374.0,Self-Funded Reinvestor
+MOTHERSON,Consumer Discretionary,2019,4312.0,-3318.0,-225.0,11534.0,Self-Funded Reinvestor
+MOTHERSON,Consumer Discretionary,2020,6352.0,-2220.0,-2803.0,13136.0,Self-Funded Reinvestor
+MOTHERSON,Consumer Discretionary,2021,5051.0,-1886.0,-2098.0,11930.0,Deleverager
+MOTHERSON,Consumer Discretionary,2022,2463.0,-2304.0,-1217.0,14130.0,Self-Funded Reinvestor
+MOTHERSON,Consumer Discretionary,2023,4643.0,-2248.0,-2734.0,13792.0,Deleverager
+MOTHERSON,Consumer Discretionary,2024,7569.0,-6644.0,1281.0,25417.0,Externally Funded Expansion
+NAUKRI,Communication Services,2013,75.0,-46.0,-12.0,1.0,Self-Funded Reinvestor
+NAUKRI,Communication Services,2014,81.0,-204.0,130.0,1.0,Externally Funded Expansion
+NAUKRI,Communication Services,2015,51.0,-1051.0,1025.0,1.0,Externally Funded Expansion
+NAUKRI,Communication Services,2016,78.0,-2.0,-66.0,1.0,Self-Funded Reinvestor
+NAUKRI,Communication Services,2017,213.0,-165.0,-42.0,1.0,Self-Funded Reinvestor
+NAUKRI,Communication Services,2018,253.0,-149.0,-75.0,1.0,Self-Funded Reinvestor
+NAUKRI,Communication Services,2019,276.0,-59.0,-78.0,1.0,Self-Funded Reinvestor
+NAUKRI,Communication Services,2020,350.0,97.0,-143.0,77.0,Cash Distributor
+NAUKRI,Communication Services,2021,276.0,-2043.0,1880.0,65.0,Externally Funded Expansion
+NAUKRI,Communication Services,2022,707.0,-1177.0,35.0,64.0,Externally Funded Expansion
+NAUKRI,Communication Services,2023,512.0,-358.0,2.0,108.0,Externally Funded Expansion
+NAUKRI,Communication Services,2024,702.0,-852.0,120.0,256.0,Externally Funded Expansion
+NESTLEIND,Consumer Staples,2013,1796.0,-441.0,-580.0,1189.0,Self-Funded Reinvestor
+NESTLEIND,Consumer Staples,2014,1644.0,-432.0,-1635.0,20.0,Deleverager
+NESTLEIND,Consumer Staples,2015,1098.0,-70.0,-498.0,18.0,Deleverager
+NESTLEIND,Consumer Staples,2016,1466.0,-126.0,-666.0,33.0,Self-Funded Reinvestor
+NESTLEIND,Consumer Staples,2017,1818.0,-131.0,-997.0,35.0,Self-Funded Reinvestor
+NESTLEIND,Consumer Staples,2018,2052.0,-52.0,-1317.0,35.0,Self-Funded Reinvestor
+NESTLEIND,Consumer Staples,2019,2295.0,83.0,-3602.0,189.0,Cash Distributor
+NESTLEIND,Consumer Staples,2020,2454.0,-321.0,-1956.0,147.0,Deleverager
+NESTLEIND,Consumer Staples,2021,2236.0,-1920.0,-2020.0,266.0,Self-Funded Reinvestor
+NESTLEIND,Consumer Staples,2022,2737.0,-392.0,-2123.0,271.0,Self-Funded Reinvestor
+NESTLEIND,Consumer Staples,2023,3392.0,-927.0,-2436.0,271.0,Self-Funded Reinvestor
+NESTLEIND,Consumer Staples,2024,4175.0,-1237.0,-3135.0,370.0,Self-Funded Reinvestor
+NHPC,Energy,2013,2846.0,-1330.0,-1344.0,20340.0,Self-Funded Reinvestor
+NHPC,Energy,2014,3824.0,-1122.0,-4536.0,20819.0,Self-Funded Reinvestor
+NHPC,Energy,2015,4061.0,-768.0,-2494.0,20584.0,Deleverager
+NHPC,Energy,2016,5971.0,-746.0,-4000.0,19938.0,Deleverager
+NHPC,Energy,2017,8329.0,-1864.0,-7812.0,19227.0,Deleverager
+NHPC,Energy,2018,4696.0,-886.0,-3863.0,18602.0,Deleverager
+NHPC,Energy,2019,3824.0,-1182.0,-2637.0,19066.0,Self-Funded Reinvestor
+NHPC,Energy,2020,2993.0,-2987.0,12.0,23226.0,Externally Funded Expansion
+NHPC,Energy,2021,5070.0,-1607.0,-3058.0,23365.0,Self-Funded Reinvestor
+NHPC,Energy,2022,4590.0,-3084.0,-638.0,26096.0,Self-Funded Reinvestor
+NHPC,Energy,2023,4705.0,-4191.0,-795.0,29540.0,Self-Funded Reinvestor
+NHPC,Energy,2024,6938.0,-5968.0,-581.0,34210.0,Self-Funded Reinvestor
+NTPC,Energy,2013,16508.0,-16845.0,988.0,70419.0,Externally Funded Expansion
+NTPC,Energy,2014,16531.0,-15509.0,-2709.0,81455.0,Self-Funded Reinvestor
+NTPC,Energy,2015,14889.0,-15977.0,-1474.0,102252.0,Self-Funded Reinvestor
+NTPC,Energy,2016,24125.0,-19162.0,-3899.0,99424.0,Deleverager
+NTPC,Energy,2017,20167.0,-24480.0,3138.0,113773.0,Externally Funded Expansion
+NTPC,Energy,2018,19670.0,-20678.0,1028.0,130049.0,Externally Funded Expansion
+NTPC,Energy,2019,18686.0,-24063.0,4927.0,173058.0,Externally Funded Expansion
+NTPC,Energy,2020,23890.0,-29628.0,6004.0,202984.0,Externally Funded Expansion
+NTPC,Energy,2021,32444.0,-21034.0,-11049.0,210208.0,Self-Funded Reinvestor
+NTPC,Energy,2022,41788.0,-22891.0,-19172.0,210707.0,Self-Funded Reinvestor
+NTPC,Energy,2023,47152.0,-26145.0,-21217.0,222913.0,Self-Funded Reinvestor
+NTPC,Energy,2024,40785.0,-32141.0,-8246.0,242009.0,Self-Funded Reinvestor
+ONGC,Energy,2013,39874.0,-41220.0,-6927.0,20686.0,Self-Funded Reinvestor
+ONGC,Energy,2014,53270.0,-63633.0,15225.0,49113.0,Externally Funded Expansion
+ONGC,Energy,2015,33950.0,-30058.0,-10641.0,53944.0,Self-Funded Reinvestor
+ONGC,Energy,2016,46292.0,-38256.0,-8972.0,45500.0,Deleverager
+ONGC,Energy,2017,45780.0,-43815.0,-1867.0,80029.0,Self-Funded Reinvestor
+ONGC,Energy,2018,56792.0,-66798.0,9909.0,106550.0,Externally Funded Expansion
+ONGC,Energy,2019,61458.0,-37132.0,-23324.0,107742.0,Self-Funded Reinvestor
+ONGC,Energy,2020,70593.0,-53159.0,-16726.0,129473.0,Self-Funded Reinvestor
+ONGC,Energy,2021,47185.0,-39141.0,-8239.0,133187.0,Self-Funded Reinvestor
+ONGC,Energy,2022,78248.0,-41197.0,-35790.0,121986.0,Deleverager
+ONGC,Energy,2023,86062.0,-74690.0,-12876.0,142255.0,Self-Funded Reinvestor
+ONGC,Energy,2024,99263.0,-57203.0,-45650.0,191489.0,Self-Funded Reinvestor
+PFC,Financials,2013,-25102.0,22.0,27947.0,139473.0,Distress Signal
+PFC,Financials,2014,-22473.0,9.0,17671.0,159215.0,Distress Signal
+PFC,Financials,2015,-21455.0,-491.0,26916.0,187795.0,Distress Signal
+PFC,Financials,2016,-13298.0,-1973.0,10383.0,200660.0,Distress Signal
+PFC,Financials,2017,1795.0,-667.0,1950.0,202993.0,Externally Funded Expansion
+PFC,Financials,2018,-57148.0,1409.0,52018.0,441151.0,Distress Signal
+PFC,Financials,2019,-80252.0,-13463.0,93616.0,539488.0,Distress Signal
+PFC,Financials,2020,-42148.0,-73.0,43399.0,596561.0,Distress Signal
+PFC,Financials,2021,-59143.0,1741.0,60424.0,659682.0,Distress Signal
+PFC,Financials,2022,4904.0,-547.0,-8371.0,660476.0,Self-Funded Reinvestor
+PFC,Financials,2023,-74717.0,-1694.0,75537.0,751158.0,Distress Signal
+PFC,Financials,2024,-97820.0,-3409.0,101261.0,910447.0,Distress Signal
+PIDILITIND,Materials,2013,472.0,-144.0,-339.0,111.0,Self-Funded Reinvestor
+PIDILITIND,Materials,2014,394.0,-99.0,-242.0,46.0,Deleverager
+PIDILITIND,Materials,2015,552.0,-436.0,-165.0,58.0,Self-Funded Reinvestor
+PIDILITIND,Materials,2016,907.0,-491.0,-371.0,80.0,Self-Funded Reinvestor
+PIDILITIND,Materials,2017,794.0,-879.0,41.0,98.0,Externally Funded Expansion
+PIDILITIND,Materials,2018,796.0,39.0,-790.0,125.0,Cash Distributor
+PIDILITIND,Materials,2019,845.0,-513.0,-361.0,113.0,Deleverager
+PIDILITIND,Materials,2020,1280.0,103.0,-849.0,288.0,Cash Distributor
+PIDILITIND,Materials,2021,1392.0,-1688.0,-76.0,331.0,Self-Funded Reinvestor
+PIDILITIND,Materials,2022,955.0,-558.0,-468.0,416.0,Self-Funded Reinvestor
+PIDILITIND,Materials,2023,1558.0,-899.0,-656.0,391.0,Deleverager
+PIDILITIND,Materials,2024,2724.0,-1769.0,-742.0,379.0,Deleverager
+PNB,Financials,2013,-692.0,-600.0,-694.0,6695.0,Cash Burn
+PNB,Financials,2014,16906.0,-302.0,2129.0,10108.0,Externally Funded Expansion
+PNB,Financials,2015,4814.0,-872.0,7451.0,16481.0,Externally Funded Expansion
+PNB,Financials,2016,14167.0,-1352.0,5975.0,26014.0,Externally Funded Expansion
+PNB,Financials,2017,21938.0,159.0,-9767.0,35497.0,Cash Distributor
+PNB,Financials,2018,-1742.0,392.0,7460.0,53777.0,Distress Signal
+PNB,Financials,2019,-33532.0,-629.0,13969.0,71859.0,Distress Signal
+PNB,Financials,2020,-12793.0,-338.0,13591.0,67736.0,Distress Signal
+PNB,Financials,2021,30950.0,-787.0,5415.0,59394.0,Externally Funded Expansion
+PNB,Financials,2022,20032.0,-1204.0,2032.0,52961.0,Externally Funded Expansion
+PNB,Financials,2023,22592.0,-732.0,1275.0,53621.0,Externally Funded Expansion
+PNB,Financials,2024,-27939.0,-1506.0,3518.0,55017.0,Distress Signal
+POWERGRID,Energy,2013,11690.0,-22084.0,9962.0,69233.0,Externally Funded Expansion
+POWERGRID,Energy,2014,15223.0,-26639.0,13712.0,84220.0,Externally Funded Expansion
+POWERGRID,Energy,2015,15800.0,-24185.0,6399.0,96243.0,Externally Funded Expansion
+POWERGRID,Energy,2016,15008.0,-21576.0,5621.0,108545.0,Externally Funded Expansion
+POWERGRID,Energy,2017,21575.0,-23836.0,3959.0,118988.0,Externally Funded Expansion
+POWERGRID,Energy,2018,22710.0,-25701.0,1285.0,131503.0,Externally Funded Expansion
+POWERGRID,Energy,2019,23271.0,-18727.0,-2431.0,146376.0,Self-Funded Reinvestor
+POWERGRID,Energy,2020,30739.0,-10733.0,-18806.0,148270.0,Self-Funded Reinvestor
+POWERGRID,Energy,2021,29403.0,-9244.0,-20521.0,143232.0,Deleverager
+POWERGRID,Energy,2022,26124.0,753.0,-28967.0,134696.0,Deleverager
+POWERGRID,Energy,2023,40203.0,-7138.0,-30450.0,128584.0,Deleverager
+POWERGRID,Energy,2024,37290.0,-13114.0,-25903.0,122568.0,Deleverager
+RECLTD,Financials,2013,-20059.0,152.0,16059.0,107762.0,Distress Signal
+RECLTD,Financials,2014,-17244.0,136.0,16815.0,126173.0,Distress Signal
+RECLTD,Financials,2015,-23898.0,151.0,23098.0,150979.0,Distress Signal
+RECLTD,Financials,2016,-13278.0,-756.0,15291.0,169212.0,Distress Signal
+RECLTD,Financials,2017,6805.0,-101.0,-3947.0,167852.0,Deleverager
+RECLTD,Financials,2018,-32510.0,46.0,28244.0,204367.0,Distress Signal
+RECLTD,Financials,2019,-35866.0,457.0,35543.0,244249.0,Distress Signal
+RECLTD,Financials,2020,-32712.0,121.0,33926.0,286289.0,Distress Signal
+RECLTD,Financials,2021,-43512.0,861.0,42113.0,329723.0,Distress Signal
+RECLTD,Financials,2022,-819.0,-287.0,68.0,333043.0,Distress Signal
+RECLTD,Financials,2023,-37360.0,-943.0,38123.0,380790.0,Distress Signal
+RECLTD,Financials,2024,-57723.0,-1831.0,59588.0,483617.0,Distress Signal
+RELIANCE,Energy,2013,36918.0,-27601.0,408.0,107219.0,Externally Funded Expansion
+RELIANCE,Energy,2014,43261.0,-73070.0,13713.0,138761.0,Externally Funded Expansion
+RELIANCE,Energy,2015,34374.0,-64706.0,8444.0,168251.0,Externally Funded Expansion
+RELIANCE,Energy,2016,38134.0,-36186.0,-3210.0,194714.0,Self-Funded Reinvestor
+RELIANCE,Energy,2017,49550.0,-66201.0,8617.0,217475.0,Externally Funded Expansion
+RELIANCE,Energy,2018,71459.0,-68192.0,-2001.0,239843.0,Self-Funded Reinvestor
+RELIANCE,Energy,2019,42346.0,-94507.0,55906.0,307714.0,Externally Funded Expansion
+RELIANCE,Energy,2020,94877.0,-72497.0,-2541.0,355133.0,Self-Funded Reinvestor
+RELIANCE,Energy,2021,26958.0,-142385.0,101904.0,278962.0,Externally Funded Expansion
+RELIANCE,Energy,2022,110654.0,-109162.0,17289.0,319158.0,Externally Funded Expansion
+RELIANCE,Energy,2023,115032.0,-93001.0,10455.0,451664.0,Externally Funded Expansion
+RELIANCE,Energy,2024,158788.0,-113581.0,-16646.0,357525.0,Deleverager
+SBILIFE,Financials,2013,1130.0,-227.0,-58.0,0.0,Self-Funded Reinvestor
+SBILIFE,Financials,2014,166.0,-708.0,-58.0,0.0,Self-Funded Reinvestor
+SBILIFE,Financials,2015,2711.0,-178.0,-117.0,0.0,Self-Funded Reinvestor
+SBILIFE,Financials,2016,5778.0,-7204.0,-144.0,0.0,Self-Funded Reinvestor
+SBILIFE,Financials,2017,8525.0,-9032.0,-144.0,0.0,Self-Funded Reinvestor
+SBILIFE,Financials,2018,10395.0,-8910.0,-221.0,0.0,Self-Funded Reinvestor
+SBILIFE,Financials,2019,13473.0,-13552.0,-241.0,0.0,Self-Funded Reinvestor
+SBILIFE,Financials,2020,19299.0,-16986.0,-198.0,0.0,Self-Funded Reinvestor
+SBILIFE,Financials,2021,23878.0,-19203.0,3.0,0.0,Externally Funded Expansion
+SBILIFE,Financials,2022,21852.0,-21611.0,-231.0,0.0,Self-Funded Reinvestor
+SBILIFE,Financials,2023,28656.0,-30203.0,-415.0,0.0,Self-Funded Reinvestor
+SBILIFE,Financials,2024,29122.0,-31221.0,-227.0,0.0,Self-Funded Reinvestor
+SBIN,Financials,2013,24332.0,-2271.0,-4424.0,,Self-Funded Reinvestor
+SBIN,Financials,2014,19142.0,-791.0,3583.0,,Externally Funded Expansion
+SBIN,Financials,2015,26297.0,-3424.0,-1553.0,,Self-Funded Reinvestor
+SBIN,Financials,2016,14477.0,-2747.0,4348.0,,Externally Funded Expansion
+SBIN,Financials,2017,77406.0,-4572.0,-4196.0,,Self-Funded Reinvestor
+SBIN,Financials,2018,-96508.0,13053.0,5547.0,,Distress Signal
+SBIN,Financials,2019,29556.0,220.0,448.0,,Cash Accumulator
+SBIN,Financials,2020,23929.0,-555.0,5430.0,,Externally Funded Expansion
+SBIN,Financials,2021,89919.0,-3670.0,7143.0,,Externally Funded Expansion
+SBIN,Financials,2022,57695.0,-2652.0,-3845.0,,Self-Funded Reinvestor
+SBIN,Financials,2023,-86014.0,-966.0,6386.0,,Distress Signal
+SBIN,Financials,2024,21632.0,-3476.0,-9896.0,,Self-Funded Reinvestor
+SHREECEM,Materials,2013,1260.0,-270.0,-982.0,1288.0,Self-Funded Reinvestor
+SHREECEM,Materials,2014,1401.0,-1234.0,-156.0,1200.0,Deleverager
+SHREECEM,Materials,2015,1239.0,-990.0,-259.0,917.0,Deleverager
+SHREECEM,Materials,2016,1566.0,-1265.0,-271.0,881.0,Deleverager
+SHREECEM,Materials,2017,2202.0,-2048.0,-167.0,1293.0,Self-Funded Reinvestor
+SHREECEM,Materials,2018,1879.0,-3595.0,1726.0,3403.0,Externally Funded Expansion
+SHREECEM,Materials,2019,2080.0,-720.0,-1276.0,2803.0,Deleverager
+SHREECEM,Materials,2020,3973.0,-5590.0,1581.0,3146.0,Externally Funded Expansion
+SHREECEM,Materials,2021,4254.0,-2651.0,-1233.0,2230.0,Deleverager
+SHREECEM,Materials,2022,2668.0,-2143.0,-849.0,2129.0,Deleverager
+SHREECEM,Materials,2023,2569.0,-2405.0,-277.0,2725.0,Self-Funded Reinvestor
+SHREECEM,Materials,2024,3347.0,-1418.0,-1710.0,1682.0,Deleverager
+SHRIRAMFIN,Financials,2013,-8359.0,-41.0,9060.0,33386.0,Distress Signal
+SHRIRAMFIN,Financials,2014,-4055.0,-112.0,5010.0,38630.0,Distress Signal
+SHRIRAMFIN,Financials,2015,-9611.0,-45.0,7836.0,46695.0,Distress Signal
+SHRIRAMFIN,Financials,2016,-5507.0,-36.0,2822.0,49790.0,Distress Signal
+SHRIRAMFIN,Financials,2017,-2677.0,-2.0,3017.0,53080.0,Distress Signal
+SHRIRAMFIN,Financials,2018,-13142.0,86.0,13014.0,82131.0,Distress Signal
+SHRIRAMFIN,Financials,2019,-5535.0,-76.0,5550.0,87914.0,Distress Signal
+SHRIRAMFIN,Financials,2020,-2464.0,-55.0,4579.0,94735.0,Distress Signal
+SHRIRAMFIN,Financials,2021,-4239.0,-25.0,12226.0,106546.0,Distress Signal
+SHRIRAMFIN,Financials,2022,-8859.0,-34.0,8505.0,114846.0,Distress Signal
+SHRIRAMFIN,Financials,2023,-17625.0,5076.0,11820.0,164202.0,Distress Signal
+SHRIRAMFIN,Financials,2024,-31101.0,-258.0,27609.0,207820.0,Distress Signal
+SIEMENS,Industrials,2011,3.0,264.0,-196.0,0.0,Cash Distributor
+SIEMENS,Industrials,2014,608.0,130.0,-220.0,0.0,Cash Distributor
+SIEMENS,Industrials,2015,574.0,646.0,-245.0,25.0,Cash Distributor
+SIEMENS,Industrials,2016,513.0,237.0,-1614.0,25.0,Cash Distributor
+SIEMENS,Industrials,2017,573.0,1321.0,-285.0,0.0,Deleverager
+SIEMENS,Industrials,2018,100.0,-174.0,-305.0,0.0,Self-Funded Reinvestor
+SIEMENS,Industrials,2019,1273.0,-1135.0,-312.0,0.0,Self-Funded Reinvestor
+SIEMENS,Industrials,2020,720.0,871.0,-386.0,0.0,Cash Distributor
+SIEMENS,Industrials,2021,1422.0,-2389.0,-502.0,4.0,Self-Funded Reinvestor
+SIEMENS,Industrials,2022,978.0,-34.0,-392.0,182.0,Self-Funded Reinvestor
+SIEMENS,Industrials,2023,1400.0,-759.0,-450.0,175.0,Deleverager
+SIEMENS,Industrials,2024,1670.0,-502.0,-523.0,279.0,Self-Funded Reinvestor
+SUNPHARMA,Healthcare,2013,3357.0,-2375.0,-665.0,260.0,Self-Funded Reinvestor
+SUNPHARMA,Healthcare,2014,3959.0,-2176.0,507.0,2561.0,Externally Funded Expansion
+SUNPHARMA,Healthcare,2015,5616.0,-1502.0,-1187.0,8996.0,Self-Funded Reinvestor
+SUNPHARMA,Healthcare,2016,6686.0,-3949.0,-1889.0,8497.0,Deleverager
+SUNPHARMA,Healthcare,2017,7082.0,-4186.0,-2285.0,9832.0,Self-Funded Reinvestor
+SUNPHARMA,Healthcare,2018,3907.0,-3104.0,-1539.0,10385.0,Self-Funded Reinvestor
+SUNPHARMA,Healthcare,2019,2196.0,-310.0,-2731.0,10514.0,Self-Funded Reinvestor
+SUNPHARMA,Healthcare,2020,6555.0,-2225.0,-5715.0,8315.0,Deleverager
+SUNPHARMA,Healthcare,2021,6170.0,407.0,-5980.0,3869.0,Deleverager
+SUNPHARMA,Healthcare,2022,8985.0,-5556.0,-5193.0,1290.0,Deleverager
+SUNPHARMA,Healthcare,2023,4959.0,-7220.0,2376.0,6886.0,Externally Funded Expansion
+SUNPHARMA,Healthcare,2024,12135.0,-763.0,-6710.0,2572.0,Deleverager
+TATACONSUM,Consumer Staples,2013,173.0,24.0,186.0,1389.0,Cash Accumulator
+TATACONSUM,Consumer Staples,2014,422.0,-1.0,-363.0,1438.0,Self-Funded Reinvestor
+TATACONSUM,Consumer Staples,2015,418.0,-207.0,-392.0,1324.0,Deleverager
+TATACONSUM,Consumer Staples,2016,116.0,145.0,-282.0,1354.0,Cash Distributor
+TATACONSUM,Consumer Staples,2017,741.0,145.0,-816.0,787.0,Deleverager
+TATACONSUM,Consumer Staples,2018,356.0,-31.0,-30.0,1068.0,Self-Funded Reinvestor
+TATACONSUM,Consumer Staples,2019,210.0,53.0,-224.0,1141.0,Cash Distributor
+TATACONSUM,Consumer Staples,2020,1082.0,-622.0,-308.0,1586.0,Self-Funded Reinvestor
+TATACONSUM,Consumer Staples,2021,1656.0,-346.0,-426.0,1634.0,Self-Funded Reinvestor
+TATACONSUM,Consumer Staples,2022,1516.0,-1317.0,-995.0,1412.0,Deleverager
+TATACONSUM,Consumer Staples,2023,1461.0,-834.0,-714.0,1600.0,Self-Funded Reinvestor
+TATACONSUM,Consumer Staples,2024,1937.0,-1911.0,256.0,2955.0,Externally Funded Expansion
+TATAMOTORS,Consumer Discretionary,2013,22163.0,-22969.0,-1692.0,53716.0,Self-Funded Reinvestor
+TATAMOTORS,Consumer Discretionary,2014,36151.0,-27991.0,-3883.0,60642.0,Self-Funded Reinvestor
+TATAMOTORS,Consumer Discretionary,2015,35531.0,-36232.0,5201.0,73610.0,Externally Funded Expansion
+TATAMOTORS,Consumer Discretionary,2016,37900.0,-36694.0,-3795.0,69360.0,Deleverager
+TATAMOTORS,Consumer Discretionary,2017,30199.0,-39571.0,6205.0,78604.0,Externally Funded Expansion
+TATAMOTORS,Consumer Discretionary,2018,23857.0,-25139.0,2012.0,88950.0,Externally Funded Expansion
+TATAMOTORS,Consumer Discretionary,2019,18891.0,-20878.0,8830.0,106175.0,Externally Funded Expansion
+TATAMOTORS,Consumer Discretionary,2020,26633.0,-33115.0,3390.0,124788.0,Externally Funded Expansion
+TATAMOTORS,Consumer Discretionary,2021,29001.0,-25672.0,9904.0,142131.0,Externally Funded Expansion
+TATAMOTORS,Consumer Discretionary,2022,14283.0,-4444.0,-3380.0,146449.0,Self-Funded Reinvestor
+TATAMOTORS,Consumer Discretionary,2023,35388.0,-15417.0,-26243.0,134113.0,Deleverager
+TATAMOTORS,Consumer Discretionary,2024,67915.0,-22782.0,-37006.0,106549.0,Deleverager
+TATAPOWER,Energy,2013,3286.0,-4026.0,-593.0,37882.0,Self-Funded Reinvestor
+TATAPOWER,Energy,2014,6483.0,-3609.0,-3265.0,40173.0,Self-Funded Reinvestor
+TATAPOWER,Energy,2015,5981.0,-3865.0,-2239.0,40607.0,Self-Funded Reinvestor
+TATAPOWER,Energy,2016,7415.0,-1805.0,-6183.0,38849.0,Deleverager
+TATAPOWER,Energy,2017,7014.0,-7373.0,937.0,48815.0,Externally Funded Expansion
+TATAPOWER,Energy,2018,6364.0,-1512.0,-4726.0,48589.0,Deleverager
+TATAPOWER,Energy,2019,4574.0,-272.0,-5184.0,48506.0,Deleverager
+TATAPOWER,Energy,2020,7375.0,-493.0,-5110.0,51936.0,Self-Funded Reinvestor
+TATAPOWER,Energy,2021,8345.0,993.0,-7603.0,46708.0,Deleverager
+TATAPOWER,Energy,2022,6693.0,-6250.0,-1183.0,51195.0,Self-Funded Reinvestor
+TATAPOWER,Energy,2023,7166.0,-7263.0,1341.0,52923.0,Externally Funded Expansion
+TATAPOWER,Energy,2024,12596.0,-9027.0,-4497.0,58314.0,Self-Funded Reinvestor
+TATASTEEL,Materials,2013,14035.0,-13099.0,-1780.0,68529.0,Self-Funded Reinvestor
+TATASTEEL,Materials,2014,13146.0,-15378.0,1015.0,81629.0,Externally Funded Expansion
+TATASTEEL,Materials,2015,11880.0,-9021.0,-2617.0,80701.0,Deleverager
+TATASTEEL,Materials,2016,11455.0,-8794.0,-4729.0,81987.0,Self-Funded Reinvestor
+TATASTEEL,Materials,2017,10824.0,-9490.0,-2579.0,83014.0,Self-Funded Reinvestor
+TATASTEEL,Materials,2018,8023.0,-11730.0,6640.0,92147.0,Externally Funded Expansion
+TATASTEEL,Materials,2019,25336.0,-29176.0,-673.0,100816.0,Self-Funded Reinvestor
+TATASTEEL,Materials,2020,20169.0,-14012.0,-1695.0,116328.0,Self-Funded Reinvestor
+TATASTEEL,Materials,2021,44327.0,-9437.0,-37090.0,88501.0,Deleverager
+TATASTEEL,Materials,2022,44381.0,-10905.0,-23401.0,75561.0,Deleverager
+TATASTEEL,Materials,2023,21683.0,-18179.0,-6981.0,84893.0,Self-Funded Reinvestor
+TATASTEEL,Materials,2024,20301.0,-14253.0,-11097.0,99392.0,Self-Funded Reinvestor
+TCS,Information Technology,2013,11615.0,-6038.0,-5729.0,332.0,Self-Funded Reinvestor
+TCS,Information Technology,2014,14751.0,-9452.0,-5673.0,297.0,Deleverager
+TCS,Information Technology,2015,19369.0,-1807.0,-17168.0,358.0,Self-Funded Reinvestor
+TCS,Information Technology,2016,19109.0,-5010.0,-9666.0,245.0,Deleverager
+TCS,Information Technology,2017,25223.0,-16895.0,-11026.0,289.0,Self-Funded Reinvestor
+TCS,Information Technology,2018,25067.0,3104.0,-26885.0,247.0,Deleverager
+TCS,Information Technology,2019,28593.0,1645.0,-27897.0,62.0,Deleverager
+TCS,Information Technology,2020,32369.0,8968.0,-39915.0,8174.0,Cash Distributor
+TCS,Information Technology,2021,38802.0,-7956.0,-32634.0,7795.0,Deleverager
+TCS,Information Technology,2022,39949.0,-738.0,-33581.0,7818.0,Self-Funded Reinvestor
+TCS,Information Technology,2023,41965.0,548.0,-47878.0,7688.0,Deleverager
+TCS,Information Technology,2024,44338.0,6091.0,-48536.0,9046.0,Cash Distributor
+TECHM,Information Technology,2013,855.0,-622.0,65.0,1380.0,Externally Funded Expansion
+TECHM,Information Technology,2014,1596.0,291.0,-972.0,363.0,Deleverager
+TECHM,Information Technology,2015,2448.0,-1865.0,-829.0,700.0,Self-Funded Reinvestor
+TECHM,Information Technology,2016,3137.0,-1453.0,-496.0,1091.0,Self-Funded Reinvestor
+TECHM,Information Technology,2017,4071.0,-2893.0,-1571.0,1366.0,Self-Funded Reinvestor
+TECHM,Information Technology,2018,3554.0,-3319.0,-269.0,2397.0,Self-Funded Reinvestor
+TECHM,Information Technology,2019,4432.0,-2104.0,-2251.0,1996.0,Deleverager
+TECHM,Information Technology,2020,4358.0,1081.0,-4466.0,3670.0,Cash Distributor
+TECHM,Information Technology,2021,8094.0,-5433.0,-2987.0,2901.0,Deleverager
+TECHM,Information Technology,2022,5285.0,480.0,-4667.0,2618.0,Deleverager
+TECHM,Information Technology,2023,5572.0,-226.0,-5078.0,2740.0,Self-Funded Reinvestor
+TECHM,Information Technology,2024,6376.0,-1318.0,-4767.0,2035.0,Deleverager
+TITAN,Consumer Discretionary,2013,553.0,-142.0,-236.0,0.0,Self-Funded Reinvestor
+TITAN,Consumer Discretionary,2014,-555.0,-271.0,497.0,807.0,Distress Signal
+TITAN,Consumer Discretionary,2015,503.0,-118.0,-1005.0,100.0,Deleverager
+TITAN,Consumer Discretionary,2016,576.0,-159.0,-505.0,113.0,Self-Funded Reinvestor
+TITAN,Consumer Discretionary,2017,1712.0,-953.0,-166.0,1882.0,Self-Funded Reinvestor
+TITAN,Consumer Discretionary,2018,-51.0,98.0,-252.0,1691.0,Cash Burn
+TITAN,Consumer Discretionary,2019,1243.0,-797.0,-489.0,2393.0,Self-Funded Reinvestor
+TITAN,Consumer Discretionary,2020,-348.0,235.0,-242.0,3562.0,Cash Burn
+TITAN,Consumer Discretionary,2021,4139.0,-2799.0,-1234.0,5638.0,Self-Funded Reinvestor
+TITAN,Consumer Discretionary,2022,-724.0,1165.0,-403.0,7275.0,Cash Burn
+TITAN,Consumer Discretionary,2023,1370.0,-1814.0,457.0,9367.0,Externally Funded Expansion
+TITAN,Consumer Discretionary,2024,1695.0,-189.0,-1329.0,21648.0,Self-Funded Reinvestor
+TORNTPHARM,Healthcare,2013,153.0,-247.0,20.0,693.0,Externally Funded Expansion
+TORNTPHARM,Healthcare,2014,599.0,-418.0,86.0,1132.0,Externally Funded Expansion
+TORNTPHARM,Healthcare,2015,810.0,-2113.0,1212.0,2740.0,Externally Funded Expansion
+TORNTPHARM,Healthcare,2016,2742.0,-869.0,-1435.0,2352.0,Deleverager
+TORNTPHARM,Healthcare,2017,1009.0,-798.0,-193.0,2510.0,Self-Funded Reinvestor
+TORNTPHARM,Healthcare,2018,894.0,-4677.0,3417.0,6462.0,Externally Funded Expansion
+TORNTPHARM,Healthcare,2019,1798.0,-246.0,-1314.0,6038.0,Deleverager
+TORNTPHARM,Healthcare,2020,1393.0,229.0,-1549.0,5784.0,Deleverager
+TORNTPHARM,Healthcare,2021,2005.0,-444.0,-1651.0,4874.0,Deleverager
+TORNTPHARM,Healthcare,2022,1803.0,-196.0,-1781.0,4070.0,Deleverager
+TORNTPHARM,Healthcare,2023,2368.0,-2335.0,77.0,5369.0,Externally Funded Expansion
+TORNTPHARM,Healthcare,2024,3266.0,-160.0,-2780.0,3128.0,Deleverager
+TRENT,Consumer Discretionary,2013,31.0,-276.0,147.0,343.0,Externally Funded Expansion
+TRENT,Consumer Discretionary,2014,-46.0,-48.0,-50.0,332.0,Cash Burn
+TRENT,Consumer Discretionary,2015,-10.0,-306.0,310.0,267.0,Distress Signal
+TRENT,Consumer Discretionary,2016,109.0,-98.0,-13.0,400.0,Self-Funded Reinvestor
+TRENT,Consumer Discretionary,2017,102.0,-44.0,-51.0,392.0,Deleverager
+TRENT,Consumer Discretionary,2018,77.0,-4.0,-74.0,391.0,Deleverager
+TRENT,Consumer Discretionary,2019,21.0,-37.0,37.0,494.0,Externally Funded Expansion
+TRENT,Consumer Discretionary,2020,361.0,-809.0,452.0,300.0,Externally Funded Expansion
+TRENT,Consumer Discretionary,2021,285.0,18.0,-283.0,300.0,Cash Distributor
+TRENT,Consumer Discretionary,2022,58.0,56.0,-108.0,4725.0,Cash Distributor
+TRENT,Consumer Discretionary,2023,595.0,-103.0,-491.0,4464.0,Deleverager
+TRENT,Consumer Discretionary,2024,1349.0,-508.0,-629.0,1842.0,Deleverager
+TVSMOTOR,Consumer Discretionary,2013,464.0,-120.0,-402.0,1068.0,Self-Funded Reinvestor
+TVSMOTOR,Consumer Discretionary,2014,470.0,-235.0,-216.0,728.0,Deleverager
+TVSMOTOR,Consumer Discretionary,2015,83.0,-415.0,261.0,1119.0,Externally Funded Expansion
+TVSMOTOR,Consumer Discretionary,2016,936.0,-605.0,-319.0,1091.0,Deleverager
+TVSMOTOR,Consumer Discretionary,2017,689.0,-709.0,-59.0,1311.0,Self-Funded Reinvestor
+TVSMOTOR,Consumer Discretionary,2018,354.0,-1095.0,897.0,6928.0,Externally Funded Expansion
+TVSMOTOR,Consumer Discretionary,2019,-918.0,-1104.0,2210.0,9298.0,Distress Signal
+TVSMOTOR,Consumer Discretionary,2020,373.0,-1090.0,1619.0,11591.0,Externally Funded Expansion
+TVSMOTOR,Consumer Discretionary,2021,1151.0,-882.0,264.0,12179.0,Externally Funded Expansion
+TVSMOTOR,Consumer Discretionary,2022,-1575.0,-1471.0,2918.0,15827.0,Distress Signal
+TVSMOTOR,Consumer Discretionary,2023,-4405.0,-1308.0,6118.0,22376.0,Distress Signal
+TVSMOTOR,Consumer Discretionary,2024,-1253.0,-1001.0,2759.0,14619.0,Distress Signal

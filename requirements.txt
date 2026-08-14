@@ -1,0 +1,16 @@
+streamlit
+pandas
+plotly
+openpyxl
+requests
+numpy
+xlsxwriter
+reportlab
+matplotlib
+pillow
+pypdf
+fastapi
+uvicorn
+scikit-learn
+pytest
+httpx

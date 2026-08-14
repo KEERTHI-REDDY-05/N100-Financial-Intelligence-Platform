@@ -1,0 +1,532 @@
+﻿company_id,sector,previous_year,current_year,previous_pattern,current_pattern,change_description
+ABB,Industrials,2012.0,2014,Self-Funded Reinvestor,Balanced Allocator,ABB changed from Self-Funded Reinvestor to Balanced Allocator
+ABB,Industrials,2014.0,2015,Balanced Allocator,Distress Signal,ABB changed from Balanced Allocator to Distress Signal
+ABB,Industrials,2015.0,2016,Distress Signal,Self-Funded Reinvestor,ABB changed from Distress Signal to Self-Funded Reinvestor
+ABB,Industrials,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,ABB changed from Self-Funded Reinvestor to Externally Funded Expansion
+ABB,Industrials,2020.0,2021,Externally Funded Expansion,Deleverager,ABB changed from Externally Funded Expansion to Deleverager
+ABB,Industrials,2022.0,2023,Deleverager,Externally Funded Expansion,ABB changed from Deleverager to Externally Funded Expansion
+ABB,Industrials,2023.0,2024,Externally Funded Expansion,Deleverager,ABB changed from Externally Funded Expansion to Deleverager
+ADANIENSOL,Energy,2014.0,2015,Balanced Allocator,Distress Signal,ADANIENSOL changed from Balanced Allocator to Distress Signal
+ADANIENSOL,Energy,2015.0,2016,Distress Signal,Deleverager,ADANIENSOL changed from Distress Signal to Deleverager
+ADANIENSOL,Energy,2016.0,2017,Deleverager,Self-Funded Reinvestor,ADANIENSOL changed from Deleverager to Self-Funded Reinvestor
+ADANIENSOL,Energy,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,ADANIENSOL changed from Self-Funded Reinvestor to Externally Funded Expansion
+ADANIENSOL,Energy,2020.0,2021,Externally Funded Expansion,Self-Funded Reinvestor,ADANIENSOL changed from Externally Funded Expansion to Self-Funded Reinvestor
+ADANIENSOL,Energy,2022.0,2023,Self-Funded Reinvestor,Externally Funded Expansion,ADANIENSOL changed from Self-Funded Reinvestor to Externally Funded Expansion
+ADANIENSOL,Energy,2023.0,2024,Externally Funded Expansion,Self-Funded Reinvestor,ADANIENSOL changed from Externally Funded Expansion to Self-Funded Reinvestor
+ADANIENT,Industrials,2013.0,2014,Externally Funded Expansion,Self-Funded Reinvestor,ADANIENT changed from Externally Funded Expansion to Self-Funded Reinvestor
+ADANIENT,Industrials,2014.0,2015,Self-Funded Reinvestor,Externally Funded Expansion,ADANIENT changed from Self-Funded Reinvestor to Externally Funded Expansion
+ADANIENT,Industrials,2015.0,2016,Externally Funded Expansion,Deleverager,ADANIENT changed from Externally Funded Expansion to Deleverager
+ADANIENT,Industrials,2016.0,2017,Deleverager,Externally Funded Expansion,ADANIENT changed from Deleverager to Externally Funded Expansion
+ADANIENT,Industrials,2018.0,2019,Externally Funded Expansion,Deleverager,ADANIENT changed from Externally Funded Expansion to Deleverager
+ADANIENT,Industrials,2019.0,2020,Deleverager,Self-Funded Reinvestor,ADANIENT changed from Deleverager to Self-Funded Reinvestor
+ADANIENT,Industrials,2020.0,2021,Self-Funded Reinvestor,Externally Funded Expansion,ADANIENT changed from Self-Funded Reinvestor to Externally Funded Expansion
+ADANIENT,Industrials,2022.0,2023,Externally Funded Expansion,Self-Funded Reinvestor,ADANIENT changed from Externally Funded Expansion to Self-Funded Reinvestor
+ADANIENT,Industrials,2023.0,2024,Self-Funded Reinvestor,Externally Funded Expansion,ADANIENT changed from Self-Funded Reinvestor to Externally Funded Expansion
+ADANIGREEN,Energy,2022.0,2023,Externally Funded Expansion,Self-Funded Reinvestor,ADANIGREEN changed from Externally Funded Expansion to Self-Funded Reinvestor
+ADANIGREEN,Energy,2023.0,2024,Self-Funded Reinvestor,Externally Funded Expansion,ADANIGREEN changed from Self-Funded Reinvestor to Externally Funded Expansion
+ADANIPORTS,Industrials,2014.0,2015,Externally Funded Expansion,Self-Funded Reinvestor,ADANIPORTS changed from Externally Funded Expansion to Self-Funded Reinvestor
+ADANIPORTS,Industrials,2015.0,2016,Self-Funded Reinvestor,Externally Funded Expansion,ADANIPORTS changed from Self-Funded Reinvestor to Externally Funded Expansion
+ADANIPORTS,Industrials,2016.0,2017,Externally Funded Expansion,Deleverager,ADANIPORTS changed from Externally Funded Expansion to Deleverager
+ADANIPORTS,Industrials,2017.0,2018,Deleverager,Self-Funded Reinvestor,ADANIPORTS changed from Deleverager to Self-Funded Reinvestor
+ADANIPORTS,Industrials,2018.0,2019,Self-Funded Reinvestor,Externally Funded Expansion,ADANIPORTS changed from Self-Funded Reinvestor to Externally Funded Expansion
+ADANIPORTS,Industrials,2019.0,2020,Externally Funded Expansion,Self-Funded Reinvestor,ADANIPORTS changed from Externally Funded Expansion to Self-Funded Reinvestor
+ADANIPORTS,Industrials,2020.0,2021,Self-Funded Reinvestor,Externally Funded Expansion,ADANIPORTS changed from Self-Funded Reinvestor to Externally Funded Expansion
+ADANIPORTS,Industrials,2021.0,2022,Externally Funded Expansion,Self-Funded Reinvestor,ADANIPORTS changed from Externally Funded Expansion to Self-Funded Reinvestor
+ADANIPORTS,Industrials,2023.0,2024,Self-Funded Reinvestor,Deleverager,ADANIPORTS changed from Self-Funded Reinvestor to Deleverager
+ADANIPOWER,Energy,2014.0,2015,Externally Funded Expansion,Self-Funded Reinvestor,ADANIPOWER changed from Externally Funded Expansion to Self-Funded Reinvestor
+ADANIPOWER,Energy,2016.0,2017,Self-Funded Reinvestor,Deleverager,ADANIPOWER changed from Self-Funded Reinvestor to Deleverager
+ADANIPOWER,Energy,2017.0,2018,Deleverager,Self-Funded Reinvestor,ADANIPOWER changed from Deleverager to Self-Funded Reinvestor
+ADANIPOWER,Energy,2018.0,2019,Self-Funded Reinvestor,Deleverager,ADANIPOWER changed from Self-Funded Reinvestor to Deleverager
+ADANIPOWER,Energy,2019.0,2020,Deleverager,Self-Funded Reinvestor,ADANIPOWER changed from Deleverager to Self-Funded Reinvestor
+ADANIPOWER,Energy,2020.0,2021,Self-Funded Reinvestor,Deleverager,ADANIPOWER changed from Self-Funded Reinvestor to Deleverager
+AMBUJACEM,Materials,2012.0,2013,Self-Funded Reinvestor,Deleverager,AMBUJACEM changed from Self-Funded Reinvestor to Deleverager
+AMBUJACEM,Materials,2014.0,2015,Deleverager,Self-Funded Reinvestor,AMBUJACEM changed from Deleverager to Self-Funded Reinvestor
+AMBUJACEM,Materials,2015.0,2016,Self-Funded Reinvestor,Deleverager,AMBUJACEM changed from Self-Funded Reinvestor to Deleverager
+AMBUJACEM,Materials,2017.0,2018,Deleverager,Self-Funded Reinvestor,AMBUJACEM changed from Deleverager to Self-Funded Reinvestor
+AMBUJACEM,Materials,2021.0,2023,Self-Funded Reinvestor,Externally Funded Expansion,AMBUJACEM changed from Self-Funded Reinvestor to Externally Funded Expansion
+APOLLOHOSP,Healthcare,2013.0,2014,Externally Funded Expansion,Self-Funded Reinvestor,APOLLOHOSP changed from Externally Funded Expansion to Self-Funded Reinvestor
+APOLLOHOSP,Healthcare,2014.0,2015,Self-Funded Reinvestor,Externally Funded Expansion,APOLLOHOSP changed from Self-Funded Reinvestor to Externally Funded Expansion
+APOLLOHOSP,Healthcare,2017.0,2018,Externally Funded Expansion,Self-Funded Reinvestor,APOLLOHOSP changed from Externally Funded Expansion to Self-Funded Reinvestor
+APOLLOHOSP,Healthcare,2019.0,2020,Self-Funded Reinvestor,Deleverager,APOLLOHOSP changed from Self-Funded Reinvestor to Deleverager
+APOLLOHOSP,Healthcare,2020.0,2021,Deleverager,Self-Funded Reinvestor,APOLLOHOSP changed from Deleverager to Self-Funded Reinvestor
+APOLLOHOSP,Healthcare,2021.0,2022,Self-Funded Reinvestor,Deleverager,APOLLOHOSP changed from Self-Funded Reinvestor to Deleverager
+APOLLOHOSP,Healthcare,2022.0,2023,Deleverager,Self-Funded Reinvestor,APOLLOHOSP changed from Deleverager to Self-Funded Reinvestor
+ASIANPAINT,Materials,2013.0,2014,Self-Funded Reinvestor,Deleverager,ASIANPAINT changed from Self-Funded Reinvestor to Deleverager
+ASIANPAINT,Materials,2014.0,2015,Deleverager,Self-Funded Reinvestor,ASIANPAINT changed from Deleverager to Self-Funded Reinvestor
+ASIANPAINT,Materials,2015.0,2016,Self-Funded Reinvestor,Deleverager,ASIANPAINT changed from Self-Funded Reinvestor to Deleverager
+ASIANPAINT,Materials,2016.0,2017,Deleverager,Self-Funded Reinvestor,ASIANPAINT changed from Deleverager to Self-Funded Reinvestor
+ASIANPAINT,Materials,2017.0,2018,Self-Funded Reinvestor,Deleverager,ASIANPAINT changed from Self-Funded Reinvestor to Deleverager
+ASIANPAINT,Materials,2018.0,2019,Deleverager,Self-Funded Reinvestor,ASIANPAINT changed from Deleverager to Self-Funded Reinvestor
+ASIANPAINT,Materials,2019.0,2020,Self-Funded Reinvestor,Deleverager,ASIANPAINT changed from Self-Funded Reinvestor to Deleverager
+ASIANPAINT,Materials,2021.0,2022,Deleverager,Self-Funded Reinvestor,ASIANPAINT changed from Deleverager to Self-Funded Reinvestor
+AXISBANK,Financials,2014.0,2015,Externally Funded Expansion,Distress Signal,AXISBANK changed from Externally Funded Expansion to Distress Signal
+AXISBANK,Financials,2016.0,2017,Distress Signal,Self-Funded Reinvestor,AXISBANK changed from Distress Signal to Self-Funded Reinvestor
+AXISBANK,Financials,2017.0,2018,Self-Funded Reinvestor,Distress Signal,AXISBANK changed from Self-Funded Reinvestor to Distress Signal
+AXISBANK,Financials,2018.0,2019,Distress Signal,Externally Funded Expansion,AXISBANK changed from Distress Signal to Externally Funded Expansion
+AXISBANK,Financials,2023.0,2024,Externally Funded Expansion,Distress Signal,AXISBANK changed from Externally Funded Expansion to Distress Signal
+BAJAJ-AUTO,Consumer Discretionary,2013.0,2014,Self-Funded Reinvestor,Deleverager,BAJAJ-AUTO changed from Self-Funded Reinvestor to Deleverager
+BAJAJ-AUTO,Consumer Discretionary,2014.0,2015,Deleverager,Self-Funded Reinvestor,BAJAJ-AUTO changed from Deleverager to Self-Funded Reinvestor
+BAJAJ-AUTO,Consumer Discretionary,2019.0,2020,Self-Funded Reinvestor,Cash Distributor,BAJAJ-AUTO changed from Self-Funded Reinvestor to Cash Distributor
+BAJAJ-AUTO,Consumer Discretionary,2020.0,2021,Cash Distributor,Deleverager,BAJAJ-AUTO changed from Cash Distributor to Deleverager
+BAJAJ-AUTO,Consumer Discretionary,2021.0,2022,Deleverager,Cash Distributor,BAJAJ-AUTO changed from Deleverager to Cash Distributor
+BAJAJ-AUTO,Consumer Discretionary,2023.0,2024,Cash Distributor,Self-Funded Reinvestor,BAJAJ-AUTO changed from Cash Distributor to Self-Funded Reinvestor
+BAJAJFINSV,Financials,2020.0,2021,Distress Signal,Externally Funded Expansion,BAJAJFINSV changed from Distress Signal to Externally Funded Expansion
+BAJAJFINSV,Financials,2021.0,2022,Externally Funded Expansion,Distress Signal,BAJAJFINSV changed from Externally Funded Expansion to Distress Signal
+BAJAJHLDNG,Financials,2015.0,2016,Self-Funded Reinvestor,Cash Distributor,BAJAJHLDNG changed from Self-Funded Reinvestor to Cash Distributor
+BAJAJHLDNG,Financials,2016.0,2017,Cash Distributor,Cash Burn,BAJAJHLDNG changed from Cash Distributor to Cash Burn
+BAJAJHLDNG,Financials,2017.0,2018,Cash Burn,Self-Funded Reinvestor,BAJAJHLDNG changed from Cash Burn to Self-Funded Reinvestor
+BAJAJHLDNG,Financials,2020.0,2021,Self-Funded Reinvestor,Deleverager,BAJAJHLDNG changed from Self-Funded Reinvestor to Deleverager
+BANKBARODA,Financials,2013.0,2014,Self-Funded Reinvestor,Externally Funded Expansion,BANKBARODA changed from Self-Funded Reinvestor to Externally Funded Expansion
+BANKBARODA,Financials,2014.0,2015,Externally Funded Expansion,Self-Funded Reinvestor,BANKBARODA changed from Externally Funded Expansion to Self-Funded Reinvestor
+BANKBARODA,Financials,2015.0,2016,Self-Funded Reinvestor,Cash Burn,BANKBARODA changed from Self-Funded Reinvestor to Cash Burn
+BANKBARODA,Financials,2016.0,2017,Cash Burn,Self-Funded Reinvestor,BANKBARODA changed from Cash Burn to Self-Funded Reinvestor
+BANKBARODA,Financials,2017.0,2018,Self-Funded Reinvestor,Distress Signal,BANKBARODA changed from Self-Funded Reinvestor to Distress Signal
+BANKBARODA,Financials,2019.0,2020,Distress Signal,Externally Funded Expansion,BANKBARODA changed from Distress Signal to Externally Funded Expansion
+BANKBARODA,Financials,2020.0,2021,Externally Funded Expansion,Cash Burn,BANKBARODA changed from Externally Funded Expansion to Cash Burn
+BANKBARODA,Financials,2021.0,2022,Cash Burn,Self-Funded Reinvestor,BANKBARODA changed from Cash Burn to Self-Funded Reinvestor
+BANKBARODA,Financials,2022.0,2023,Self-Funded Reinvestor,Cash Burn,BANKBARODA changed from Self-Funded Reinvestor to Cash Burn
+BANKBARODA,Financials,2023.0,2024,Cash Burn,Distress Signal,BANKBARODA changed from Cash Burn to Distress Signal
+BEL,Industrials,2014.0,2015,Cash Burn,Self-Funded Reinvestor,BEL changed from Cash Burn to Self-Funded Reinvestor
+BEL,Industrials,2015.0,2016,Self-Funded Reinvestor,Deleverager,BEL changed from Self-Funded Reinvestor to Deleverager
+BEL,Industrials,2016.0,2017,Deleverager,Cash Burn,BEL changed from Deleverager to Cash Burn
+BEL,Industrials,2018.0,2019,Cash Burn,Deleverager,BEL changed from Cash Burn to Deleverager
+BEL,Industrials,2020.0,2021,Deleverager,Self-Funded Reinvestor,BEL changed from Deleverager to Self-Funded Reinvestor
+BEL,Industrials,2022.0,2023,Self-Funded Reinvestor,Deleverager,BEL changed from Self-Funded Reinvestor to Deleverager
+BEL,Industrials,2023.0,2024,Deleverager,Self-Funded Reinvestor,BEL changed from Deleverager to Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2013.0,2014,Self-Funded Reinvestor,Externally Funded Expansion,BHARTIARTL changed from Self-Funded Reinvestor to Externally Funded Expansion
+BHARTIARTL,Communication Services,2014.0,2015,Externally Funded Expansion,Self-Funded Reinvestor,BHARTIARTL changed from Externally Funded Expansion to Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,BHARTIARTL changed from Self-Funded Reinvestor to Externally Funded Expansion
+BHARTIARTL,Communication Services,2020.0,2021,Externally Funded Expansion,Self-Funded Reinvestor,BHARTIARTL changed from Externally Funded Expansion to Self-Funded Reinvestor
+BHARTIARTL,Communication Services,2023.0,2024,Self-Funded Reinvestor,Deleverager,BHARTIARTL changed from Self-Funded Reinvestor to Deleverager
+BHEL,Industrials,2014.0,2015,Externally Funded Expansion,Deleverager,BHEL changed from Externally Funded Expansion to Deleverager
+BHEL,Industrials,2018.0,2019,Deleverager,Cash Burn,BHEL changed from Deleverager to Cash Burn
+BHEL,Industrials,2019.0,2020,Cash Burn,Distress Signal,BHEL changed from Cash Burn to Distress Signal
+BHEL,Industrials,2020.0,2021,Distress Signal,Deleverager,BHEL changed from Distress Signal to Deleverager
+BHEL,Industrials,2022.0,2023,Deleverager,Distress Signal,BHEL changed from Deleverager to Distress Signal
+BOSCHLTD,Consumer Discretionary,2012.0,2013,Self-Funded Reinvestor,Deleverager,BOSCHLTD changed from Self-Funded Reinvestor to Deleverager
+BOSCHLTD,Consumer Discretionary,2017.0,2018,Deleverager,Self-Funded Reinvestor,BOSCHLTD changed from Deleverager to Self-Funded Reinvestor
+BOSCHLTD,Consumer Discretionary,2018.0,2019,Self-Funded Reinvestor,Cash Distributor,BOSCHLTD changed from Self-Funded Reinvestor to Cash Distributor
+BOSCHLTD,Consumer Discretionary,2019.0,2020,Cash Distributor,Self-Funded Reinvestor,BOSCHLTD changed from Cash Distributor to Self-Funded Reinvestor
+BOSCHLTD,Consumer Discretionary,2020.0,2021,Self-Funded Reinvestor,Deleverager,BOSCHLTD changed from Self-Funded Reinvestor to Deleverager
+BOSCHLTD,Consumer Discretionary,2021.0,2022,Deleverager,Self-Funded Reinvestor,BOSCHLTD changed from Deleverager to Self-Funded Reinvestor
+BOSCHLTD,Consumer Discretionary,2022.0,2023,Self-Funded Reinvestor,Deleverager,BOSCHLTD changed from Self-Funded Reinvestor to Deleverager
+BPCL,Energy,2013.0,2014,Self-Funded Reinvestor,Deleverager,BPCL changed from Self-Funded Reinvestor to Deleverager
+BPCL,Energy,2016.0,2017,Deleverager,Externally Funded Expansion,BPCL changed from Deleverager to Externally Funded Expansion
+BPCL,Energy,2017.0,2018,Externally Funded Expansion,Self-Funded Reinvestor,BPCL changed from Externally Funded Expansion to Self-Funded Reinvestor
+BPCL,Energy,2018.0,2019,Self-Funded Reinvestor,Externally Funded Expansion,BPCL changed from Self-Funded Reinvestor to Externally Funded Expansion
+BPCL,Energy,2020.0,2021,Externally Funded Expansion,Deleverager,BPCL changed from Externally Funded Expansion to Deleverager
+BPCL,Energy,2021.0,2022,Deleverager,Self-Funded Reinvestor,BPCL changed from Deleverager to Self-Funded Reinvestor
+BPCL,Energy,2023.0,2024,Self-Funded Reinvestor,Deleverager,BPCL changed from Self-Funded Reinvestor to Deleverager
+BRITANNIA,Consumer Staples,2013.0,2014,Cash Distributor,Deleverager,BRITANNIA changed from Cash Distributor to Deleverager
+BRITANNIA,Consumer Staples,2017.0,2018,Deleverager,Self-Funded Reinvestor,BRITANNIA changed from Deleverager to Self-Funded Reinvestor
+BRITANNIA,Consumer Staples,2018.0,2019,Self-Funded Reinvestor,Deleverager,BRITANNIA changed from Self-Funded Reinvestor to Deleverager
+BRITANNIA,Consumer Staples,2019.0,2020,Deleverager,Externally Funded Expansion,BRITANNIA changed from Deleverager to Externally Funded Expansion
+BRITANNIA,Consumer Staples,2020.0,2021,Externally Funded Expansion,Cash Distributor,BRITANNIA changed from Externally Funded Expansion to Cash Distributor
+BRITANNIA,Consumer Staples,2022.0,2023,Cash Distributor,Self-Funded Reinvestor,BRITANNIA changed from Cash Distributor to Self-Funded Reinvestor
+BRITANNIA,Consumer Staples,2023.0,2024,Self-Funded Reinvestor,Deleverager,BRITANNIA changed from Self-Funded Reinvestor to Deleverager
+CANBK,Financials,2016.0,2017,Self-Funded Reinvestor,Externally Funded Expansion,CANBK changed from Self-Funded Reinvestor to Externally Funded Expansion
+CANBK,Financials,2017.0,2018,Externally Funded Expansion,Distress Signal,CANBK changed from Externally Funded Expansion to Distress Signal
+CANBK,Financials,2018.0,2019,Distress Signal,Self-Funded Reinvestor,CANBK changed from Distress Signal to Self-Funded Reinvestor
+CANBK,Financials,2019.0,2020,Self-Funded Reinvestor,Distress Signal,CANBK changed from Self-Funded Reinvestor to Distress Signal
+CANBK,Financials,2020.0,2021,Distress Signal,Externally Funded Expansion,CANBK changed from Distress Signal to Externally Funded Expansion
+CANBK,Financials,2022.0,2023,Externally Funded Expansion,Distress Signal,CANBK changed from Externally Funded Expansion to Distress Signal
+CANBK,Financials,2023.0,2024,Distress Signal,Self-Funded Reinvestor,CANBK changed from Distress Signal to Self-Funded Reinvestor
+CIPLA,Healthcare,2013.0,2014,Externally Funded Expansion,Self-Funded Reinvestor,CIPLA changed from Externally Funded Expansion to Self-Funded Reinvestor
+CIPLA,Healthcare,2014.0,2015,Self-Funded Reinvestor,Externally Funded Expansion,CIPLA changed from Self-Funded Reinvestor to Externally Funded Expansion
+CIPLA,Healthcare,2016.0,2017,Externally Funded Expansion,Deleverager,CIPLA changed from Externally Funded Expansion to Deleverager
+CIPLA,Healthcare,2018.0,2019,Deleverager,Self-Funded Reinvestor,CIPLA changed from Deleverager to Self-Funded Reinvestor
+CIPLA,Healthcare,2019.0,2020,Self-Funded Reinvestor,Deleverager,CIPLA changed from Self-Funded Reinvestor to Deleverager
+COALINDIA,Materials,2013.0,2014,Self-Funded Reinvestor,Deleverager,COALINDIA changed from Self-Funded Reinvestor to Deleverager
+COALINDIA,Materials,2014.0,2015,Deleverager,Cash Distributor,COALINDIA changed from Deleverager to Cash Distributor
+COALINDIA,Materials,2017.0,2018,Cash Distributor,Deleverager,COALINDIA changed from Cash Distributor to Deleverager
+COALINDIA,Materials,2018.0,2019,Deleverager,Self-Funded Reinvestor,COALINDIA changed from Deleverager to Self-Funded Reinvestor
+COALINDIA,Materials,2019.0,2020,Self-Funded Reinvestor,Cash Distributor,COALINDIA changed from Self-Funded Reinvestor to Cash Distributor
+COALINDIA,Materials,2020.0,2021,Cash Distributor,Deleverager,COALINDIA changed from Cash Distributor to Deleverager
+COALINDIA,Materials,2022.0,2023,Deleverager,Self-Funded Reinvestor,COALINDIA changed from Deleverager to Self-Funded Reinvestor
+DABUR,Consumer Staples,2013.0,2014,Self-Funded Reinvestor,Deleverager,DABUR changed from Self-Funded Reinvestor to Deleverager
+DABUR,Consumer Staples,2014.0,2015,Deleverager,Self-Funded Reinvestor,DABUR changed from Deleverager to Self-Funded Reinvestor
+DABUR,Consumer Staples,2017.0,2018,Self-Funded Reinvestor,Deleverager,DABUR changed from Self-Funded Reinvestor to Deleverager
+DABUR,Consumer Staples,2021.0,2022,Deleverager,Self-Funded Reinvestor,DABUR changed from Deleverager to Self-Funded Reinvestor
+DIVISLAB,Healthcare,2013.0,2014,Self-Funded Reinvestor,Deleverager,DIVISLAB changed from Self-Funded Reinvestor to Deleverager
+DIVISLAB,Healthcare,2014.0,2015,Deleverager,Self-Funded Reinvestor,DIVISLAB changed from Deleverager to Self-Funded Reinvestor
+DIVISLAB,Healthcare,2016.0,2017,Self-Funded Reinvestor,Externally Funded Expansion,DIVISLAB changed from Self-Funded Reinvestor to Externally Funded Expansion
+DIVISLAB,Healthcare,2017.0,2018,Externally Funded Expansion,Self-Funded Reinvestor,DIVISLAB changed from Externally Funded Expansion to Self-Funded Reinvestor
+DIVISLAB,Healthcare,2019.0,2020,Self-Funded Reinvestor,Deleverager,DIVISLAB changed from Self-Funded Reinvestor to Deleverager
+DIVISLAB,Healthcare,2022.0,2023,Deleverager,Self-Funded Reinvestor,DIVISLAB changed from Deleverager to Self-Funded Reinvestor
+DLF,Real Estate,2013.0,2014,Cash Distributor,Deleverager,DLF changed from Cash Distributor to Deleverager
+DLF,Real Estate,2014.0,2015,Deleverager,Cash Distributor,DLF changed from Deleverager to Cash Distributor
+DLF,Real Estate,2015.0,2016,Cash Distributor,Self-Funded Reinvestor,DLF changed from Cash Distributor to Self-Funded Reinvestor
+DLF,Real Estate,2016.0,2017,Self-Funded Reinvestor,Distress Signal,DLF changed from Self-Funded Reinvestor to Distress Signal
+DLF,Real Estate,2017.0,2018,Distress Signal,Deleverager,DLF changed from Distress Signal to Deleverager
+DLF,Real Estate,2018.0,2019,Deleverager,Cash Accumulator,DLF changed from Deleverager to Cash Accumulator
+DLF,Real Estate,2019.0,2020,Cash Accumulator,Deleverager,DLF changed from Cash Accumulator to Deleverager
+DLF,Real Estate,2023.0,2024,Deleverager,Externally Funded Expansion,DLF changed from Deleverager to Externally Funded Expansion
+DMART,Consumer Discretionary,2017.0,2018,Externally Funded Expansion,Deleverager,DMART changed from Externally Funded Expansion to Deleverager
+DMART,Consumer Discretionary,2018.0,2019,Deleverager,Externally Funded Expansion,DMART changed from Deleverager to Externally Funded Expansion
+DMART,Consumer Discretionary,2020.0,2021,Externally Funded Expansion,Self-Funded Reinvestor,DMART changed from Externally Funded Expansion to Self-Funded Reinvestor
+DMART,Consumer Discretionary,2022.0,2023,Self-Funded Reinvestor,Deleverager,DMART changed from Self-Funded Reinvestor to Deleverager
+DMART,Consumer Discretionary,2023.0,2024,Deleverager,Self-Funded Reinvestor,DMART changed from Deleverager to Self-Funded Reinvestor
+DRREDDY,Healthcare,2014.0,2015,Self-Funded Reinvestor,Deleverager,DRREDDY changed from Self-Funded Reinvestor to Deleverager
+DRREDDY,Healthcare,2016.0,2017,Deleverager,Self-Funded Reinvestor,DRREDDY changed from Deleverager to Self-Funded Reinvestor
+DRREDDY,Healthcare,2018.0,2019,Self-Funded Reinvestor,Deleverager,DRREDDY changed from Self-Funded Reinvestor to Deleverager
+DRREDDY,Healthcare,2020.0,2021,Deleverager,Self-Funded Reinvestor,DRREDDY changed from Deleverager to Self-Funded Reinvestor
+DRREDDY,Healthcare,2022.0,2023,Self-Funded Reinvestor,Deleverager,DRREDDY changed from Self-Funded Reinvestor to Deleverager
+DRREDDY,Healthcare,2023.0,2024,Deleverager,Self-Funded Reinvestor,DRREDDY changed from Deleverager to Self-Funded Reinvestor
+EICHERMOT,Consumer Discretionary,2013.0,2014,Self-Funded Reinvestor,Deleverager,EICHERMOT changed from Self-Funded Reinvestor to Deleverager
+EICHERMOT,Consumer Discretionary,2016.0,2017,Deleverager,Externally Funded Expansion,EICHERMOT changed from Deleverager to Externally Funded Expansion
+EICHERMOT,Consumer Discretionary,2017.0,2018,Externally Funded Expansion,Self-Funded Reinvestor,EICHERMOT changed from Externally Funded Expansion to Self-Funded Reinvestor
+EICHERMOT,Consumer Discretionary,2020.0,2021,Self-Funded Reinvestor,Deleverager,EICHERMOT changed from Self-Funded Reinvestor to Deleverager
+EICHERMOT,Consumer Discretionary,2022.0,2023,Deleverager,Self-Funded Reinvestor,EICHERMOT changed from Deleverager to Self-Funded Reinvestor
+GAIL,Energy,2013.0,2014,Externally Funded Expansion,Self-Funded Reinvestor,GAIL changed from Externally Funded Expansion to Self-Funded Reinvestor
+GAIL,Energy,2014.0,2015,Self-Funded Reinvestor,Deleverager,GAIL changed from Self-Funded Reinvestor to Deleverager
+GAIL,Energy,2019.0,2020,Deleverager,Externally Funded Expansion,GAIL changed from Deleverager to Externally Funded Expansion
+GAIL,Energy,2020.0,2021,Externally Funded Expansion,Self-Funded Reinvestor,GAIL changed from Externally Funded Expansion to Self-Funded Reinvestor
+GAIL,Energy,2022.0,2023,Self-Funded Reinvestor,Externally Funded Expansion,GAIL changed from Self-Funded Reinvestor to Externally Funded Expansion
+GAIL,Energy,2023.0,2024,Externally Funded Expansion,Self-Funded Reinvestor,GAIL changed from Externally Funded Expansion to Self-Funded Reinvestor
+GODREJCP,Consumer Staples,2013.0,2014,Externally Funded Expansion,Deleverager,GODREJCP changed from Externally Funded Expansion to Deleverager
+GODREJCP,Consumer Staples,2014.0,2015,Deleverager,Self-Funded Reinvestor,GODREJCP changed from Deleverager to Self-Funded Reinvestor
+GODREJCP,Consumer Staples,2016.0,2017,Self-Funded Reinvestor,Externally Funded Expansion,GODREJCP changed from Self-Funded Reinvestor to Externally Funded Expansion
+GODREJCP,Consumer Staples,2017.0,2018,Externally Funded Expansion,Deleverager,GODREJCP changed from Externally Funded Expansion to Deleverager
+GODREJCP,Consumer Staples,2019.0,2020,Deleverager,Self-Funded Reinvestor,GODREJCP changed from Deleverager to Self-Funded Reinvestor
+GODREJCP,Consumer Staples,2020.0,2021,Self-Funded Reinvestor,Deleverager,GODREJCP changed from Self-Funded Reinvestor to Deleverager
+GODREJCP,Consumer Staples,2023.0,2024,Deleverager,Externally Funded Expansion,GODREJCP changed from Deleverager to Externally Funded Expansion
+GRASIM,Industrials,2013.0,2014,Externally Funded Expansion,Self-Funded Reinvestor,GRASIM changed from Externally Funded Expansion to Self-Funded Reinvestor
+GRASIM,Industrials,2016.0,2017,Self-Funded Reinvestor,Deleverager,GRASIM changed from Self-Funded Reinvestor to Deleverager
+GRASIM,Industrials,2017.0,2018,Deleverager,Distress Signal,GRASIM changed from Deleverager to Distress Signal
+GRASIM,Industrials,2019.0,2020,Distress Signal,Self-Funded Reinvestor,GRASIM changed from Distress Signal to Self-Funded Reinvestor
+GRASIM,Industrials,2020.0,2021,Self-Funded Reinvestor,Deleverager,GRASIM changed from Self-Funded Reinvestor to Deleverager
+GRASIM,Industrials,2022.0,2023,Deleverager,Distress Signal,GRASIM changed from Deleverager to Distress Signal
+HAL,Industrials,2018.0,2019,Cash Burn,Distress Signal,HAL changed from Cash Burn to Distress Signal
+HAL,Industrials,2019.0,2020,Distress Signal,Externally Funded Expansion,HAL changed from Distress Signal to Externally Funded Expansion
+HAL,Industrials,2020.0,2021,Externally Funded Expansion,Self-Funded Reinvestor,HAL changed from Externally Funded Expansion to Self-Funded Reinvestor
+HAVELLS,Industrials,2014.0,2015,Self-Funded Reinvestor,Deleverager,HAVELLS changed from Self-Funded Reinvestor to Deleverager
+HAVELLS,Industrials,2016.0,2017,Deleverager,Self-Funded Reinvestor,HAVELLS changed from Deleverager to Self-Funded Reinvestor
+HAVELLS,Industrials,2017.0,2018,Self-Funded Reinvestor,Deleverager,HAVELLS changed from Self-Funded Reinvestor to Deleverager
+HAVELLS,Industrials,2020.0,2021,Deleverager,Externally Funded Expansion,HAVELLS changed from Deleverager to Externally Funded Expansion
+HAVELLS,Industrials,2021.0,2022,Externally Funded Expansion,Self-Funded Reinvestor,HAVELLS changed from Externally Funded Expansion to Self-Funded Reinvestor
+HAVELLS,Industrials,2022.0,2023,Self-Funded Reinvestor,Deleverager,HAVELLS changed from Self-Funded Reinvestor to Deleverager
+HAVELLS,Industrials,2023.0,2024,Deleverager,Self-Funded Reinvestor,HAVELLS changed from Deleverager to Self-Funded Reinvestor
+HCLTECH,Information Technology,2013.0,2014,Self-Funded Reinvestor,Deleverager,HCLTECH changed from Self-Funded Reinvestor to Deleverager
+HCLTECH,Information Technology,2015.0,2016,Deleverager,Self-Funded Reinvestor,HCLTECH changed from Deleverager to Self-Funded Reinvestor
+HCLTECH,Information Technology,2016.0,2017,Self-Funded Reinvestor,Deleverager,HCLTECH changed from Self-Funded Reinvestor to Deleverager
+HCLTECH,Information Technology,2018.0,2019,Deleverager,Self-Funded Reinvestor,HCLTECH changed from Deleverager to Self-Funded Reinvestor
+HCLTECH,Information Technology,2020.0,2021,Self-Funded Reinvestor,Deleverager,HCLTECH changed from Self-Funded Reinvestor to Deleverager
+HCLTECH,Information Technology,2023.0,2024,Deleverager,Self-Funded Reinvestor,HCLTECH changed from Deleverager to Self-Funded Reinvestor
+HDFCBANK,Financials,2013.0,2014,Distress Signal,Externally Funded Expansion,HDFCBANK changed from Distress Signal to Externally Funded Expansion
+HDFCBANK,Financials,2014.0,2015,Externally Funded Expansion,Distress Signal,HDFCBANK changed from Externally Funded Expansion to Distress Signal
+HDFCBANK,Financials,2016.0,2017,Distress Signal,Self-Funded Reinvestor,HDFCBANK changed from Distress Signal to Self-Funded Reinvestor
+HDFCBANK,Financials,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,HDFCBANK changed from Self-Funded Reinvestor to Externally Funded Expansion
+HDFCBANK,Financials,2018.0,2019,Externally Funded Expansion,Distress Signal,HDFCBANK changed from Externally Funded Expansion to Distress Signal
+HDFCBANK,Financials,2020.0,2021,Distress Signal,Self-Funded Reinvestor,HDFCBANK changed from Distress Signal to Self-Funded Reinvestor
+HDFCBANK,Financials,2021.0,2022,Self-Funded Reinvestor,Distress Signal,HDFCBANK changed from Self-Funded Reinvestor to Distress Signal
+HDFCBANK,Financials,2022.0,2023,Distress Signal,Externally Funded Expansion,HDFCBANK changed from Distress Signal to Externally Funded Expansion
+HDFCBANK,Financials,2023.0,2024,Externally Funded Expansion,Cash Distributor,HDFCBANK changed from Externally Funded Expansion to Cash Distributor
+HDFCLIFE,Financials,2014.0,2015,Insufficient Data,Self-Funded Reinvestor,HDFCLIFE changed from Insufficient Data to Self-Funded Reinvestor
+HDFCLIFE,Financials,2019.0,2020,Self-Funded Reinvestor,Externally Funded Expansion,HDFCLIFE changed from Self-Funded Reinvestor to Externally Funded Expansion
+HDFCLIFE,Financials,2021.0,2022,Externally Funded Expansion,Self-Funded Reinvestor,HDFCLIFE changed from Externally Funded Expansion to Self-Funded Reinvestor
+HDFCLIFE,Financials,2022.0,2023,Self-Funded Reinvestor,Externally Funded Expansion,HDFCLIFE changed from Self-Funded Reinvestor to Externally Funded Expansion
+HDFCLIFE,Financials,2023.0,2024,Externally Funded Expansion,Self-Funded Reinvestor,HDFCLIFE changed from Externally Funded Expansion to Self-Funded Reinvestor
+HEROMOTOCO,Consumer Discretionary,2014.0,2015,Self-Funded Reinvestor,Deleverager,HEROMOTOCO changed from Self-Funded Reinvestor to Deleverager
+HEROMOTOCO,Consumer Discretionary,2015.0,2016,Deleverager,Self-Funded Reinvestor,HEROMOTOCO changed from Deleverager to Self-Funded Reinvestor
+HEROMOTOCO,Consumer Discretionary,2017.0,2018,Self-Funded Reinvestor,Deleverager,HEROMOTOCO changed from Self-Funded Reinvestor to Deleverager
+HEROMOTOCO,Consumer Discretionary,2018.0,2019,Deleverager,Cash Distributor,HEROMOTOCO changed from Deleverager to Cash Distributor
+HEROMOTOCO,Consumer Discretionary,2019.0,2020,Cash Distributor,Self-Funded Reinvestor,HEROMOTOCO changed from Cash Distributor to Self-Funded Reinvestor
+HEROMOTOCO,Consumer Discretionary,2022.0,2023,Self-Funded Reinvestor,Deleverager,HEROMOTOCO changed from Self-Funded Reinvestor to Deleverager
+HEROMOTOCO,Consumer Discretionary,2023.0,2024,Deleverager,Self-Funded Reinvestor,HEROMOTOCO changed from Deleverager to Self-Funded Reinvestor
+HINDALCO,Materials,2014.0,2015,Externally Funded Expansion,Self-Funded Reinvestor,HINDALCO changed from Externally Funded Expansion to Self-Funded Reinvestor
+HINDALCO,Materials,2015.0,2016,Self-Funded Reinvestor,Deleverager,HINDALCO changed from Self-Funded Reinvestor to Deleverager
+HINDALCO,Materials,2018.0,2019,Deleverager,Self-Funded Reinvestor,HINDALCO changed from Deleverager to Self-Funded Reinvestor
+HINDALCO,Materials,2019.0,2020,Self-Funded Reinvestor,Externally Funded Expansion,HINDALCO changed from Self-Funded Reinvestor to Externally Funded Expansion
+HINDALCO,Materials,2020.0,2021,Externally Funded Expansion,Deleverager,HINDALCO changed from Externally Funded Expansion to Deleverager
+HINDALCO,Materials,2023.0,2024,Deleverager,Self-Funded Reinvestor,HINDALCO changed from Deleverager to Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2013.0,2014,Cash Distributor,Self-Funded Reinvestor,HINDUNILVR changed from Cash Distributor to Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2014.0,2015,Self-Funded Reinvestor,Deleverager,HINDUNILVR changed from Self-Funded Reinvestor to Deleverager
+HINDUNILVR,Consumer Staples,2015.0,2016,Deleverager,Self-Funded Reinvestor,HINDUNILVR changed from Deleverager to Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2017.0,2018,Self-Funded Reinvestor,Deleverager,HINDUNILVR changed from Self-Funded Reinvestor to Deleverager
+HINDUNILVR,Consumer Staples,2018.0,2019,Deleverager,Self-Funded Reinvestor,HINDUNILVR changed from Deleverager to Self-Funded Reinvestor
+HINDUNILVR,Consumer Staples,2019.0,2020,Self-Funded Reinvestor,Deleverager,HINDUNILVR changed from Self-Funded Reinvestor to Deleverager
+HINDUNILVR,Consumer Staples,2020.0,2021,Deleverager,Self-Funded Reinvestor,HINDUNILVR changed from Deleverager to Self-Funded Reinvestor
+ICICIBANK,Financials,2014.0,2015,Externally Funded Expansion,Distress Signal,ICICIBANK changed from Externally Funded Expansion to Distress Signal
+ICICIBANK,Financials,2015.0,2016,Distress Signal,Externally Funded Expansion,ICICIBANK changed from Distress Signal to Externally Funded Expansion
+ICICIBANK,Financials,2016.0,2017,Externally Funded Expansion,Self-Funded Reinvestor,ICICIBANK changed from Externally Funded Expansion to Self-Funded Reinvestor
+ICICIBANK,Financials,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,ICICIBANK changed from Self-Funded Reinvestor to Externally Funded Expansion
+ICICIBANK,Financials,2018.0,2019,Externally Funded Expansion,Self-Funded Reinvestor,ICICIBANK changed from Externally Funded Expansion to Self-Funded Reinvestor
+ICICIBANK,Financials,2019.0,2020,Self-Funded Reinvestor,Externally Funded Expansion,ICICIBANK changed from Self-Funded Reinvestor to Externally Funded Expansion
+ICICIBANK,Financials,2020.0,2021,Externally Funded Expansion,Self-Funded Reinvestor,ICICIBANK changed from Externally Funded Expansion to Self-Funded Reinvestor
+ICICIBANK,Financials,2021.0,2022,Self-Funded Reinvestor,Externally Funded Expansion,ICICIBANK changed from Self-Funded Reinvestor to Externally Funded Expansion
+ICICIBANK,Financials,2022.0,2023,Externally Funded Expansion,Distress Signal,ICICIBANK changed from Externally Funded Expansion to Distress Signal
+ICICIBANK,Financials,2023.0,2024,Distress Signal,Externally Funded Expansion,ICICIBANK changed from Distress Signal to Externally Funded Expansion
+ICICIGI,Financials,2014.0,2015,Externally Funded Expansion,Cash Burn,ICICIGI changed from Externally Funded Expansion to Cash Burn
+ICICIGI,Financials,2015.0,2016,Cash Burn,Self-Funded Reinvestor,ICICIGI changed from Cash Burn to Self-Funded Reinvestor
+ICICIGI,Financials,2016.0,2017,Self-Funded Reinvestor,Externally Funded Expansion,ICICIGI changed from Self-Funded Reinvestor to Externally Funded Expansion
+ICICIGI,Financials,2017.0,2018,Externally Funded Expansion,Self-Funded Reinvestor,ICICIGI changed from Externally Funded Expansion to Self-Funded Reinvestor
+ICICIGI,Financials,2021.0,2022,Self-Funded Reinvestor,Deleverager,ICICIGI changed from Self-Funded Reinvestor to Deleverager
+ICICIPRULI,Financials,2014.0,2015,Cash Burn,Self-Funded Reinvestor,ICICIPRULI changed from Cash Burn to Self-Funded Reinvestor
+ICICIPRULI,Financials,2015.0,2016,Self-Funded Reinvestor,Cash Distributor,ICICIPRULI changed from Self-Funded Reinvestor to Cash Distributor
+ICICIPRULI,Financials,2016.0,2017,Cash Distributor,Deleverager,ICICIPRULI changed from Cash Distributor to Deleverager
+ICICIPRULI,Financials,2017.0,2018,Deleverager,Self-Funded Reinvestor,ICICIPRULI changed from Deleverager to Self-Funded Reinvestor
+ICICIPRULI,Financials,2020.0,2021,Self-Funded Reinvestor,Externally Funded Expansion,ICICIPRULI changed from Self-Funded Reinvestor to Externally Funded Expansion
+ICICIPRULI,Financials,2021.0,2022,Externally Funded Expansion,Self-Funded Reinvestor,ICICIPRULI changed from Externally Funded Expansion to Self-Funded Reinvestor
+ICICIPRULI,Financials,2023.0,2024,Self-Funded Reinvestor,Cash Burn,ICICIPRULI changed from Self-Funded Reinvestor to Cash Burn
+INDIGO,Consumer Discretionary,2014.0,2015,Externally Funded Expansion,Deleverager,INDIGO changed from Externally Funded Expansion to Deleverager
+INDIGO,Consumer Discretionary,2015.0,2016,Deleverager,Self-Funded Reinvestor,INDIGO changed from Deleverager to Self-Funded Reinvestor
+INDIGO,Consumer Discretionary,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,INDIGO changed from Self-Funded Reinvestor to Externally Funded Expansion
+INDIGO,Consumer Discretionary,2018.0,2019,Externally Funded Expansion,Self-Funded Reinvestor,INDIGO changed from Externally Funded Expansion to Self-Funded Reinvestor
+INDIGO,Consumer Discretionary,2019.0,2020,Self-Funded Reinvestor,Deleverager,INDIGO changed from Self-Funded Reinvestor to Deleverager
+INDIGO,Consumer Discretionary,2020.0,2021,Deleverager,Cash Burn,INDIGO changed from Deleverager to Cash Burn
+INDIGO,Consumer Discretionary,2021.0,2022,Cash Burn,Cash Distributor,INDIGO changed from Cash Burn to Cash Distributor
+INDIGO,Consumer Discretionary,2022.0,2023,Cash Distributor,Self-Funded Reinvestor,INDIGO changed from Cash Distributor to Self-Funded Reinvestor
+INDUSINDBK,Financials,2016.0,2017,Distress Signal,Self-Funded Reinvestor,INDUSINDBK changed from Distress Signal to Self-Funded Reinvestor
+INDUSINDBK,Financials,2017.0,2018,Self-Funded Reinvestor,Distress Signal,INDUSINDBK changed from Self-Funded Reinvestor to Distress Signal
+INDUSINDBK,Financials,2020.0,2021,Distress Signal,Self-Funded Reinvestor,INDUSINDBK changed from Distress Signal to Self-Funded Reinvestor
+INDUSINDBK,Financials,2022.0,2023,Self-Funded Reinvestor,Distress Signal,INDUSINDBK changed from Self-Funded Reinvestor to Distress Signal
+INDUSINDBK,Financials,2023.0,2024,Distress Signal,Cash Burn,INDUSINDBK changed from Distress Signal to Cash Burn
+INFY,Information Technology,2014.0,2015,Self-Funded Reinvestor,Cash Distributor,INFY changed from Self-Funded Reinvestor to Cash Distributor
+INFY,Information Technology,2015.0,2016,Cash Distributor,Self-Funded Reinvestor,INFY changed from Cash Distributor to Self-Funded Reinvestor
+INFY,Information Technology,2017.0,2018,Self-Funded Reinvestor,Cash Distributor,INFY changed from Self-Funded Reinvestor to Cash Distributor
+INFY,Information Technology,2018.0,2019,Cash Distributor,Self-Funded Reinvestor,INFY changed from Cash Distributor to Self-Funded Reinvestor
+IOC,Energy,2013.0,2014,Externally Funded Expansion,Self-Funded Reinvestor,IOC changed from Externally Funded Expansion to Self-Funded Reinvestor
+IOC,Energy,2014.0,2015,Self-Funded Reinvestor,Deleverager,IOC changed from Self-Funded Reinvestor to Deleverager
+IOC,Energy,2016.0,2017,Deleverager,Self-Funded Reinvestor,IOC changed from Deleverager to Self-Funded Reinvestor
+IOC,Energy,2018.0,2019,Self-Funded Reinvestor,Externally Funded Expansion,IOC changed from Self-Funded Reinvestor to Externally Funded Expansion
+IOC,Energy,2020.0,2021,Externally Funded Expansion,Deleverager,IOC changed from Externally Funded Expansion to Deleverager
+IOC,Energy,2021.0,2022,Deleverager,Self-Funded Reinvestor,IOC changed from Deleverager to Self-Funded Reinvestor
+IRCTC,Consumer Discretionary,2015.0,2016,Self-Funded Reinvestor,Cash Distributor,IRCTC changed from Self-Funded Reinvestor to Cash Distributor
+IRCTC,Consumer Discretionary,2018.0,2019,Cash Distributor,Self-Funded Reinvestor,IRCTC changed from Cash Distributor to Self-Funded Reinvestor
+IRCTC,Consumer Discretionary,2019.0,2020,Self-Funded Reinvestor,Cash Distributor,IRCTC changed from Self-Funded Reinvestor to Cash Distributor
+IRCTC,Consumer Discretionary,2020.0,2021,Cash Distributor,Self-Funded Reinvestor,IRCTC changed from Cash Distributor to Self-Funded Reinvestor
+IRCTC,Consumer Discretionary,2022.0,2023,Self-Funded Reinvestor,Deleverager,IRCTC changed from Self-Funded Reinvestor to Deleverager
+IRFC,Financials,2023.0,2024,Distress Signal,Deleverager,IRFC changed from Distress Signal to Deleverager
+ITC,Consumer Staples,2015.0,2016,Self-Funded Reinvestor,Deleverager,ITC changed from Self-Funded Reinvestor to Deleverager
+ITC,Consumer Staples,2019.0,2020,Deleverager,Self-Funded Reinvestor,ITC changed from Deleverager to Self-Funded Reinvestor
+ITC,Consumer Staples,2020.0,2021,Self-Funded Reinvestor,Deleverager,ITC changed from Self-Funded Reinvestor to Deleverager
+ITC,Consumer Staples,2022.0,2023,Deleverager,Self-Funded Reinvestor,ITC changed from Deleverager to Self-Funded Reinvestor
+ITC,Consumer Staples,2023.0,2024,Self-Funded Reinvestor,Deleverager,ITC changed from Self-Funded Reinvestor to Deleverager
+JINDALSTEL,Materials,2015.0,2016,Externally Funded Expansion,Self-Funded Reinvestor,JINDALSTEL changed from Externally Funded Expansion to Self-Funded Reinvestor
+JINDALSTEL,Materials,2016.0,2017,Self-Funded Reinvestor,Deleverager,JINDALSTEL changed from Self-Funded Reinvestor to Deleverager
+JINDALSTEL,Materials,2023.0,2024,Deleverager,Externally Funded Expansion,JINDALSTEL changed from Deleverager to Externally Funded Expansion
+JIOFIN,Financials,2023.0,2024,Self-Funded Reinvestor,Cash Burn,JIOFIN changed from Self-Funded Reinvestor to Cash Burn
+JSWENERGY,Energy,2013.0,2014,Self-Funded Reinvestor,Deleverager,JSWENERGY changed from Self-Funded Reinvestor to Deleverager
+JSWENERGY,Energy,2015.0,2016,Deleverager,Self-Funded Reinvestor,JSWENERGY changed from Deleverager to Self-Funded Reinvestor
+JSWENERGY,Energy,2016.0,2017,Self-Funded Reinvestor,Deleverager,JSWENERGY changed from Self-Funded Reinvestor to Deleverager
+JSWENERGY,Energy,2021.0,2022,Deleverager,Self-Funded Reinvestor,JSWENERGY changed from Deleverager to Self-Funded Reinvestor
+JSWENERGY,Energy,2022.0,2023,Self-Funded Reinvestor,Externally Funded Expansion,JSWENERGY changed from Self-Funded Reinvestor to Externally Funded Expansion
+JSWSTEEL,Materials,2013.0,2014,Self-Funded Reinvestor,Externally Funded Expansion,JSWSTEEL changed from Self-Funded Reinvestor to Externally Funded Expansion
+JSWSTEEL,Materials,2014.0,2015,Externally Funded Expansion,Self-Funded Reinvestor,JSWSTEEL changed from Externally Funded Expansion to Self-Funded Reinvestor
+JSWSTEEL,Materials,2017.0,2018,Self-Funded Reinvestor,Deleverager,JSWSTEEL changed from Self-Funded Reinvestor to Deleverager
+JSWSTEEL,Materials,2018.0,2019,Deleverager,Externally Funded Expansion,JSWSTEEL changed from Deleverager to Externally Funded Expansion
+JSWSTEEL,Materials,2020.0,2021,Externally Funded Expansion,Self-Funded Reinvestor,JSWSTEEL changed from Externally Funded Expansion to Self-Funded Reinvestor
+KOTAKBANK,Financials,2013.0,2014,Externally Funded Expansion,Self-Funded Reinvestor,KOTAKBANK changed from Externally Funded Expansion to Self-Funded Reinvestor
+KOTAKBANK,Financials,2014.0,2015,Self-Funded Reinvestor,Externally Funded Expansion,KOTAKBANK changed from Self-Funded Reinvestor to Externally Funded Expansion
+KOTAKBANK,Financials,2017.0,2018,Externally Funded Expansion,Distress Signal,KOTAKBANK changed from Externally Funded Expansion to Distress Signal
+KOTAKBANK,Financials,2018.0,2019,Distress Signal,Externally Funded Expansion,KOTAKBANK changed from Distress Signal to Externally Funded Expansion
+KOTAKBANK,Financials,2019.0,2020,Externally Funded Expansion,Self-Funded Reinvestor,KOTAKBANK changed from Externally Funded Expansion to Self-Funded Reinvestor
+KOTAKBANK,Financials,2021.0,2022,Self-Funded Reinvestor,Externally Funded Expansion,KOTAKBANK changed from Self-Funded Reinvestor to Externally Funded Expansion
+KOTAKBANK,Financials,2022.0,2023,Externally Funded Expansion,Distress Signal,KOTAKBANK changed from Externally Funded Expansion to Distress Signal
+KOTAKBANK,Financials,2023.0,2024,Distress Signal,Externally Funded Expansion,KOTAKBANK changed from Distress Signal to Externally Funded Expansion
+LICI,Financials,2019.0,2020,Cash Distributor,Deleverager,LICI changed from Cash Distributor to Deleverager
+LICI,Financials,2021.0,2022,Deleverager,Cash Burn,LICI changed from Deleverager to Cash Burn
+LICI,Financials,2022.0,2023,Cash Burn,Deleverager,LICI changed from Cash Burn to Deleverager
+LICI,Financials,2023.0,2024,Deleverager,Self-Funded Reinvestor,LICI changed from Deleverager to Self-Funded Reinvestor
+LODHA,Real Estate,2016.0,2017,Externally Funded Expansion,Self-Funded Reinvestor,LODHA changed from Externally Funded Expansion to Self-Funded Reinvestor
+LODHA,Real Estate,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,LODHA changed from Self-Funded Reinvestor to Externally Funded Expansion
+LODHA,Real Estate,2018.0,2019,Externally Funded Expansion,Distress Signal,LODHA changed from Externally Funded Expansion to Distress Signal
+LODHA,Real Estate,2019.0,2020,Distress Signal,Deleverager,LODHA changed from Distress Signal to Deleverager
+LODHA,Real Estate,2023.0,2024,Deleverager,Externally Funded Expansion,LODHA changed from Deleverager to Externally Funded Expansion
+LT,Industrials,2016.0,2017,Distress Signal,Externally Funded Expansion,LT changed from Distress Signal to Externally Funded Expansion
+LT,Industrials,2017.0,2018,Externally Funded Expansion,Distress Signal,LT changed from Externally Funded Expansion to Distress Signal
+LT,Industrials,2019.0,2020,Distress Signal,Externally Funded Expansion,LT changed from Distress Signal to Externally Funded Expansion
+LT,Industrials,2020.0,2021,Externally Funded Expansion,Deleverager,LT changed from Externally Funded Expansion to Deleverager
+LT,Industrials,2022.0,2023,Deleverager,Self-Funded Reinvestor,LT changed from Deleverager to Self-Funded Reinvestor
+LT,Industrials,2023.0,2024,Self-Funded Reinvestor,Cash Distributor,LT changed from Self-Funded Reinvestor to Cash Distributor
+LTIM,Information Technology,2013.0,2014,Self-Funded Reinvestor,Deleverager,LTIM changed from Self-Funded Reinvestor to Deleverager
+LTIM,Information Technology,2014.0,2015,Deleverager,Self-Funded Reinvestor,LTIM changed from Deleverager to Self-Funded Reinvestor
+LTIM,Information Technology,2015.0,2016,Self-Funded Reinvestor,Deleverager,LTIM changed from Self-Funded Reinvestor to Deleverager
+LTIM,Information Technology,2017.0,2018,Deleverager,Self-Funded Reinvestor,LTIM changed from Deleverager to Self-Funded Reinvestor
+LTIM,Information Technology,2020.0,2021,Self-Funded Reinvestor,Deleverager,LTIM changed from Self-Funded Reinvestor to Deleverager
+LTIM,Information Technology,2022.0,2023,Deleverager,Self-Funded Reinvestor,LTIM changed from Deleverager to Self-Funded Reinvestor
+M&M,Consumer Discretionary,2014.0,2015,Distress Signal,Externally Funded Expansion,M&M changed from Distress Signal to Externally Funded Expansion
+M&M,Consumer Discretionary,2018.0,2019,Externally Funded Expansion,Distress Signal,M&M changed from Externally Funded Expansion to Distress Signal
+M&M,Consumer Discretionary,2020.0,2021,Distress Signal,Externally Funded Expansion,M&M changed from Distress Signal to Externally Funded Expansion
+M&M,Consumer Discretionary,2021.0,2022,Externally Funded Expansion,Deleverager,M&M changed from Externally Funded Expansion to Deleverager
+M&M,Consumer Discretionary,2022.0,2023,Deleverager,Distress Signal,M&M changed from Deleverager to Distress Signal
+MARUTI,Consumer Discretionary,2014.0,2015,Self-Funded Reinvestor,Deleverager,MARUTI changed from Self-Funded Reinvestor to Deleverager
+MARUTI,Consumer Discretionary,2016.0,2017,Deleverager,Self-Funded Reinvestor,MARUTI changed from Deleverager to Self-Funded Reinvestor
+MARUTI,Consumer Discretionary,2017.0,2018,Self-Funded Reinvestor,Deleverager,MARUTI changed from Self-Funded Reinvestor to Deleverager
+MARUTI,Consumer Discretionary,2018.0,2019,Deleverager,Self-Funded Reinvestor,MARUTI changed from Deleverager to Self-Funded Reinvestor
+MARUTI,Consumer Discretionary,2021.0,2022,Self-Funded Reinvestor,Deleverager,MARUTI changed from Self-Funded Reinvestor to Deleverager
+MARUTI,Consumer Discretionary,2022.0,2023,Deleverager,Self-Funded Reinvestor,MARUTI changed from Deleverager to Self-Funded Reinvestor
+MARUTI,Consumer Discretionary,2023.0,2024,Self-Funded Reinvestor,Deleverager,MARUTI changed from Self-Funded Reinvestor to Deleverager
+MOTHERSON,Consumer Discretionary,2013.0,2014,Self-Funded Reinvestor,Deleverager,MOTHERSON changed from Self-Funded Reinvestor to Deleverager
+MOTHERSON,Consumer Discretionary,2014.0,2015,Deleverager,Externally Funded Expansion,MOTHERSON changed from Deleverager to Externally Funded Expansion
+MOTHERSON,Consumer Discretionary,2015.0,2016,Externally Funded Expansion,Self-Funded Reinvestor,MOTHERSON changed from Externally Funded Expansion to Self-Funded Reinvestor
+MOTHERSON,Consumer Discretionary,2016.0,2017,Self-Funded Reinvestor,Externally Funded Expansion,MOTHERSON changed from Self-Funded Reinvestor to Externally Funded Expansion
+MOTHERSON,Consumer Discretionary,2017.0,2018,Externally Funded Expansion,Self-Funded Reinvestor,MOTHERSON changed from Externally Funded Expansion to Self-Funded Reinvestor
+MOTHERSON,Consumer Discretionary,2020.0,2021,Self-Funded Reinvestor,Deleverager,MOTHERSON changed from Self-Funded Reinvestor to Deleverager
+MOTHERSON,Consumer Discretionary,2021.0,2022,Deleverager,Self-Funded Reinvestor,MOTHERSON changed from Deleverager to Self-Funded Reinvestor
+MOTHERSON,Consumer Discretionary,2022.0,2023,Self-Funded Reinvestor,Deleverager,MOTHERSON changed from Self-Funded Reinvestor to Deleverager
+MOTHERSON,Consumer Discretionary,2023.0,2024,Deleverager,Externally Funded Expansion,MOTHERSON changed from Deleverager to Externally Funded Expansion
+NAUKRI,Communication Services,2013.0,2014,Self-Funded Reinvestor,Externally Funded Expansion,NAUKRI changed from Self-Funded Reinvestor to Externally Funded Expansion
+NAUKRI,Communication Services,2015.0,2016,Externally Funded Expansion,Self-Funded Reinvestor,NAUKRI changed from Externally Funded Expansion to Self-Funded Reinvestor
+NAUKRI,Communication Services,2019.0,2020,Self-Funded Reinvestor,Cash Distributor,NAUKRI changed from Self-Funded Reinvestor to Cash Distributor
+NAUKRI,Communication Services,2020.0,2021,Cash Distributor,Externally Funded Expansion,NAUKRI changed from Cash Distributor to Externally Funded Expansion
+NESTLEIND,Consumer Staples,2013.0,2014,Self-Funded Reinvestor,Deleverager,NESTLEIND changed from Self-Funded Reinvestor to Deleverager
+NESTLEIND,Consumer Staples,2015.0,2016,Deleverager,Self-Funded Reinvestor,NESTLEIND changed from Deleverager to Self-Funded Reinvestor
+NESTLEIND,Consumer Staples,2018.0,2019,Self-Funded Reinvestor,Cash Distributor,NESTLEIND changed from Self-Funded Reinvestor to Cash Distributor
+NESTLEIND,Consumer Staples,2019.0,2020,Cash Distributor,Deleverager,NESTLEIND changed from Cash Distributor to Deleverager
+NESTLEIND,Consumer Staples,2020.0,2021,Deleverager,Self-Funded Reinvestor,NESTLEIND changed from Deleverager to Self-Funded Reinvestor
+NHPC,Energy,2014.0,2015,Self-Funded Reinvestor,Deleverager,NHPC changed from Self-Funded Reinvestor to Deleverager
+NHPC,Energy,2018.0,2019,Deleverager,Self-Funded Reinvestor,NHPC changed from Deleverager to Self-Funded Reinvestor
+NHPC,Energy,2019.0,2020,Self-Funded Reinvestor,Externally Funded Expansion,NHPC changed from Self-Funded Reinvestor to Externally Funded Expansion
+NHPC,Energy,2020.0,2021,Externally Funded Expansion,Self-Funded Reinvestor,NHPC changed from Externally Funded Expansion to Self-Funded Reinvestor
+NTPC,Energy,2013.0,2014,Externally Funded Expansion,Self-Funded Reinvestor,NTPC changed from Externally Funded Expansion to Self-Funded Reinvestor
+NTPC,Energy,2015.0,2016,Self-Funded Reinvestor,Deleverager,NTPC changed from Self-Funded Reinvestor to Deleverager
+NTPC,Energy,2016.0,2017,Deleverager,Externally Funded Expansion,NTPC changed from Deleverager to Externally Funded Expansion
+NTPC,Energy,2020.0,2021,Externally Funded Expansion,Self-Funded Reinvestor,NTPC changed from Externally Funded Expansion to Self-Funded Reinvestor
+ONGC,Energy,2013.0,2014,Self-Funded Reinvestor,Externally Funded Expansion,ONGC changed from Self-Funded Reinvestor to Externally Funded Expansion
+ONGC,Energy,2014.0,2015,Externally Funded Expansion,Self-Funded Reinvestor,ONGC changed from Externally Funded Expansion to Self-Funded Reinvestor
+ONGC,Energy,2015.0,2016,Self-Funded Reinvestor,Deleverager,ONGC changed from Self-Funded Reinvestor to Deleverager
+ONGC,Energy,2016.0,2017,Deleverager,Self-Funded Reinvestor,ONGC changed from Deleverager to Self-Funded Reinvestor
+ONGC,Energy,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,ONGC changed from Self-Funded Reinvestor to Externally Funded Expansion
+ONGC,Energy,2018.0,2019,Externally Funded Expansion,Self-Funded Reinvestor,ONGC changed from Externally Funded Expansion to Self-Funded Reinvestor
+ONGC,Energy,2021.0,2022,Self-Funded Reinvestor,Deleverager,ONGC changed from Self-Funded Reinvestor to Deleverager
+ONGC,Energy,2022.0,2023,Deleverager,Self-Funded Reinvestor,ONGC changed from Deleverager to Self-Funded Reinvestor
+PFC,Financials,2016.0,2017,Distress Signal,Externally Funded Expansion,PFC changed from Distress Signal to Externally Funded Expansion
+PFC,Financials,2017.0,2018,Externally Funded Expansion,Distress Signal,PFC changed from Externally Funded Expansion to Distress Signal
+PFC,Financials,2021.0,2022,Distress Signal,Self-Funded Reinvestor,PFC changed from Distress Signal to Self-Funded Reinvestor
+PFC,Financials,2022.0,2023,Self-Funded Reinvestor,Distress Signal,PFC changed from Self-Funded Reinvestor to Distress Signal
+PIDILITIND,Materials,2013.0,2014,Self-Funded Reinvestor,Deleverager,PIDILITIND changed from Self-Funded Reinvestor to Deleverager
+PIDILITIND,Materials,2014.0,2015,Deleverager,Self-Funded Reinvestor,PIDILITIND changed from Deleverager to Self-Funded Reinvestor
+PIDILITIND,Materials,2016.0,2017,Self-Funded Reinvestor,Externally Funded Expansion,PIDILITIND changed from Self-Funded Reinvestor to Externally Funded Expansion
+PIDILITIND,Materials,2017.0,2018,Externally Funded Expansion,Cash Distributor,PIDILITIND changed from Externally Funded Expansion to Cash Distributor
+PIDILITIND,Materials,2018.0,2019,Cash Distributor,Deleverager,PIDILITIND changed from Cash Distributor to Deleverager
+PIDILITIND,Materials,2019.0,2020,Deleverager,Cash Distributor,PIDILITIND changed from Deleverager to Cash Distributor
+PIDILITIND,Materials,2020.0,2021,Cash Distributor,Self-Funded Reinvestor,PIDILITIND changed from Cash Distributor to Self-Funded Reinvestor
+PIDILITIND,Materials,2022.0,2023,Self-Funded Reinvestor,Deleverager,PIDILITIND changed from Self-Funded Reinvestor to Deleverager
+PNB,Financials,2013.0,2014,Cash Burn,Externally Funded Expansion,PNB changed from Cash Burn to Externally Funded Expansion
+PNB,Financials,2016.0,2017,Externally Funded Expansion,Cash Distributor,PNB changed from Externally Funded Expansion to Cash Distributor
+PNB,Financials,2017.0,2018,Cash Distributor,Distress Signal,PNB changed from Cash Distributor to Distress Signal
+PNB,Financials,2020.0,2021,Distress Signal,Externally Funded Expansion,PNB changed from Distress Signal to Externally Funded Expansion
+PNB,Financials,2023.0,2024,Externally Funded Expansion,Distress Signal,PNB changed from Externally Funded Expansion to Distress Signal
+POWERGRID,Energy,2018.0,2019,Externally Funded Expansion,Self-Funded Reinvestor,POWERGRID changed from Externally Funded Expansion to Self-Funded Reinvestor
+POWERGRID,Energy,2020.0,2021,Self-Funded Reinvestor,Deleverager,POWERGRID changed from Self-Funded Reinvestor to Deleverager
+RECLTD,Financials,2016.0,2017,Distress Signal,Deleverager,RECLTD changed from Distress Signal to Deleverager
+RECLTD,Financials,2017.0,2018,Deleverager,Distress Signal,RECLTD changed from Deleverager to Distress Signal
+RELIANCE,Energy,2015.0,2016,Externally Funded Expansion,Self-Funded Reinvestor,RELIANCE changed from Externally Funded Expansion to Self-Funded Reinvestor
+RELIANCE,Energy,2016.0,2017,Self-Funded Reinvestor,Externally Funded Expansion,RELIANCE changed from Self-Funded Reinvestor to Externally Funded Expansion
+RELIANCE,Energy,2017.0,2018,Externally Funded Expansion,Self-Funded Reinvestor,RELIANCE changed from Externally Funded Expansion to Self-Funded Reinvestor
+RELIANCE,Energy,2018.0,2019,Self-Funded Reinvestor,Externally Funded Expansion,RELIANCE changed from Self-Funded Reinvestor to Externally Funded Expansion
+RELIANCE,Energy,2019.0,2020,Externally Funded Expansion,Self-Funded Reinvestor,RELIANCE changed from Externally Funded Expansion to Self-Funded Reinvestor
+RELIANCE,Energy,2020.0,2021,Self-Funded Reinvestor,Externally Funded Expansion,RELIANCE changed from Self-Funded Reinvestor to Externally Funded Expansion
+RELIANCE,Energy,2023.0,2024,Externally Funded Expansion,Deleverager,RELIANCE changed from Externally Funded Expansion to Deleverager
+SBILIFE,Financials,2020.0,2021,Self-Funded Reinvestor,Externally Funded Expansion,SBILIFE changed from Self-Funded Reinvestor to Externally Funded Expansion
+SBILIFE,Financials,2021.0,2022,Externally Funded Expansion,Self-Funded Reinvestor,SBILIFE changed from Externally Funded Expansion to Self-Funded Reinvestor
+SBIN,Financials,2013.0,2014,Self-Funded Reinvestor,Externally Funded Expansion,SBIN changed from Self-Funded Reinvestor to Externally Funded Expansion
+SBIN,Financials,2014.0,2015,Externally Funded Expansion,Self-Funded Reinvestor,SBIN changed from Externally Funded Expansion to Self-Funded Reinvestor
+SBIN,Financials,2015.0,2016,Self-Funded Reinvestor,Externally Funded Expansion,SBIN changed from Self-Funded Reinvestor to Externally Funded Expansion
+SBIN,Financials,2016.0,2017,Externally Funded Expansion,Self-Funded Reinvestor,SBIN changed from Externally Funded Expansion to Self-Funded Reinvestor
+SBIN,Financials,2017.0,2018,Self-Funded Reinvestor,Distress Signal,SBIN changed from Self-Funded Reinvestor to Distress Signal
+SBIN,Financials,2018.0,2019,Distress Signal,Cash Accumulator,SBIN changed from Distress Signal to Cash Accumulator
+SBIN,Financials,2019.0,2020,Cash Accumulator,Externally Funded Expansion,SBIN changed from Cash Accumulator to Externally Funded Expansion
+SBIN,Financials,2021.0,2022,Externally Funded Expansion,Self-Funded Reinvestor,SBIN changed from Externally Funded Expansion to Self-Funded Reinvestor
+SBIN,Financials,2022.0,2023,Self-Funded Reinvestor,Distress Signal,SBIN changed from Self-Funded Reinvestor to Distress Signal
+SBIN,Financials,2023.0,2024,Distress Signal,Self-Funded Reinvestor,SBIN changed from Distress Signal to Self-Funded Reinvestor
+SHREECEM,Materials,2013.0,2014,Self-Funded Reinvestor,Deleverager,SHREECEM changed from Self-Funded Reinvestor to Deleverager
+SHREECEM,Materials,2016.0,2017,Deleverager,Self-Funded Reinvestor,SHREECEM changed from Deleverager to Self-Funded Reinvestor
+SHREECEM,Materials,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,SHREECEM changed from Self-Funded Reinvestor to Externally Funded Expansion
+SHREECEM,Materials,2018.0,2019,Externally Funded Expansion,Deleverager,SHREECEM changed from Externally Funded Expansion to Deleverager
+SHREECEM,Materials,2019.0,2020,Deleverager,Externally Funded Expansion,SHREECEM changed from Deleverager to Externally Funded Expansion
+SHREECEM,Materials,2020.0,2021,Externally Funded Expansion,Deleverager,SHREECEM changed from Externally Funded Expansion to Deleverager
+SHREECEM,Materials,2022.0,2023,Deleverager,Self-Funded Reinvestor,SHREECEM changed from Deleverager to Self-Funded Reinvestor
+SHREECEM,Materials,2023.0,2024,Self-Funded Reinvestor,Deleverager,SHREECEM changed from Self-Funded Reinvestor to Deleverager
+SIEMENS,Industrials,2016.0,2017,Cash Distributor,Deleverager,SIEMENS changed from Cash Distributor to Deleverager
+SIEMENS,Industrials,2017.0,2018,Deleverager,Self-Funded Reinvestor,SIEMENS changed from Deleverager to Self-Funded Reinvestor
+SIEMENS,Industrials,2019.0,2020,Self-Funded Reinvestor,Cash Distributor,SIEMENS changed from Self-Funded Reinvestor to Cash Distributor
+SIEMENS,Industrials,2020.0,2021,Cash Distributor,Self-Funded Reinvestor,SIEMENS changed from Cash Distributor to Self-Funded Reinvestor
+SIEMENS,Industrials,2022.0,2023,Self-Funded Reinvestor,Deleverager,SIEMENS changed from Self-Funded Reinvestor to Deleverager
+SIEMENS,Industrials,2023.0,2024,Deleverager,Self-Funded Reinvestor,SIEMENS changed from Deleverager to Self-Funded Reinvestor
+SUNPHARMA,Healthcare,2013.0,2014,Self-Funded Reinvestor,Externally Funded Expansion,SUNPHARMA changed from Self-Funded Reinvestor to Externally Funded Expansion
+SUNPHARMA,Healthcare,2014.0,2015,Externally Funded Expansion,Self-Funded Reinvestor,SUNPHARMA changed from Externally Funded Expansion to Self-Funded Reinvestor
+SUNPHARMA,Healthcare,2015.0,2016,Self-Funded Reinvestor,Deleverager,SUNPHARMA changed from Self-Funded Reinvestor to Deleverager
+SUNPHARMA,Healthcare,2016.0,2017,Deleverager,Self-Funded Reinvestor,SUNPHARMA changed from Deleverager to Self-Funded Reinvestor
+SUNPHARMA,Healthcare,2019.0,2020,Self-Funded Reinvestor,Deleverager,SUNPHARMA changed from Self-Funded Reinvestor to Deleverager
+SUNPHARMA,Healthcare,2022.0,2023,Deleverager,Externally Funded Expansion,SUNPHARMA changed from Deleverager to Externally Funded Expansion
+SUNPHARMA,Healthcare,2023.0,2024,Externally Funded Expansion,Deleverager,SUNPHARMA changed from Externally Funded Expansion to Deleverager
+TATACONSUM,Consumer Staples,2013.0,2014,Cash Accumulator,Self-Funded Reinvestor,TATACONSUM changed from Cash Accumulator to Self-Funded Reinvestor
+TATACONSUM,Consumer Staples,2014.0,2015,Self-Funded Reinvestor,Deleverager,TATACONSUM changed from Self-Funded Reinvestor to Deleverager
+TATACONSUM,Consumer Staples,2015.0,2016,Deleverager,Cash Distributor,TATACONSUM changed from Deleverager to Cash Distributor
+TATACONSUM,Consumer Staples,2016.0,2017,Cash Distributor,Deleverager,TATACONSUM changed from Cash Distributor to Deleverager
+TATACONSUM,Consumer Staples,2017.0,2018,Deleverager,Self-Funded Reinvestor,TATACONSUM changed from Deleverager to Self-Funded Reinvestor
+TATACONSUM,Consumer Staples,2018.0,2019,Self-Funded Reinvestor,Cash Distributor,TATACONSUM changed from Self-Funded Reinvestor to Cash Distributor
+TATACONSUM,Consumer Staples,2019.0,2020,Cash Distributor,Self-Funded Reinvestor,TATACONSUM changed from Cash Distributor to Self-Funded Reinvestor
+TATACONSUM,Consumer Staples,2021.0,2022,Self-Funded Reinvestor,Deleverager,TATACONSUM changed from Self-Funded Reinvestor to Deleverager
+TATACONSUM,Consumer Staples,2022.0,2023,Deleverager,Self-Funded Reinvestor,TATACONSUM changed from Deleverager to Self-Funded Reinvestor
+TATACONSUM,Consumer Staples,2023.0,2024,Self-Funded Reinvestor,Externally Funded Expansion,TATACONSUM changed from Self-Funded Reinvestor to Externally Funded Expansion
+TATAMOTORS,Consumer Discretionary,2014.0,2015,Self-Funded Reinvestor,Externally Funded Expansion,TATAMOTORS changed from Self-Funded Reinvestor to Externally Funded Expansion
+TATAMOTORS,Consumer Discretionary,2015.0,2016,Externally Funded Expansion,Deleverager,TATAMOTORS changed from Externally Funded Expansion to Deleverager
+TATAMOTORS,Consumer Discretionary,2016.0,2017,Deleverager,Externally Funded Expansion,TATAMOTORS changed from Deleverager to Externally Funded Expansion
+TATAMOTORS,Consumer Discretionary,2021.0,2022,Externally Funded Expansion,Self-Funded Reinvestor,TATAMOTORS changed from Externally Funded Expansion to Self-Funded Reinvestor
+TATAMOTORS,Consumer Discretionary,2022.0,2023,Self-Funded Reinvestor,Deleverager,TATAMOTORS changed from Self-Funded Reinvestor to Deleverager
+TATAPOWER,Energy,2015.0,2016,Self-Funded Reinvestor,Deleverager,TATAPOWER changed from Self-Funded Reinvestor to Deleverager
+TATAPOWER,Energy,2016.0,2017,Deleverager,Externally Funded Expansion,TATAPOWER changed from Deleverager to Externally Funded Expansion
+TATAPOWER,Energy,2017.0,2018,Externally Funded Expansion,Deleverager,TATAPOWER changed from Externally Funded Expansion to Deleverager
+TATAPOWER,Energy,2019.0,2020,Deleverager,Self-Funded Reinvestor,TATAPOWER changed from Deleverager to Self-Funded Reinvestor
+TATAPOWER,Energy,2020.0,2021,Self-Funded Reinvestor,Deleverager,TATAPOWER changed from Self-Funded Reinvestor to Deleverager
+TATAPOWER,Energy,2021.0,2022,Deleverager,Self-Funded Reinvestor,TATAPOWER changed from Deleverager to Self-Funded Reinvestor
+TATAPOWER,Energy,2022.0,2023,Self-Funded Reinvestor,Externally Funded Expansion,TATAPOWER changed from Self-Funded Reinvestor to Externally Funded Expansion
+TATAPOWER,Energy,2023.0,2024,Externally Funded Expansion,Self-Funded Reinvestor,TATAPOWER changed from Externally Funded Expansion to Self-Funded Reinvestor
+TATASTEEL,Materials,2013.0,2014,Self-Funded Reinvestor,Externally Funded Expansion,TATASTEEL changed from Self-Funded Reinvestor to Externally Funded Expansion
+TATASTEEL,Materials,2014.0,2015,Externally Funded Expansion,Deleverager,TATASTEEL changed from Externally Funded Expansion to Deleverager
+TATASTEEL,Materials,2015.0,2016,Deleverager,Self-Funded Reinvestor,TATASTEEL changed from Deleverager to Self-Funded Reinvestor
+TATASTEEL,Materials,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,TATASTEEL changed from Self-Funded Reinvestor to Externally Funded Expansion
+TATASTEEL,Materials,2018.0,2019,Externally Funded Expansion,Self-Funded Reinvestor,TATASTEEL changed from Externally Funded Expansion to Self-Funded Reinvestor
+TATASTEEL,Materials,2020.0,2021,Self-Funded Reinvestor,Deleverager,TATASTEEL changed from Self-Funded Reinvestor to Deleverager
+TATASTEEL,Materials,2022.0,2023,Deleverager,Self-Funded Reinvestor,TATASTEEL changed from Deleverager to Self-Funded Reinvestor
+TCS,Information Technology,2013.0,2014,Self-Funded Reinvestor,Deleverager,TCS changed from Self-Funded Reinvestor to Deleverager
+TCS,Information Technology,2014.0,2015,Deleverager,Self-Funded Reinvestor,TCS changed from Deleverager to Self-Funded Reinvestor
+TCS,Information Technology,2015.0,2016,Self-Funded Reinvestor,Deleverager,TCS changed from Self-Funded Reinvestor to Deleverager
+TCS,Information Technology,2016.0,2017,Deleverager,Self-Funded Reinvestor,TCS changed from Deleverager to Self-Funded Reinvestor
+TCS,Information Technology,2017.0,2018,Self-Funded Reinvestor,Deleverager,TCS changed from Self-Funded Reinvestor to Deleverager
+TCS,Information Technology,2019.0,2020,Deleverager,Cash Distributor,TCS changed from Deleverager to Cash Distributor
+TCS,Information Technology,2020.0,2021,Cash Distributor,Deleverager,TCS changed from Cash Distributor to Deleverager
+TCS,Information Technology,2021.0,2022,Deleverager,Self-Funded Reinvestor,TCS changed from Deleverager to Self-Funded Reinvestor
+TCS,Information Technology,2022.0,2023,Self-Funded Reinvestor,Deleverager,TCS changed from Self-Funded Reinvestor to Deleverager
+TCS,Information Technology,2023.0,2024,Deleverager,Cash Distributor,TCS changed from Deleverager to Cash Distributor
+TECHM,Information Technology,2013.0,2014,Externally Funded Expansion,Deleverager,TECHM changed from Externally Funded Expansion to Deleverager
+TECHM,Information Technology,2014.0,2015,Deleverager,Self-Funded Reinvestor,TECHM changed from Deleverager to Self-Funded Reinvestor
+TECHM,Information Technology,2018.0,2019,Self-Funded Reinvestor,Deleverager,TECHM changed from Self-Funded Reinvestor to Deleverager
+TECHM,Information Technology,2019.0,2020,Deleverager,Cash Distributor,TECHM changed from Deleverager to Cash Distributor
+TECHM,Information Technology,2020.0,2021,Cash Distributor,Deleverager,TECHM changed from Cash Distributor to Deleverager
+TECHM,Information Technology,2022.0,2023,Deleverager,Self-Funded Reinvestor,TECHM changed from Deleverager to Self-Funded Reinvestor
+TECHM,Information Technology,2023.0,2024,Self-Funded Reinvestor,Deleverager,TECHM changed from Self-Funded Reinvestor to Deleverager
+TITAN,Consumer Discretionary,2013.0,2014,Self-Funded Reinvestor,Distress Signal,TITAN changed from Self-Funded Reinvestor to Distress Signal
+TITAN,Consumer Discretionary,2014.0,2015,Distress Signal,Deleverager,TITAN changed from Distress Signal to Deleverager
+TITAN,Consumer Discretionary,2015.0,2016,Deleverager,Self-Funded Reinvestor,TITAN changed from Deleverager to Self-Funded Reinvestor
+TITAN,Consumer Discretionary,2017.0,2018,Self-Funded Reinvestor,Cash Burn,TITAN changed from Self-Funded Reinvestor to Cash Burn
+TITAN,Consumer Discretionary,2018.0,2019,Cash Burn,Self-Funded Reinvestor,TITAN changed from Cash Burn to Self-Funded Reinvestor
+TITAN,Consumer Discretionary,2019.0,2020,Self-Funded Reinvestor,Cash Burn,TITAN changed from Self-Funded Reinvestor to Cash Burn
+TITAN,Consumer Discretionary,2020.0,2021,Cash Burn,Self-Funded Reinvestor,TITAN changed from Cash Burn to Self-Funded Reinvestor
+TITAN,Consumer Discretionary,2021.0,2022,Self-Funded Reinvestor,Cash Burn,TITAN changed from Self-Funded Reinvestor to Cash Burn
+TITAN,Consumer Discretionary,2022.0,2023,Cash Burn,Externally Funded Expansion,TITAN changed from Cash Burn to Externally Funded Expansion
+TITAN,Consumer Discretionary,2023.0,2024,Externally Funded Expansion,Self-Funded Reinvestor,TITAN changed from Externally Funded Expansion to Self-Funded Reinvestor
+TORNTPHARM,Healthcare,2015.0,2016,Externally Funded Expansion,Deleverager,TORNTPHARM changed from Externally Funded Expansion to Deleverager
+TORNTPHARM,Healthcare,2016.0,2017,Deleverager,Self-Funded Reinvestor,TORNTPHARM changed from Deleverager to Self-Funded Reinvestor
+TORNTPHARM,Healthcare,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,TORNTPHARM changed from Self-Funded Reinvestor to Externally Funded Expansion
+TORNTPHARM,Healthcare,2018.0,2019,Externally Funded Expansion,Deleverager,TORNTPHARM changed from Externally Funded Expansion to Deleverager
+TORNTPHARM,Healthcare,2022.0,2023,Deleverager,Externally Funded Expansion,TORNTPHARM changed from Deleverager to Externally Funded Expansion
+TORNTPHARM,Healthcare,2023.0,2024,Externally Funded Expansion,Deleverager,TORNTPHARM changed from Externally Funded Expansion to Deleverager
+TRENT,Consumer Discretionary,2013.0,2014,Externally Funded Expansion,Cash Burn,TRENT changed from Externally Funded Expansion to Cash Burn
+TRENT,Consumer Discretionary,2014.0,2015,Cash Burn,Distress Signal,TRENT changed from Cash Burn to Distress Signal
+TRENT,Consumer Discretionary,2015.0,2016,Distress Signal,Self-Funded Reinvestor,TRENT changed from Distress Signal to Self-Funded Reinvestor
+TRENT,Consumer Discretionary,2016.0,2017,Self-Funded Reinvestor,Deleverager,TRENT changed from Self-Funded Reinvestor to Deleverager
+TRENT,Consumer Discretionary,2018.0,2019,Deleverager,Externally Funded Expansion,TRENT changed from Deleverager to Externally Funded Expansion
+TRENT,Consumer Discretionary,2020.0,2021,Externally Funded Expansion,Cash Distributor,TRENT changed from Externally Funded Expansion to Cash Distributor
+TRENT,Consumer Discretionary,2022.0,2023,Cash Distributor,Deleverager,TRENT changed from Cash Distributor to Deleverager
+TVSMOTOR,Consumer Discretionary,2013.0,2014,Self-Funded Reinvestor,Deleverager,TVSMOTOR changed from Self-Funded Reinvestor to Deleverager
+TVSMOTOR,Consumer Discretionary,2014.0,2015,Deleverager,Externally Funded Expansion,TVSMOTOR changed from Deleverager to Externally Funded Expansion
+TVSMOTOR,Consumer Discretionary,2015.0,2016,Externally Funded Expansion,Deleverager,TVSMOTOR changed from Externally Funded Expansion to Deleverager
+TVSMOTOR,Consumer Discretionary,2016.0,2017,Deleverager,Self-Funded Reinvestor,TVSMOTOR changed from Deleverager to Self-Funded Reinvestor
+TVSMOTOR,Consumer Discretionary,2017.0,2018,Self-Funded Reinvestor,Externally Funded Expansion,TVSMOTOR changed from Self-Funded Reinvestor to Externally Funded Expansion
+TVSMOTOR,Consumer Discretionary,2018.0,2019,Externally Funded Expansion,Distress Signal,TVSMOTOR changed from Externally Funded Expansion to Distress Signal
+TVSMOTOR,Consumer Discretionary,2019.0,2020,Distress Signal,Externally Funded Expansion,TVSMOTOR changed from Distress Signal to Externally Funded Expansion
+TVSMOTOR,Consumer Discretionary,2021.0,2022,Externally Funded Expansion,Distress Signal,TVSMOTOR changed from Externally Funded Expansion to Distress Signal

@@ -1,0 +1,110 @@
+﻿company_id,company_name,pro_count,con_count,coverage_status
+ABB,Abbott India Ltd,5,1,PASS
+ADANIENSOL,Adani Energy Solutions Ltd,1,5,PASS
+ADANIENT,Adani Enterprises Ltd,5,1,PASS
+ADANIGREEN,Adani Green Energy Ltd,2,2,PASS
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",2,1,PASS
+ADANIPOWER,Adani Power Ltd,5,1,PASS
+AMBUJACEM,Ambuja Cements Ltd,2,2,PASS
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",4,1,PASS
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",3,1,PASS
+ATGL,Adani Total Gas Ltd,2,1,PASS
+AXISBANK,Axis Bank Ltd,4,3,PASS
+BAJAJ-AUTO,Bajaj Auto Ltd,3,1,PASS
+BAJAJFINSV,Bajaj Finserv Ltd,6,3,PASS
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,6,1,PASS
+BAJFINANCE,Bajaj Finance Ltd,6,2,PASS
+BANKBARODA,Bank of Baroda,5,3,PASS
+BEL,Bharat Electronics Ltd,5,1,PASS
+BHARTIARTL,Bharti Airtel Ltd,1,1,PASS
+BHEL,"Bharat Heavy Electricals Limited
+",1,4,PASS
+BOSCHLTD,Bosch Ltd,7,1,PASS
+BPCL,Bharat Petroleum Corporation Ltd,4,1,PASS
+BRITANNIA,Britannia Industries Ltd,3,1,PASS
+CANBK,Canara Bank,2,2,PASS
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,6,3,PASS
+CIPLA,"Cipla Ltd
+",7,1,PASS
+COALINDIA,Coal India Ltd,6,1,PASS
+DABUR,Dabur India Ltd,2,1,PASS
+DIVISLAB,Divis Laboratories Ltd,2,1,PASS
+DLF,DLF Ltd,4,2,PASS
+DMART,Avenue Supermarts Ltd,3,1,PASS
+DRREDDY,Dr Reddys Laboratories Ltd,7,1,PASS
+EICHERMOT,Eicher Motors Ltd,7,1,PASS
+GAIL,GAIL (India) Ltd,2,1,PASS
+GODREJCP,Godrej Consumer Products Ltd,1,1,PASS
+GRASIM,Grasim Industries Ltd,1,4,PASS
+HAL,Hindustan Aeronautics Ltd,6,1,PASS
+HAVELLS,Havells India Ltd,2,1,PASS
+HCLTECH,HCL Technologies Ltd,4,1,PASS
+HDFCBANK,HDFC Bank Ltd,2,4,PASS
+HDFCLIFE,HDFC Life Insurance Company Ltd,4,1,PASS
+HEROMOTOCO,"Hero MotoCorp Ltd
+",5,1,PASS
+HINDALCO,Hindalco Industries Ltd,5,1,PASS
+HINDUNILVR,"Hindustan Unilever Ltd
+",4,1,PASS
+ICICIBANK,ICICI Bank Ltd,5,3,PASS
+ICICIGI,ICICI Lombard General Insurance Company Ltd,6,1,PASS
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,4,1,PASS
+INDIGO,Interglobe Aviation Ltd,5,1,PASS
+INDUSINDBK,IndusInd Bank Ltd,3,2,PASS
+INFY,Infosys Ltd,3,1,PASS
+IOC,"Indian Oil Corporation
+",1,1,PASS
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,6,1,PASS
+IRFC,Indian Railway Finance Corporation Ltd,3,3,PASS
+ITC,"ITC Ltd
+",4,1,PASS
+JINDALSTEL,Jindal Steel & Power Ltd,1,1,PASS
+JIOFIN,Jio Financial Services Ltd,3,2,PASS
+JSWENERGY,JSW Energy Ltd,3,3,PASS
+JSWSTEEL,JSW Steel Ltd,1,1,PASS
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",4,4,PASS
+LICI,Life Insurance Corporation of India,6,1,PASS
+LODHA,Macrotech Developers Ltd,4,1,PASS
+LT,Larsen & Toubro Ltd,2,2,PASS
+LTIM,LTIMindtree Ltd,5,1,PASS
+M&M,"Mahindra & Mahindra Ltd
+",1,1,PASS
+MARUTI,Maruti Suzuki India Ltd,5,1,PASS
+MOTHERSON,Samvardhana Motherson International Ltd,5,1,PASS
+NAUKRI,Info Edge (India) Ltd,3,1,PASS
+NESTLEIND,Nestle India Ltd,4,1,PASS
+NHPC,"NHPC Ltd
+",4,4,PASS
+NTPC,NTPC Ltd,2,1,PASS
+ONGC,Oil & Natural Gas Corpn Ltd,5,1,PASS
+PFC,Power Finance Corporation Ltd,5,3,PASS
+PIDILITIND,Pidilite Industries Ltd,2,1,PASS
+PNB,Punjab National Bank,5,2,PASS
+POWERGRID,Power Grid Corporation of India Ltd,4,1,PASS
+RECLTD,REC Ltd,4,2,PASS
+RELIANCE,"Reliance Industries Ltd
+",2,1,PASS
+SBILIFE,SBI Life Insurance Company Ltd,3,1,PASS
+SBIN,State Bank of India,3,1,PASS
+SHREECEM,Shree Cement Ltd,1,1,PASS
+SHRIRAMFIN,"Shriram Finance Ltd
+",6,3,PASS
+SIEMENS,Siemens Ltd,4,1,PASS
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,6,1,PASS
+TATACONSUM,Tata Consumer Products Ltd,6,1,PASS
+TATAMOTORS,Tata Motors Ltd,2,1,PASS
+TATAPOWER,"Tata Power Company Ltd
+",4,1,PASS
+TATASTEEL,"Tata Steel Ltd
+",2,3,PASS
+TCS,Tata Consultancy Services Ltd,5,1,PASS
+TECHM,Tech Mahindra Ltd,2,1,PASS
+TITAN,"Titan Company Ltd
+",4,1,PASS
+TORNTPHARM,Torrent Pharmaceuticals Ltd,5,1,PASS
+TRENT,Trent Ltd,5,1,PASS
+TVSMOTOR,TVS Motor Company Ltd,6,3,PASS

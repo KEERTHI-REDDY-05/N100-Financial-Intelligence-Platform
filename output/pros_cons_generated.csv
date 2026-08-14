@@ -1,0 +1,492 @@
+﻿company_id,type,rule_id,text,confidence_pct
+ABB,con,CON_FALLBACK,Five-year revenue growth of approximately 8.2% remains an area to monitor relative to higher-growth companies.,61
+ABB,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+ABB,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,88
+ABB,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,79
+ABB,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,65
+ABB,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,64
+ADANIENSOL,con,CON_09,Earnings per share declining for 3 consecutive years reflects deteriorating profitability.,94
+ADANIENSOL,con,CON_03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure.,84
+ADANIENSOL,con,CON_11,Net debt of approximately 4.36 times EBITDA represents high leverage and limits financial flexibility.,81
+ADANIENSOL,con,CON_01,Debt-to-equity ratio of 2.93 is elevated for a non-financial company and warrants monitoring.,72
+ADANIENSOL,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,69
+ADANIENSOL,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,70
+ADANIENT,con,CON_11,Net debt of approximately 3.75 times EBITDA represents high leverage and limits financial flexibility.,76
+ADANIENT,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,92
+ADANIENT,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,92
+ADANIENT,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+ADANIENT,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,73
+ADANIENT,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,69
+ADANIGREEN,con,CON_11,Net debt of approximately 6.22 times EBITDA represents high leverage and limits financial flexibility.,96
+ADANIGREEN,con,CON_01,Debt-to-equity ratio of 6.60 is elevated for a non-financial company and warrants monitoring.,95
+ADANIGREEN,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,92
+ADANIGREEN,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+ADANIPORTS,con,CON_FALLBACK,Five-year revenue growth of approximately 6.4% remains an area to monitor relative to higher-growth companies.,61
+ADANIPORTS,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+ADANIPORTS,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,74
+ADANIPOWER,con,CON_FALLBACK,Debt-to-equity of 0.80 should be monitored for any future increase in leverage.,61
+ADANIPOWER,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+ADANIPOWER,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+ADANIPOWER,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,91
+ADANIPOWER,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,82
+ADANIPOWER,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,63
+AMBUJACEM,con,CON_05,Revenue contraction over 2 consecutive years indicates demand weakness or market share loss.,82
+AMBUJACEM,con,CON_12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum.,66
+AMBUJACEM,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,80
+AMBUJACEM,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,68
+APOLLOHOSP,con,CON_FALLBACK,Five-year revenue growth of approximately 12.7% remains an area to monitor relative to higher-growth companies.,61
+APOLLOHOSP,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,83
+APOLLOHOSP,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,82
+APOLLOHOSP,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,69
+APOLLOHOSP,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,67
+ASIANPAINT,con,CON_FALLBACK,Five-year revenue growth of approximately 11.5% remains an area to monitor relative to higher-growth companies.,61
+ASIANPAINT,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+ASIANPAINT,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,90
+ASIANPAINT,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,84
+ATGL,con,CON_FALLBACK,Latest operating margin of 24.0% remains below the strong pricing-power threshold of 25%.,61
+ATGL,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,74
+ATGL,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,69
+AXISBANK,con,CON_11,Net debt of approximately 29.06 times EBITDA represents high leverage and limits financial flexibility.,96
+AXISBANK,con,CON_03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure.,93
+AXISBANK,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,75
+AXISBANK,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+AXISBANK,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,92
+AXISBANK,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,92
+AXISBANK,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+BAJAJ-AUTO,con,CON_FALLBACK,Five-year revenue growth of approximately 10.3% remains an area to monitor relative to higher-growth companies.,61
+BAJAJ-AUTO,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+BAJAJ-AUTO,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+BAJAJ-AUTO,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,78
+BAJAJFINSV,con,CON_11,Net debt of approximately 6.21 times EBITDA represents high leverage and limits financial flexibility.,96
+BAJAJFINSV,con,CON_02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality.,93
+BAJAJFINSV,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,75
+BAJAJFINSV,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,78
+BAJAJFINSV,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,77
+BAJAJFINSV,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,70
+BAJAJFINSV,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,70
+BAJAJFINSV,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,69
+BAJAJFINSV,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,66
+BAJAJHLDNG,con,CON_FALLBACK,Latest return on equity of 13.6% remains below the exceptional 20% level and should be monitored.,61
+BAJAJHLDNG,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+BAJAJHLDNG,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,92
+BAJAJHLDNG,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+BAJAJHLDNG,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,76
+BAJAJHLDNG,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,71
+BAJAJHLDNG,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,69
+BAJFINANCE,con,CON_11,Net debt of approximately 14.87 times EBITDA represents high leverage and limits financial flexibility.,96
+BAJFINANCE,con,CON_02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality.,93
+BAJFINANCE,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+BAJFINANCE,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+BAJFINANCE,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,74
+BAJFINANCE,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,72
+BAJFINANCE,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,69
+BAJFINANCE,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,68
+BANKBARODA,con,CON_11,Net debt of approximately 31.29 times EBITDA represents high leverage and limits financial flexibility.,96
+BANKBARODA,con,CON_03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure.,93
+BANKBARODA,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,77
+BANKBARODA,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+BANKBARODA,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,92
+BANKBARODA,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,92
+BANKBARODA,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+BANKBARODA,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,77
+BEL,con,CON_FALLBACK,Five-year revenue growth of approximately 10.7% remains an area to monitor relative to higher-growth companies.,61
+BEL,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+BEL,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+BEL,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,91
+BEL,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,81
+BEL,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,64
+BHARTIARTL,con,CON_01,Debt-to-equity ratio of 2.61 is elevated for a non-financial company and warrants monitoring.,70
+BHARTIARTL,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+BHEL,con,CON_11,Net debt of approximately 6.82 times EBITDA represents high leverage and limits financial flexibility.,96
+BHEL,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,86
+BHEL,con,CON_12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum.,67
+BHEL,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,66
+BHEL,pro,PRO_FALLBACK,The company remained profitable in the latest available financial year.,61
+BOSCHLTD,con,CON_FALLBACK,Five-year revenue growth of approximately 11.7% remains an area to monitor relative to higher-growth companies.,61
+BOSCHLTD,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+BOSCHLTD,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,91
+BOSCHLTD,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,84
+BOSCHLTD,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,82
+BOSCHLTD,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,79
+BOSCHLTD,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,72
+BOSCHLTD,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,71
+BPCL,con,CON_05,Revenue contraction over 2 consecutive years indicates demand weakness or market share loss.,72
+BPCL,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,92
+BPCL,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+BPCL,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,77
+BPCL,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,66
+BRITANNIA,con,CON_FALLBACK,Five-year revenue growth of approximately 8.3% remains an area to monitor relative to higher-growth companies.,61
+BRITANNIA,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+BRITANNIA,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,73
+BRITANNIA,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,63
+CANBK,con,CON_11,Net debt of approximately 28.52 times EBITDA represents high leverage and limits financial flexibility.,96
+CANBK,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,76
+CANBK,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,79
+CANBK,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,70
+CHOLAFIN,con,CON_11,Net debt of approximately 20.09 times EBITDA represents high leverage and limits financial flexibility.,96
+CHOLAFIN,con,CON_02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality.,93
+CHOLAFIN,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,78
+CHOLAFIN,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+CHOLAFIN,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,83
+CHOLAFIN,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,79
+CHOLAFIN,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,76
+CHOLAFIN,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,74
+CHOLAFIN,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,74
+CIPLA,con,CON_FALLBACK,Five-year revenue growth of approximately 9.5% remains an area to monitor relative to higher-growth companies.,61
+CIPLA,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,92
+CIPLA,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+CIPLA,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+CIPLA,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,85
+CIPLA,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,80
+CIPLA,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,73
+CIPLA,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,72
+COALINDIA,con,CON_FALLBACK,Five-year revenue growth of approximately 7.9% remains an area to monitor relative to higher-growth companies.,61
+COALINDIA,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+COALINDIA,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+COALINDIA,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+COALINDIA,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,77
+COALINDIA,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,66
+COALINDIA,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,63
+DABUR,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,63
+DABUR,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,85
+DABUR,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,76
+DIVISLAB,con,CON_FALLBACK,Five-year revenue growth of approximately 9.8% remains an area to monitor relative to higher-growth companies.,61
+DIVISLAB,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+DIVISLAB,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,70
+DLF,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,79
+DLF,con,CON_12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum.,69
+DLF,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+DLF,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,71
+DLF,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,69
+DLF,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,65
+DMART,con,CON_FALLBACK,Latest return on equity of 13.6% remains below the exceptional 20% level and should be monitored.,61
+DMART,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+DMART,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,68
+DMART,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,63
+DRREDDY,con,CON_FALLBACK,Five-year revenue growth of approximately 12.3% remains an area to monitor relative to higher-growth companies.,61
+DRREDDY,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+DRREDDY,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,89
+DRREDDY,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,81
+DRREDDY,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,80
+DRREDDY,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,72
+DRREDDY,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,65
+DRREDDY,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,65
+EICHERMOT,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,63
+EICHERMOT,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+EICHERMOT,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,81
+EICHERMOT,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,80
+EICHERMOT,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,72
+EICHERMOT,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,70
+EICHERMOT,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,67
+EICHERMOT,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,64
+GAIL,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,65
+GAIL,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,76
+GAIL,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,68
+GODREJCP,con,CON_04,The company reported a net loss in the most recent financial year.,85
+GODREJCP,pro,PRO_FALLBACK,The latest operating margin of 21.0% provides a positive signal about operating performance.,61
+GRASIM,con,CON_09,Earnings per share declining for 3 consecutive years reflects deteriorating profitability.,94
+GRASIM,con,CON_11,Net debt of approximately 4.16 times EBITDA represents high leverage and limits financial flexibility.,79
+GRASIM,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,71
+GRASIM,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,68
+GRASIM,pro,PRO_FALLBACK,The company remained profitable in the latest available financial year.,61
+HAL,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,71
+HAL,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+HAL,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+HAL,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+HAL,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,77
+HAL,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,72
+HAL,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,69
+HAVELLS,con,CON_FALLBACK,Latest return on equity of 17.1% remains below the exceptional 20% level and should be monitored.,61
+HAVELLS,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,77
+HAVELLS,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,66
+HCLTECH,con,CON_FALLBACK,Five-year revenue growth of approximately 10.3% remains an area to monitor relative to higher-growth companies.,61
+HCLTECH,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+HCLTECH,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+HCLTECH,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,75
+HCLTECH,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,65
+HDFCBANK,con,CON_11,Net debt of approximately 15.08 times EBITDA represents high leverage and limits financial flexibility.,96
+HDFCBANK,con,CON_03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure.,93
+HDFCBANK,con,CON_06,Interest coverage ratio below 1.5x indicates risk in meeting debt obligations.,73
+HDFCBANK,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,73
+HDFCBANK,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,76
+HDFCBANK,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,64
+HDFCLIFE,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,76
+HDFCLIFE,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+HDFCLIFE,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+HDFCLIFE,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,88
+HDFCLIFE,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,67
+HEROMOTOCO,con,CON_FALLBACK,Five-year revenue growth of approximately 6.5% remains an area to monitor relative to higher-growth companies.,61
+HEROMOTOCO,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+HEROMOTOCO,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+HEROMOTOCO,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+HEROMOTOCO,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,77
+HEROMOTOCO,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,76
+HINDALCO,con,CON_FALLBACK,Five-year revenue growth of approximately 13.7% remains an area to monitor relative to higher-growth companies.,61
+HINDALCO,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+HINDALCO,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+HINDALCO,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,89
+HINDALCO,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,80
+HINDALCO,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,73
+HINDUNILVR,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,63
+HINDUNILVR,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+HINDUNILVR,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+HINDUNILVR,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+HINDUNILVR,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,62
+ICICIBANK,con,CON_11,Net debt of approximately 13.13 times EBITDA represents high leverage and limits financial flexibility.,96
+ICICIBANK,con,CON_06,Interest coverage ratio below 1.5x indicates risk in meeting debt obligations.,74
+ICICIBANK,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,73
+ICICIBANK,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,92
+ICICIBANK,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+ICICIBANK,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,86
+ICICIBANK,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,70
+ICICIBANK,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,65
+ICICIGI,con,CON_FALLBACK,Latest return on equity of 15.7% remains below the exceptional 20% level and should be monitored.,61
+ICICIGI,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+ICICIGI,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+ICICIGI,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,81
+ICICIGI,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,72
+ICICIGI,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,64
+ICICIGI,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,62
+ICICIPRULI,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,70
+ICICIPRULI,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,92
+ICICIPRULI,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+ICICIPRULI,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,82
+ICICIPRULI,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,74
+INDIGO,con,CON_FALLBACK,Debt-to-equity of 0.02 should be monitored for any future increase in leverage.,61
+INDIGO,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+INDIGO,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+INDIGO,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,91
+INDIGO,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,75
+INDIGO,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,65
+INDUSINDBK,con,CON_11,Net debt of approximately 21.51 times EBITDA represents high leverage and limits financial flexibility.,96
+INDUSINDBK,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,72
+INDUSINDBK,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+INDUSINDBK,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,72
+INDUSINDBK,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,65
+INFY,con,CON_FALLBACK,Five-year revenue growth of approximately 12.0% remains an area to monitor relative to higher-growth companies.,61
+INFY,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+INFY,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+INFY,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,87
+IOC,con,CON_05,Revenue contraction over 2 consecutive years indicates demand weakness or market share loss.,76
+IOC,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,65
+IRCTC,con,CON_FALLBACK,Five-year revenue growth of approximately 14.5% remains an area to monitor relative to higher-growth companies.,61
+IRCTC,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+IRCTC,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+IRCTC,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,77
+IRCTC,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,76
+IRCTC,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,70
+IRCTC,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,70
+IRFC,con,CON_11,Net debt of approximately 15.40 times EBITDA represents high leverage and limits financial flexibility.,96
+IRFC,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,79
+IRFC,con,CON_06,Interest coverage ratio below 1.5x indicates risk in meeting debt obligations.,74
+IRFC,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+IRFC,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,67
+IRFC,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,63
+ITC,con,CON_FALLBACK,Five-year revenue growth of approximately 8.8% remains an area to monitor relative to higher-growth companies.,61
+ITC,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+ITC,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+ITC,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,81
+ITC,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,77
+JINDALSTEL,con,CON_05,Revenue contraction over 2 consecutive years indicates demand weakness or market share loss.,72
+JINDALSTEL,pro,PRO_FALLBACK,The company remained profitable in the latest available financial year.,61
+JIOFIN,con,CON_03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure.,93
+JIOFIN,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,90
+JIOFIN,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+JIOFIN,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+JIOFIN,pro,PRO_03,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,88
+JSWENERGY,con,CON_11,Net debt of approximately 4.53 times EBITDA represents high leverage and limits financial flexibility.,82
+JSWENERGY,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,78
+JSWENERGY,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,70
+JSWENERGY,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+JSWENERGY,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,77
+JSWENERGY,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,75
+JSWSTEEL,con,CON_FALLBACK,Latest return on equity of 11.6% remains below the exceptional 20% level and should be monitored.,61
+JSWSTEEL,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,69
+KOTAKBANK,con,CON_11,Net debt of approximately 10.23 times EBITDA represents high leverage and limits financial flexibility.,96
+KOTAKBANK,con,CON_03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure.,93
+KOTAKBANK,con,CON_06,Interest coverage ratio below 1.5x indicates risk in meeting debt obligations.,75
+KOTAKBANK,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,72
+KOTAKBANK,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,77
+KOTAKBANK,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,70
+KOTAKBANK,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,66
+KOTAKBANK,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,64
+LICI,con,CON_FALLBACK,Five-year revenue growth of approximately 7.4% remains an area to monitor relative to higher-growth companies.,61
+LICI,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+LICI,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,92
+LICI,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+LICI,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,91
+LICI,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,88
+LICI,pro,PRO_03,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,88
+LODHA,con,CON_12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum.,73
+LODHA,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+LODHA,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,74
+LODHA,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,73
+LODHA,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,66
+LT,con,CON_03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure.,69
+LT,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,64
+LT,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+LT,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,72
+LTIM,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,64
+LTIM,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,92
+LTIM,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,88
+LTIM,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,83
+LTIM,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,80
+LTIM,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,69
+M&M,con,CON_11,Net debt of approximately 3.37 times EBITDA represents high leverage and limits financial flexibility.,73
+M&M,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,92
+MARUTI,con,CON_FALLBACK,Five-year revenue growth of approximately 13.9% remains an area to monitor relative to higher-growth companies.,61
+MARUTI,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+MARUTI,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+MARUTI,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,80
+MARUTI,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,74
+MARUTI,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,68
+MOTHERSON,con,CON_FALLBACK,Five-year revenue growth of approximately 12.5% remains an area to monitor relative to higher-growth companies.,61
+MOTHERSON,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+MOTHERSON,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,89
+MOTHERSON,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,76
+MOTHERSON,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,75
+MOTHERSON,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,71
+NAUKRI,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,85
+NAUKRI,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,80
+NAUKRI,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,66
+NAUKRI,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,62
+NESTLEIND,con,CON_FALLBACK,Five-year revenue growth of approximately 8.2% remains an area to monitor relative to higher-growth companies.,61
+NESTLEIND,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+NESTLEIND,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+NESTLEIND,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,90
+NESTLEIND,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,65
+NHPC,con,CON_11,Net debt of approximately 5.26 times EBITDA represents high leverage and limits financial flexibility.,88
+NHPC,con,CON_12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum.,80
+NHPC,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,73
+NHPC,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,64
+NHPC,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+NHPC,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,89
+NHPC,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,66
+NHPC,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,64
+NTPC,con,CON_11,Net debt of approximately 3.42 times EBITDA represents high leverage and limits financial flexibility.,73
+NTPC,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,67
+NTPC,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,66
+ONGC,con,CON_FALLBACK,Five-year revenue growth of approximately 10.7% remains an area to monitor relative to higher-growth companies.,61
+ONGC,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+ONGC,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+ONGC,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,84
+ONGC,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,77
+ONGC,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,66
+PFC,con,CON_11,Net debt of approximately 24.07 times EBITDA represents high leverage and limits financial flexibility.,96
+PFC,con,CON_06,Interest coverage ratio below 1.5x indicates risk in meeting debt obligations.,83
+PFC,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,66
+PFC,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+PFC,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,80
+PFC,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,78
+PFC,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,75
+PFC,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,69
+PIDILITIND,con,CON_FALLBACK,Five-year revenue growth of approximately 12.1% remains an area to monitor relative to higher-growth companies.,61
+PIDILITIND,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+PIDILITIND,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,71
+PNB,con,CON_02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality.,93
+PNB,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,91
+PNB,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+PNB,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,92
+PNB,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,92
+PNB,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+PNB,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,64
+POWERGRID,con,CON_12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum.,66
+POWERGRID,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+POWERGRID,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+POWERGRID,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,69
+POWERGRID,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,67
+RECLTD,con,CON_11,Net debt of approximately 8.76 times EBITDA represents high leverage and limits financial flexibility.,96
+RECLTD,con,CON_02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality.,93
+RECLTD,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,92
+RECLTD,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,88
+RECLTD,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,76
+RECLTD,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,69
+RELIANCE,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,67
+RELIANCE,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,73
+RELIANCE,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,68
+SBILIFE,con,CON_FALLBACK,Latest return on equity of 12.7% remains below the exceptional 20% level and should be monitored.,61
+SBILIFE,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+SBILIFE,pro,PRO_03,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,88
+SBILIFE,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,81
+SBIN,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,78
+SBIN,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+SBIN,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,84
+SBIN,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,75
+SHREECEM,con,CON_FALLBACK,Five-year revenue growth of approximately 9.0% remains an area to monitor relative to higher-growth companies.,61
+SHREECEM,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,73
+SHRIRAMFIN,con,CON_11,Net debt of approximately 16.23 times EBITDA represents high leverage and limits financial flexibility.,96
+SHRIRAMFIN,con,CON_02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality.,93
+SHRIRAMFIN,con,CON_06,Interest coverage ratio below 1.5x indicates risk in meeting debt obligations.,82
+SHRIRAMFIN,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,84
+SHRIRAMFIN,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,78
+SHRIRAMFIN,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,72
+SHRIRAMFIN,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,70
+SHRIRAMFIN,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,70
+SHRIRAMFIN,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,68
+SIEMENS,con,CON_FALLBACK,Five-year revenue growth of approximately 11.2% remains an area to monitor relative to higher-growth companies.,61
+SIEMENS,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+SIEMENS,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,79
+SIEMENS,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,72
+SIEMENS,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,69
+SUNPHARMA,con,CON_FALLBACK,Five-year revenue growth of approximately 8.9% remains an area to monitor relative to higher-growth companies.,61
+SUNPHARMA,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+SUNPHARMA,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,87
+SUNPHARMA,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,75
+SUNPHARMA,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,68
+SUNPHARMA,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,65
+SUNPHARMA,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,64
+TATACONSUM,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,65
+TATACONSUM,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,81
+TATACONSUM,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,81
+TATACONSUM,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,77
+TATACONSUM,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,76
+TATACONSUM,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,68
+TATACONSUM,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,63
+TATAMOTORS,con,CON_FALLBACK,Five-year revenue growth of approximately 11.0% remains an area to monitor relative to higher-growth companies.,61
+TATAMOTORS,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,91
+TATAMOTORS,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,71
+TATAPOWER,con,CON_11,Net debt of approximately 3.58 times EBITDA represents high leverage and limits financial flexibility.,75
+TATAPOWER,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,83
+TATAPOWER,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,76
+TATAPOWER,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,73
+TATAPOWER,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,66
+TATASTEEL,con,CON_05,Revenue contraction over 2 consecutive years indicates demand weakness or market share loss.,75
+TATASTEEL,con,CON_10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital.,75
+TATASTEEL,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,67
+TATASTEEL,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+TATASTEEL,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,76
+TCS,con,CON_FALLBACK,Five-year revenue growth of approximately 9.9% remains an area to monitor relative to higher-growth companies.,61
+TCS,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+TCS,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+TCS,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,93
+TCS,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,79
+TCS,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,65
+TECHM,con,CON_07,"Dividend payout ratio above 100% means the company may be paying dividends beyond current earnings, which can be unsustainable.",92
+TECHM,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,96
+TECHM,pro,PRO_07,Very high interest coverage or a debt-free position reflects negligible financial stress from debt servicing.,68
+TITAN,con,CON_08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk.,76
+TITAN,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,90
+TITAN,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,85
+TITAN,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,74
+TITAN,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,65
+TORNTPHARM,con,CON_FALLBACK,Five-year revenue growth of approximately 7.3% remains an area to monitor relative to higher-growth companies.,61
+TORNTPHARM,pro,PRO_02,Strong free cash flow generation over 5 years signals healthy business fundamentals.,92
+TORNTPHARM,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,85
+TORNTPHARM,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,73
+TORNTPHARM,pro,PRO_05,Operating profit margin above 25% indicates strong pricing power and cost discipline.,72
+TORNTPHARM,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,69
+TRENT,con,CON_FALLBACK,Latest operating margin of 16.0% remains below the strong pricing-power threshold of 25%.,61
+TRENT,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,92
+TRENT,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,92
+TRENT,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,92
+TRENT,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,92
+TRENT,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,91
+TVSMOTOR,con,CON_02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality.,93
+TVSMOTOR,con,CON_01,Debt-to-equity ratio of 3.83 is elevated for a non-financial company and warrants monitoring.,80
+TVSMOTOR,con,CON_11,Net debt of approximately 3.60 times EBITDA represents high leverage and limits financial flexibility.,75
+TVSMOTOR,pro,PRO_10,Return on equity improving for 3 consecutive years shows strengthening business quality.,82
+TVSMOTOR,pro,PRO_09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding.,79
+TVSMOTOR,pro,PRO_11,Profits growing faster than revenue demonstrate improving operating leverage and scale benefits.,79
+TVSMOTOR,pro,PRO_06,Net profit compounding at above 20% over 5 years creates significant shareholder value.,72
+TVSMOTOR,pro,PRO_12,Growing asset base with declining debt reflects growth supported by internal accruals.,72
+TVSMOTOR,pro,PRO_04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum.,68
