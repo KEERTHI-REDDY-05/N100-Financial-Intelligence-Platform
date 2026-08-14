@@ -61,39 +61,16 @@ This creates the database tables for companies, financial statements, ratios, se
 
 ## Project Structure
 
-```text
-N100-Financial-Intelligence-Platform/
-|
-|-- data/
-|   |-- n100_financial.db
-|   `-- Excel source datasets
-|
-|-- output/
-|   `-- Generated analytics outputs
-|
-|-- reports/
-|   |-- tearsheets/
-|   |-- sector/
-|   `-- portfolio/
-|
-|-- scripts/
-|   `-- Data processing and utility scripts
-|
-|-- src/
-|   |-- analytics/
-|   |-- api/
-|   |   `-- routers/
-|   |-- dashboard/
-|   |   |-- pages/
-|   |   `-- utils/
-|   |-- nlp/
-|   `-- reports/
-|
-|-- tests/
-|   `-- api/
-|
-|-- API_ENDPOINTS.md
-|-- build_database.py
-|-- check_db.py
-|-- requirements.txt
-`-- README.md
+- `data/` - Source Excel datasets and SQLite financial database
+- `output/` - Generated analytics outputs and portfolio statistics
+- `reports/` - Company tearsheets, sector reports, and portfolio reports
+- `scripts/` - Data processing and utility scripts
+- `src/analytics/` - Financial analytics, valuation, clustering, and KPI logic
+- `src/api/` - FastAPI backend and API routers
+- `src/dashboard/` - Streamlit dashboard, pages, and utilities
+- `src/nlp/` - Annual-report parsing and pros/cons generation
+- `src/reports/` - PDF report generation
+- `tests/` - Automated unit and API tests
+- `API_ENDPOINTS.md` - API endpoint documentation
+- `build_database.py` - Builds the SQLite database from source datasets
+- `requirements.txt` - Python dependencies
