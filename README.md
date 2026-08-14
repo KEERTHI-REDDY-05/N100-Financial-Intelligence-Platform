@@ -21,7 +21,18 @@ The platform includes:
 - Streamlit dashboard
 - REST API using FastAPI
 - Automated API testing
+## Key Features
 
+- Analyze financial statements and key financial ratios across 92 companies.
+- Screen companies using financial and valuation metrics.
+- Compare companies with sector and peer-group benchmarks.
+- Perform relative valuation using P/E, P/B, EV/EBITDA, and dividend yield.
+- Cluster companies based on financial characteristics and portfolio statistics.
+- Generate NLP-based company pros and cons from financial information.
+- Generate automated company tearsheets, sector reports, and portfolio reports in PDF format.
+- Explore financial insights through an interactive Streamlit dashboard.
+- Access company, sector, peer, valuation, portfolio, and document data through FastAPI endpoints.
+- Validate backend functionality using automated Pytest API and unit tests.
 ## Technology Stack
 
 - Python
