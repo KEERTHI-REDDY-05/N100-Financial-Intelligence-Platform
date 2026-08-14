@@ -58,7 +58,31 @@ python build_database.py
 ```
 
 This creates the database tables for companies, financial statements, ratios, sectors, peer groups, valuation data, documents, and pros/cons.
+## Running the Application
 
+### Start the FastAPI Backend
+
+```bash
+python -m uvicorn src.api.main:app --port 8000
+```
+
+API documentation will be available at `http://127.0.0.1:8000/docs`.
+
+### Start the Streamlit Dashboard
+
+Open another terminal and run:
+
+```bash
+python -m streamlit run src/dashboard/app.py
+```
+
+The dashboard will be available at `http://localhost:8501`.
+
+### Run Tests
+
+```bash
+python -m pytest -q
+```
 ## Project Structure
 
 - `data/` - Source Excel datasets and SQLite financial database
